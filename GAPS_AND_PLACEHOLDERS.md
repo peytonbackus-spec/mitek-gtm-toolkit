@@ -11,7 +11,7 @@ Sources for the "Real experience" column: my resume (Sept 2026 version) and thin
 | Salesforce automation, data model, governance (🟪) | ✅ Validation rules, Flows, fields, layouts, reports; CRM hygiene standards at Planful | Object model, Flow spec, DQ rules | — |
 | Lead routing + scoring (🟦) | ✅ Built at Planful and Certa | Scoring, calibration, routing engine | — |
 | Lead lifecycle + SDR process design (🟦) | ✅ SDR leadership at Planful (12) and Certa (5); qualification-based BDR→AE handoff; ramp framework | Lifecycle spec, SLA monitor, capacity model | — |
-| AI-enabled workflows (🟪) | ✅ Certa: Clay signal-driven prospecting, security/RFP automation, AI-assisted account planning | 3 AI workflows with evals, PII guard, HITL | `[CONFIRM]` one measured result to cite (time saved, conversion lift) |
+| AI-enabled workflows (🟪) | ✅ Certa: Clay signal-driven prospecting, security/RFP automation, AI-assisted account planning | 3 AI workflows with evals, PII guard, HITL | Confirmed builds with results in [builder-experience](about/builder-experience.md#ai-and-automation-work-ive-built): ~80% of pipeline from signal-based prospecting; win rate ~10% → ~15%; RFP turnaround 1.5–3 weeks → under 2 days |
 | Clay (🟦) | ✅ Daily use; signal enrichment at Certa; consulting stack | Waterfall spec | — |
 | Hands-on sales engagement platform (🟦 **required**) | ✅ **Outreach**: built the sequencing infrastructure at Certa, daily use | Salesloft cadence architecture spec | Haven't used Salesloft; frame Outreach → Salesloft as same category. Haven't built auto-enrollment; spec says so. |
 | Nooks, Lusha (🟦 preferred) | ✅ Used both | Config specs | — |

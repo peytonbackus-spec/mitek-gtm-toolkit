@@ -32,6 +32,23 @@ Never missed target, as an IC or as a manager.
 
 **What I haven't built:** automated sequence enrollment (rules that auto-enroll leads into cadences). The [Salesloft spec](../gtm_engineer/platform_admin/salesloft-nooks-qualified-salesnav.md) says so and describes how I'd pilot it safely.
 
+## AI and automation work I've built
+
+All confirmed. Numbers marked `[#]` are still to add; an approximate number beats none.
+
+| # | What | Where | Production or proof of concept | Result |
+|---|---|---|---|---|
+| 1 | Clay signal-based prospecting (technographic, firmographic, intent signals → personalized sequences) | Certa | Production | `[#]` share of the ~45 meetings/week it sourced, or reply-rate lift |
+| 2 | Deal-risk and pipeline-health scoring tied to the real ~10% win rate | Certa | Production | `[#]` slipped deals it caught, or the coverage target it replaced (3–4x benchmark → real number) |
+| 3 | Security questionnaire / RFP processing automation | Certa | Production | `[#]` hours saved per RFP or turnaround time |
+| 4 | Outbound sequence optimization automation | Certa | Production | `[#]` reply or meeting-rate lift |
+| 5 | AI-assisted account planning and executive value models | Certa | Production | `[#]` contacts per opportunity or handoff acceptance |
+| 6 | Gong objection tracking fed back into messaging, sequencing and system logic | Certa | Production | `[#]` a messaging change and what moved |
+| 7 | GTM prompt and agent library (~53 Claude agents: ICP, scoring, sequences, forecast rollup, renewals…) | Personal toolkit repo | In daily use | `[#]` a task it cut from hours to minutes |
+| 8 | Speed-to-lead MCP server enforcing an inbound response SLA | `bd-leadership` repo | Proof of concept | — |
+| 9 | Free GTM tech-stack evaluator with Claude-generated audit reports | Live on Vercel | Production (public tool) | `[#]` reports generated |
+| 10 | Customer health scoring | `[CONFIRM: where]` | Production | `[#]` what it drove (renewals flagged early, CS prioritization) |
+
 ## Mapping to Mitek's stack
 
 | Mitek tool | My closest hands-on experience | Transfer |

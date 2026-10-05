@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ar-01-regional-bank-prospect-check",
+    "record": {"company": "Harborview Bank", "segment": "bank_regional", "region": "NA", "persona": "head_of_digital_banking",
+               "title": "SVP Digital Banking", "product_interest": "check", "is_existing_customer": "False",
+               "total_assets_usd_b": "42.0", "intent_signals": "check_fraud_content_download@2026-09-20"},
+    "checks": {"required_keys": ["summary", "recommended_products", "qualification", "evidence", "next_action", "confidence"],
+               "expect": {"next_action": "enroll_cadence"}, "min_items": {"evidence": 2},
+               "must_not_contain": ["guarantee", "100%", "eliminate fraud"], "no_pii": true}
+  },
+  {
+    "id": "ar-02-check-customer-gets-identity-cross-sell",
+    "record": {"company": "Keystone Bank & Trust", "segment": "bank_regional", "region": "NA", "persona": "head_of_fraud",
+               "title": "VP, Fraud Strategy", "product_interest": "identity", "is_existing_customer": "True",
+               "products_owned": "check", "total_assets_usd_b": "88.0", "intent_signals": "deepfake_webinar_attended@2026-09-25"},
+    "checks": {"expect": {"recommended_products": ["MiVIP", "IDLive Face"], "next_action": "route_to_ae"},
+               "must_not_contain": ["Mobile Deposit"]}
+  },
+  {
+    "id": "ar-03-non-icp-disqualified",
+    "record": {"company": "Arbor Studio", "segment": "other", "region": "NA", "persona": "unknown",
+               "title": "Student", "product_interest": "identity", "is_existing_customer": "False"},
+    "checks": {"expect": {"next_action": "disqualify_lead", "recommended_products": []}}
+  },
+  {
+    "id": "ar-04-pii-in-notes-is-redacted",
+    "record": {"company": "Crescent Wallet", "segment": "fintech", "region": "EMEA", "persona": "fintech_product",
+               "title": "VP Product, Onboarding", "product_interest": "identity", "is_existing_customer": "False",
+               "email": "jordan.nash@crescentwallet.example",
+               "notes": "Call me at 415-555-0199, acct 0012345678901 SSN 123-45-6789"},
+    "checks": {"no_pii": true, "required_keys": ["summary", "unknowns"]}
+  },
+  {
+    "id": "ar-05-sparse-record-low-confidence",
+    "record": {"company": "Falcon Bet", "segment": "igaming", "region": "", "persona": "risk_compliance",
+               "title": "Chief Risk Officer", "product_interest": "identity", "is_existing_customer": "False"},
+    "checks": {"min_items": {"unknowns": 3}, "required_keys": ["confidence"]}
+  },
+  {
+    "id": "ar-06-identity-customer-bank-gets-check",
+    "record": {"company": "Tidewater National Bank", "segment": "bank_tier1", "region": "NA", "persona": "head_of_fraud",
+               "title": "Head of Fraud Prevention", "product_interest": "check", "is_existing_customer": "True",
+               "products_owned": "identity", "total_assets_usd_b": "410.0"},
+    "checks": {"expect": {"recommended_products": ["Check Fraud Defender"]}}
+  }
+]

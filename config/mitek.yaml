@@ -1,0 +1,146 @@
+# =============================================================================
+# Mitek GTM Toolkit: single source of truth for company variables
+# -----------------------------------------------------------------------------
+# Every script in this repo reads from this file. Change a value here and the
+# scoring, routing, forecasting and AI workflows pick it up. Nothing is hardcoded.
+#
+# Value provenance tags (see VARIABLES.md for sources):
+#   [PUBLIC]   from Mitek's public site, press releases or earnings coverage
+#   [POSTING]  from the two Mitek job postings (Lever, Oct 2026)
+#   [ASSUME]   a reasoned working assumption, to be validated in discovery
+# =============================================================================
+
+company:
+  name: Mitek Systems                                  # [PUBLIC]
+  ticker: MITK                                         # [PUBLIC]
+  tagline: "Protect what's real"                       # [PUBLIC]
+  customers_claimed: "7,000+ organizations"            # [PUBLIC]
+  operating_ethos: "Unify and Grow"                    # [PUBLIC] CEO language, FY26 Q2
+  financial_services_revenue_share: 0.80               # [PUBLIC] ~80% of revenue, FY26 Q3 call
+
+# Two product lines. Mitek reports revenue in these two segments. [PUBLIC]
+product_lines:
+  check:
+    label: Check Verification
+    products: [Mobile Deposit, Check Fraud Defender, Check Intelligence, Positive Pay Plus]
+    primary_buyers: [head_of_digital_banking, head_of_fraud]
+  identity:
+    label: Fraud & Identity
+    products: [MiVIP, IDLive Face, IDLive Doc, MiPass, Digital Fraud Defender]
+    primary_buyers: [head_of_fraud, ciso_identity, risk_compliance, trust_and_safety, fintech_product]
+
+# Market segments. Banking-heavy core, with adjacent markets via channel. [PUBLIC] + [ASSUME] tiers
+segments:
+  bank_tier1:        {label: "Top-25 US Bank",                 icp_points: 30, motion: enterprise_abm}
+  bank_regional:     {label: "Regional Bank ($10B-$250B)",      icp_points: 28, motion: enterprise_abm}
+  bank_community:    {label: "Community Bank (<$10B)",          icp_points: 18, motion: partner_led}
+  credit_union:      {label: "Credit Union",                    icp_points: 18, motion: partner_led}
+  fintech:           {label: "Fintech / Neobank",               icp_points: 26, motion: velocity}
+  marketplace:       {label: "Digital Marketplace",             icp_points: 20, motion: velocity}
+  igaming:           {label: "iGaming / Sports Betting",        icp_points: 22, motion: velocity}
+  adjacent_regulated: {label: "Insurance / Healthcare / Gov",   icp_points: 12, motion: partner_led}
+  other:             {label: "Non-ICP",                         icp_points: 0,  motion: nurture}
+
+# Buyer personas: who signs, who influences, who blocks. [ASSUME] based on public positioning
+personas:
+  head_of_fraud:           {label: "Head of Fraud / Fraud Strategy",       role: economic_buyer, points: 25}
+  ciso_identity:           {label: "CISO / Head of Identity & Access",     role: economic_buyer, points: 22}
+  head_of_digital_banking: {label: "Head of Digital Banking / Deposits",   role: economic_buyer, points: 22}
+  risk_compliance:         {label: "Chief Risk / BSA-AML / KYC Officer",   role: influencer,     points: 18}
+  trust_and_safety:        {label: "Head of Trust & Safety",               role: economic_buyer, points: 20}
+  fintech_product:         {label: "VP Product / Onboarding (Fintech)",    role: champion,       points: 18}
+  fraud_analyst:           {label: "Fraud Analyst / Manager",              role: champion,       points: 10}
+  procurement_it:          {label: "Procurement / Vendor Risk / IT",       role: blocker,        points: 5}
+  unknown:                 {label: "Unknown / Non-buyer",                  role: none,           points: 0}
+
+regions: [NA, EMEA, APAC, LATAM]                       # [PUBLIC] EMEA age-verification demand noted FY26 Q3
+
+# GTM stack named in the postings. [POSTING]
+stack:
+  crm: Salesforce
+  forecasting: Clari
+  conversation_intelligence: Clari Copilot
+  sales_engagement: Salesloft
+  dialer: Nooks
+  data_provider: Lusha
+  enrichment_orchestration: Clay
+  conversational_marketing: Qualified
+  social_selling: LinkedIn Sales Navigator
+
+# Channel partners named publicly. [PUBLIC]
+partners:
+  - {name: Fiserv,       type: reseller}
+  - {name: Abrigo,       type: technology_partner}
+  - {name: CSI,          type: technology_partner}
+  - {name: Data Advisor, type: technology_partner}
+  - {name: FICO Marketplace, type: marketplace}
+
+# ---------------------------------------------------------------------------
+# GTM ENGINEER role: lead lifecycle settings
+# ---------------------------------------------------------------------------
+lead_lifecycle:
+  statuses: [New, Enriching, MQL, SAL, Working, SQL, Converted, Recycled, Disqualified]
+  sla_hours:                                           # [ASSUME] targets to agree with Marketing + SDR leadership
+    mql_to_sal: 4          # SDR accepts or rejects within 4 business hours
+    sal_to_first_touch: 1  # high-intent (Qualified chat / demo request) gets a 1-hour touch
+    sal_to_sql_days: 14    # work it or recycle it
+  disqualify_reasons: [Not ICP, Competitor, Student/Job Seeker, Existing Open Opp, No Fraud/IDV Use Case, Bad Data, Duplicate]
+  recycle_after_days: 90
+
+lead_scoring:
+  # Two independent axes, combined into a grade like "A1". [ASSUME] starting weights; calibrate.py tunes them
+  fit_bands:    {A: 80, B: 65, C: 45}    # fit score thresholds (0-100)
+  intent_bands: {1: 60, 2: 35, 3: 15}    # intent score thresholds (0-100)
+  mql_grades: [A1, A2, B1, A3, B2]       # grades that become MQL automatically
+  intent_signals:                        # points + half-life (days) for decay
+    demo_request:            {points: 40, half_life_days: 14}
+    qualified_chat_engaged:  {points: 30, half_life_days: 7}
+    pricing_page_visit:      {points: 20, half_life_days: 10}
+    deepfake_webinar_attended: {points: 15, half_life_days: 21}
+    check_fraud_content_download: {points: 12, half_life_days: 21}
+    fraud_leader_job_change: {points: 18, half_life_days: 60}   # Sales Navigator alert
+    fraud_team_hiring:       {points: 10, half_life_days: 45}   # Clay job-post signal
+    competitor_renewal_window: {points: 20, half_life_days: 90} # contract-end signal
+    email_reply_positive:    {points: 25, half_life_days: 14}
+
+lead_routing:
+  # Ordered rules; first match wins. [ASSUME] pod structure
+  pods:
+    enterprise_banking_na: {segments: [bank_tier1, bank_regional], regions: [NA]}
+    fintech_velocity_na:   {segments: [fintech, marketplace, igaming], regions: [NA]}
+    partner_led_na:        {segments: [bank_community, credit_union, adjacent_regulated], regions: [NA]}
+    emea_all:              {segments: ["*"], regions: [EMEA]}
+    intl_other:            {segments: ["*"], regions: [APAC, LATAM]}
+  max_open_leads_per_sdr: 60
+
+# ---------------------------------------------------------------------------
+# GTM STRATEGY & OPS role: opportunity, forecast and renewal settings
+# ---------------------------------------------------------------------------
+opportunity:
+  types: [New Logo, Expansion, Renewal]
+  stages:                                              # [ASSUME] stage design; see stage-definitions.md
+    - {name: "1 - Qualify",              probability: 0.10, max_days: 21}
+    - {name: "2 - Discovery",            probability: 0.20, max_days: 30}
+    - {name: "3 - Technical Validation", probability: 0.40, max_days: 45}   # POC / sandbox / data test
+    - {name: "4 - Business Case & Security Review", probability: 0.60, max_days: 45}
+    - {name: "5 - Negotiate & Contract", probability: 0.80, max_days: 30}
+    - {name: "Closed Won",               probability: 1.00, max_days: null}
+    - {name: "Closed Lost",              probability: 0.00, max_days: null}
+  forecast_categories: [Pipeline, Best Case, Commit, Closed, Omitted]   # Clari defaults
+  closed_lost_reasons: [Price, Lost to Competitor, No Decision / Status Quo, Build In-House, Security / Compliance Blocker, Integration Effort, Timing / Budget, Champion Left]
+  coverage_target: 3.0                                 # [ASSUME] pipeline / remaining quota
+
+renewals:
+  lookahead_days: 180
+  health_weights:                                      # [ASSUME]
+    volume_trend: 0.30        # transaction / check volume trend (usage telemetry)
+    utilization: 0.20         # % of committed volume consumed
+    support: 0.15
+    sponsor: 0.20
+    competitive: 0.15
+
+# New-business + expansion quota by fiscal quarter and region. [ASSUME] illustrative only,
+# sized to the synthetic data so coverage math has something to show. Replace with real plan.
+quota:
+  FY27-Q1: {NA: 1600000, EMEA: 450000, APAC: 180000, LATAM: 120000}
+current_fiscal_quarter: FY27-Q1      # Oct-Dec 2026 (Mitek FY ends Sep 30)

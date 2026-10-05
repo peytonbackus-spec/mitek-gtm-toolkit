@@ -1,0 +1,451 @@
+account_id,account_name,segment,region,employees,total_assets_usd_b,is_customer,products_owned
+ACC-1000,Harborview Wallet,fintech,NA,601,,False,
+ACC-1001,Meridian Market,marketplace,NA,310,,True,check
+ACC-1002,Maple Leaf State Bank,bank_community,NA,104,5.7,False,
+ACC-1003,Copper State Rentals,marketplace,NA,2328,,False,
+ACC-1004,Union Square National Bank,bank_tier1,NA,109194,1014.1,True,check
+ACC-1005,Blue Mesa Bet,igaming,NA,1520,,False,
+ACC-1006,Union Square Pay,fintech,EMEA,2226,,True,identity
+ACC-1007,Cedar Valley Agency,other,EMEA,321,,False,
+ACC-1008,Prairie First Labs,other,EMEA,28,,False,
+ACC-1009,Sterling Exchange,marketplace,LATAM,1957,,False,
+ACC-1010,Evergreen Members CU,credit_union,NA,1534,2.6,True,identity
+ACC-1011,Highland Market,marketplace,NA,1451,,False,
+ACC-1012,Evergreen Savings Bank,bank_community,NA,602,9.9,False,
+ACC-1013,Crescent Wallet,fintech,EMEA,259,,False,
+ACC-1014,Oakmont Financial Group,bank_tier1,NA,75307,2761.1,False,
+ACC-1015,Lakeshore Hub,marketplace,NA,3808,,True,identity
+ACC-1016,Redwood Bancshares,bank_regional,NA,15538,225.5,True,check
+ACC-1017,Northgate State Bank,bank_community,NA,1060,1.2,True,check;identity
+ACC-1018,Pinecrest Bank,bank_regional,EMEA,15333,153.1,True,check
+ACC-1019,Evergreen Neo,fintech,NA,2296,,False,
+ACC-1020,Redwood National Bank,bank_tier1,NA,160763,2314.9,False,
+ACC-1021,Silverline Federal Credit Union,credit_union,NA,687,6.9,False,
+ACC-1022,Riverbend Labs,other,NA,59,,False,
+ACC-1023,Silverline Labs,other,NA,395,,False,
+ACC-1024,Sterling Bancshares,bank_regional,APAC,12121,127.3,True,check
+ACC-1025,Clearwater Federal Credit Union,credit_union,NA,1020,1.1,False,
+ACC-1026,Cedar Valley Studio,other,EMEA,394,,False,
+ACC-1027,Northgate Money,fintech,NA,2281,,False,
+ACC-1028,Westfield Lend,fintech,LATAM,2238,,False,
+ACC-1029,Highland Exchange,marketplace,NA,3109,,False,
+ACC-1030,Blue Mesa Money,fintech,NA,1414,,True,check
+ACC-1031,Stonebridge Money,fintech,NA,2929,,False,
+ACC-1032,Meridian Community Bank,bank_community,NA,726,1.0,True,check
+ACC-1033,Lakeshore Rentals,marketplace,EMEA,4727,,False,
+ACC-1034,Keystone Savings Bank,bank_community,NA,439,1.2,False,
+ACC-1035,Copper State Federal Credit Union,credit_union,NA,261,10.2,False,
+ACC-1036,Bayfront Bancshares,bank_regional,NA,5080,69.7,True,check
+ACC-1037,Copper State Money,fintech,NA,1053,,False,
+ACC-1038,Union Square Bancshares,bank_regional,NA,19213,210.6,False,
+ACC-1039,Falcon Labs,other,NA,253,,False,
+ACC-1040,Falcon Lend,fintech,APAC,704,,False,
+ACC-1041,Riverbend Studio,other,NA,361,,False,
+ACC-1042,Union Square Studio,other,NA,156,,False,
+ACC-1043,Summit Ridge State Bank,bank_community,NA,1160,0.9,True,check;identity
+ACC-1044,Keystone Bancshares,bank_regional,APAC,18903,47.8,False,
+ACC-1045,Ironwood Bank,bank_regional,NA,9207,106.9,False,
+ACC-1046,Stonebridge Neo,fintech,NA,365,,False,
+ACC-1047,Maple Leaf Wallet,fintech,APAC,866,,False,
+ACC-1048,Riverbend Federal Credit Union,credit_union,NA,576,10.1,True,identity
+ACC-1049,Sterling Credit Union,credit_union,NA,78,7.0,False,
+ACC-1050,Cedar Valley Labs,other,NA,72,,False,
+ACC-1051,Meridian Consulting,other,EMEA,194,,False,
+ACC-1052,Evergreen State Bank,bank_community,NA,1490,3.2,False,
+ACC-1053,Maple Leaf Health,adjacent_regulated,NA,18373,,False,
+ACC-1054,Meridian Rentals,marketplace,NA,926,,False,
+ACC-1055,Silverline Bancshares,bank_regional,NA,12735,58.9,False,
+ACC-1056,Cedar Valley State Bank,bank_community,NA,917,8.3,True,check
+ACC-1057,Northgate Members CU,credit_union,NA,1112,2.6,True,check
+ACC-1058,Tidewater Market,marketplace,NA,1271,,False,
+ACC-1059,Stonebridge Insurance,adjacent_regulated,NA,1570,,False,
+ACC-1060,Union Square Consulting,other,EMEA,112,,False,
+ACC-1061,Crescent Market,marketplace,NA,4636,,False,
+ACC-1062,Westfield Members CU,credit_union,NA,673,13.9,True,check;identity
+ACC-1063,Union Square Bank,bank_regional,EMEA,2312,53.0,False,
+ACC-1064,Copper State Gaming,igaming,NA,3275,,False,
+ACC-1065,Summit Ridge Federal Credit Union,credit_union,NA,951,3.2,False,
+ACC-1066,Clearwater Credit Union,credit_union,NA,953,0.6,True,check;identity
+ACC-1067,Falcon Credit Union,credit_union,NA,1183,5.4,False,
+ACC-1068,Clearwater Exchange,marketplace,APAC,994,,False,
+ACC-1069,Stonebridge Savings Bank,bank_community,NA,128,1.4,True,check
+ACC-1070,Oakmont Play,igaming,NA,2144,,True,check
+ACC-1071,Lakeshore Agency,other,NA,228,,False,
+ACC-1072,Arbor Bancorp,bank_tier1,NA,195801,791.8,True,check
+ACC-1073,Arbor Agency,other,NA,344,,False,
+ACC-1074,Redwood Mutual,adjacent_regulated,NA,22052,,False,
+ACC-1075,Silverline Members CU,credit_union,NA,561,3.0,False,
+ACC-1076,Redwood Credit Union,credit_union,NA,2561,8.6,True,check
+ACC-1077,Silverline Mutual,adjacent_regulated,NA,25947,,False,
+ACC-1078,Evergreen Hub,marketplace,NA,1800,,False,
+ACC-1079,Union Square Gaming,igaming,NA,1212,,False,
+ACC-1080,Oakmont Pay,fintech,EMEA,992,,False,
+ACC-1081,Lakeshore Community Bank,bank_community,NA,100,0.7,False,
+ACC-1082,Sterling Pay,fintech,NA,2609,,False,
+ACC-1083,Bayfront Hub,marketplace,NA,1258,,False,
+ACC-1084,Sterling National Bank,bank_tier1,EMEA,77367,733.7,False,
+ACC-1085,Summit Ridge Neo,fintech,NA,527,,False,
+ACC-1086,Crescent Sportsbook,igaming,APAC,3701,,False,
+ACC-1087,Meridian County Services,adjacent_regulated,EMEA,18152,,False,
+ACC-1088,Falcon Bank & Trust,bank_regional,NA,9601,211.6,True,check
+ACC-1089,Keystone Gaming,igaming,NA,367,,False,
+ACC-1090,Oakmont Savings Bank,bank_community,NA,1156,1.1,True,check;identity
+ACC-1091,Lakeshore Credit Union,credit_union,NA,1739,6.2,False,
+ACC-1092,Lakeshore Federal Credit Union,credit_union,NA,1635,13.6,False,
+ACC-1093,Falcon Hub,marketplace,NA,2931,,False,
+ACC-1094,Meridian Federal Credit Union,credit_union,NA,2244,11.3,False,
+ACC-1095,Granite Peak Lend,fintech,NA,1815,,False,
+ACC-1096,Crescent Members CU,credit_union,NA,1696,10.9,False,
+ACC-1097,Westfield Consulting,other,APAC,308,,False,
+ACC-1098,Harborview Pay,fintech,NA,585,,False,
+ACC-1099,Riverbend Savings Bank,bank_community,NA,720,2.4,True,identity
+ACC-1100,Bayfront Sportsbook,igaming,EMEA,3457,,False,
+ACC-1101,Keystone Health,adjacent_regulated,EMEA,1906,,False,
+ACC-1102,Pinecrest Credit Union,credit_union,NA,2709,0.8,True,check;identity
+ACC-1103,Clearwater Community Bank,bank_community,NA,1322,1.8,True,identity
+ACC-1104,Stonebridge Rentals,marketplace,NA,2149,,False,
+ACC-1105,Westfield State Bank,bank_community,NA,284,7.8,True,check
+ACC-1106,Stonebridge Credit Union,credit_union,NA,1317,8.7,False,
+ACC-1107,Highland Credit Union,credit_union,NA,351,9.0,False,
+ACC-1108,Highland Savings Bank,bank_community,NA,1451,6.1,True,check
+ACC-1109,Prairie First Studio,other,NA,40,,False,
+ACC-1110,Clearwater Lend,fintech,NA,1513,,False,
+ACC-1111,Highland Insurance,adjacent_regulated,NA,24245,,False,
+ACC-1112,Westfield Hub,marketplace,NA,4903,,False,
+ACC-1113,Clearwater Health,adjacent_regulated,NA,14971,,False,
+ACC-1114,Keystone Wallet,fintech,NA,898,,False,
+ACC-1115,Riverbend State Bank,bank_community,NA,1486,8.8,False,
+ACC-1116,Lakeshore Pay,fintech,NA,1694,,False,
+ACC-1117,Highland Play,igaming,NA,2060,,False,
+ACC-1118,Silverline National Bank,bank_tier1,NA,83780,1092.1,False,
+ACC-1119,Copper State Neo,fintech,NA,2908,,False,
+ACC-1120,Granite Peak Credit Union,credit_union,NA,2994,3.1,True,identity
+ACC-1121,Sterling Money,fintech,NA,2013,,False,
+ACC-1122,Sterling Neo,fintech,NA,441,,False,
+ACC-1123,Prairie First Credit Union,credit_union,NA,1278,0.4,False,
+ACC-1124,Silverline State Bank,bank_community,NA,308,6.5,False,
+ACC-1125,Harborview Bancshares,bank_regional,NA,17186,115.7,True,check
+ACC-1126,Blue Mesa Bank,bank_regional,NA,3927,148.5,False,
+ACC-1127,Silverline Bank,bank_regional,LATAM,5381,143.9,True,check
+ACC-1128,Westfield Money,fintech,EMEA,1588,,False,
+ACC-1129,Falcon Members CU,credit_union,NA,1796,4.7,False,
+ACC-1130,Redwood Pay,fintech,APAC,881,,False,
+ACC-1131,Cedar Valley Community Bank,bank_community,NA,541,2.0,True,identity
+ACC-1132,Evergreen Bancorp,bank_tier1,NA,96351,339.8,True,check
+ACC-1133,Falcon Savings Bank,bank_community,NA,195,7.0,False,
+ACC-1134,Pinecrest Gaming,igaming,NA,2280,,False,
+ACC-1135,Riverbend Bank,bank_regional,NA,6936,200.2,False,
+ACC-1136,Arbor Mutual,adjacent_regulated,NA,15558,,False,
+ACC-1137,Riverbend Hub,marketplace,NA,4949,,True,identity
+ACC-1138,Oakmont Members CU,credit_union,NA,1065,0.6,True,check
+ACC-1139,Falcon Market,marketplace,LATAM,2257,,False,
+ACC-1140,Ironwood Play,igaming,NA,1861,,False,
+ACC-1141,Pinecrest Savings Bank,bank_community,NA,236,4.9,True,check
+ACC-1142,Blue Mesa Credit Union,credit_union,NA,1390,6.3,False,
+ACC-1143,Bayfront Market,marketplace,NA,2626,,False,
+ACC-1144,Sterling Bank & Trust,bank_regional,EMEA,1537,167.8,False,
+ACC-1145,Lakeshore Members CU,credit_union,NA,1521,9.4,False,
+ACC-1146,Summit Ridge Credit Union,credit_union,NA,1133,8.3,False,
+ACC-1147,Highland Federal Credit Union,credit_union,NA,537,0.6,False,
+ACC-1148,Highland Gaming,igaming,NA,106,,False,
+ACC-1149,Clearwater Bank,bank_regional,NA,5349,165.5,True,check;identity
+ACC-1150,Silverline Agency,other,NA,252,,False,
+ACC-1151,Granite Peak Studio,other,NA,201,,False,
+ACC-1152,Redwood Community Bank,bank_community,NA,192,3.0,False,
+ACC-1153,Arbor Members CU,credit_union,NA,1134,12.3,True,identity
+ACC-1154,Stonebridge Members CU,credit_union,NA,2743,7.4,True,check
+ACC-1155,Prairie First Wallet,fintech,NA,2255,,False,
+ACC-1156,Highland Labs,other,NA,124,,False,
+ACC-1157,Copper State Health,adjacent_regulated,NA,15698,,False,
+ACC-1158,Bayfront Insurance,adjacent_regulated,NA,1413,,True,check
+ACC-1159,Oakmont Consulting,other,EMEA,230,,False,
+ACC-1160,Arbor Bank & Trust,bank_regional,NA,6223,108.4,False,
+ACC-1161,Keystone Bank & Trust,bank_regional,NA,14524,166.0,False,
+ACC-1162,Falcon County Services,adjacent_regulated,APAC,20738,,False,
+ACC-1163,Falcon Bet,igaming,NA,1011,,False,
+ACC-1164,Granite Peak Consulting,other,NA,55,,False,
+ACC-1165,Highland Bet,igaming,NA,2892,,False,
+ACC-1166,Oakmont National Bank,bank_tier1,NA,118262,1434.4,True,check;identity
+ACC-1167,Crescent Credit Union,credit_union,NA,736,2.8,False,
+ACC-1168,Keystone Members CU,credit_union,NA,626,3.6,False,
+ACC-1169,Crescent Pay,fintech,EMEA,1935,,False,
+ACC-1170,Ironwood Market,marketplace,NA,2880,,False,
+ACC-1171,Copper State Members CU,credit_union,NA,1064,7.0,True,check;identity
+ACC-1172,Falcon Studio,other,NA,200,,False,
+ACC-1173,Stonebridge Wallet,fintech,LATAM,1239,,True,check
+ACC-1174,Bayfront Mutual,adjacent_regulated,NA,28546,,False,
+ACC-1175,Summit Ridge Play,igaming,EMEA,3748,,False,
+ACC-1176,Westfield Sportsbook,igaming,NA,828,,False,
+ACC-1177,Redwood Rentals,marketplace,NA,372,,False,
+ACC-1178,Stonebridge Federal Credit Union,credit_union,NA,578,1.5,True,check
+ACC-1179,Ironwood Gaming,igaming,NA,2259,,False,
+ACC-1180,Maple Leaf Federal Credit Union,credit_union,NA,713,4.0,False,
+ACC-1181,Union Square Wallet,fintech,EMEA,1417,,False,
+ACC-1182,Cedar Valley Money,fintech,EMEA,954,,False,
+ACC-1183,Bayfront Exchange,marketplace,NA,3282,,True,check;identity
+ACC-1184,Evergreen Wallet,fintech,NA,2783,,False,
+ACC-1185,Pinecrest Federal Credit Union,credit_union,NA,483,10.2,False,
+ACC-1186,Tidewater Wallet,fintech,APAC,936,,False,
+ACC-1187,Pinecrest Lend,fintech,NA,215,,False,
+ACC-1188,Keystone Credit Union,credit_union,NA,438,3.7,False,
+ACC-1189,Prairie First Members CU,credit_union,NA,2892,14.2,True,check
+ACC-1190,Northgate Play,igaming,NA,3464,,False,
+ACC-1191,Riverbend Credit Union,credit_union,NA,2867,5.7,True,check
+ACC-1192,Falcon Agency,other,NA,356,,False,
+ACC-1193,Meridian Members CU,credit_union,NA,1509,1.1,True,identity
+ACC-1194,Pinecrest Consulting,other,NA,175,,False,
+ACC-1195,Clearwater State Bank,bank_community,NA,474,6.0,False,
+ACC-1196,Sterling Community Bank,bank_community,NA,1270,0.3,False,
+ACC-1197,Northgate Bancshares,bank_regional,NA,7217,36.4,False,
+ACC-1198,Prairie First Bank,bank_regional,NA,2017,51.8,True,identity
+ACC-1199,Maple Leaf Bet,igaming,EMEA,2000,,False,
+ACC-1200,Granite Peak Members CU,credit_union,NA,217,11.0,False,
+ACC-1201,Silverline Hub,marketplace,NA,305,,True,check
+ACC-1202,Bayfront Lend,fintech,NA,2038,,False,
+ACC-1203,Meridian Credit Union,credit_union,NA,1359,9.2,True,check;identity
+ACC-1204,Pinecrest State Bank,bank_community,NA,1173,7.2,True,check;identity
+ACC-1205,Silverline Lend,fintech,NA,1792,,True,identity
+ACC-1206,Falcon Rentals,marketplace,NA,1921,,False,
+ACC-1207,Bayfront County Services,adjacent_regulated,EMEA,10441,,False,
+ACC-1208,Prairie First Rentals,marketplace,NA,3935,,True,check
+ACC-1209,Cedar Valley County Services,adjacent_regulated,NA,24408,,False,
+ACC-1210,Summit Ridge Bancshares,bank_regional,APAC,19905,89.1,True,check;identity
+ACC-1211,Crescent Federal Credit Union,credit_union,NA,2993,1.0,True,check
+ACC-1212,Blue Mesa Members CU,credit_union,NA,2118,3.3,False,
+ACC-1213,Blue Mesa Savings Bank,bank_community,NA,1189,3.9,False,
+ACC-1214,Union Square Lend,fintech,EMEA,2576,,False,
+ACC-1215,Harborview Exchange,marketplace,NA,2288,,False,
+ACC-1216,Oakmont Federal Credit Union,credit_union,NA,65,2.9,True,check
+ACC-1217,Cedar Valley Rentals,marketplace,EMEA,301,,True,check
+ACC-1218,Ironwood Wallet,fintech,NA,1358,,False,
+ACC-1219,Cedar Valley Pay,fintech,NA,2560,,True,check
+ACC-1220,Evergreen Bancshares,bank_regional,NA,15984,109.4,True,identity
+ACC-1221,Prairie First Lend,fintech,NA,2807,,False,
+ACC-1222,Summit Ridge Money,fintech,NA,2484,,True,check
+ACC-1223,Sterling Savings Bank,bank_community,NA,642,3.5,True,check
+ACC-1224,Bayfront Gaming,igaming,NA,3463,,False,
+ACC-1225,Bayfront Members CU,credit_union,NA,213,6.7,False,
+ACC-1226,Oakmont Bancshares,bank_regional,NA,14752,180.3,True,check
+ACC-1227,Harborview Bank & Trust,bank_regional,NA,16576,209.7,False,
+ACC-1228,Falcon Bank,bank_regional,NA,14621,135.8,True,check;identity
+ACC-1229,Oakmont Credit Union,credit_union,NA,1404,11.7,True,identity
+ACC-1230,Maple Leaf Neo,fintech,NA,1461,,False,
+ACC-1231,Pinecrest Labs,other,NA,79,,False,
+ACC-1232,Ironwood State Bank,bank_community,NA,363,7.7,False,
+ACC-1233,Sterling State Bank,bank_community,NA,1061,4.8,False,
+ACC-1234,Crescent Neo,fintech,NA,2588,,False,
+ACC-1235,Oakmont Labs,other,NA,245,,False,
+ACC-1236,Cedar Valley Federal Credit Union,credit_union,NA,1931,6.9,True,check;identity
+ACC-1237,Cedar Valley Health,adjacent_regulated,NA,16815,,False,
+ACC-1238,Pinecrest Money,fintech,NA,1978,,False,
+ACC-1239,Evergreen Consulting,other,EMEA,433,,False,
+ACC-1240,Maple Leaf Members CU,credit_union,NA,746,0.8,False,
+ACC-1241,Maple Leaf Labs,other,NA,474,,False,
+ACC-1242,Copper State Savings Bank,bank_community,NA,1440,6.1,False,
+ACC-1243,Cedar Valley Exchange,marketplace,NA,3216,,False,
+ACC-1244,Crescent Rentals,marketplace,NA,4823,,False,
+ACC-1245,Silverline Studio,other,NA,367,,False,
+ACC-1246,Pinecrest Agency,other,EMEA,348,,False,
+ACC-1247,Redwood Market,marketplace,NA,3518,,False,
+ACC-1248,Lakeshore Financial Group,bank_tier1,APAC,147473,778.0,False,
+ACC-1249,Maple Leaf Bancshares,bank_regional,EMEA,18753,19.1,True,check;identity
+ACC-1250,Northgate Gaming,igaming,NA,2887,,False,
+ACC-1251,Ironwood County Services,adjacent_regulated,NA,12137,,False,
+ACC-1252,Union Square Savings Bank,bank_community,NA,529,5.5,True,check;identity
+ACC-1253,Keystone Insurance,adjacent_regulated,NA,18891,,False,
+ACC-1254,Clearwater Money,fintech,EMEA,596,,False,
+ACC-1255,Tidewater Bank,bank_regional,EMEA,18405,214.3,True,check
+ACC-1256,Riverbend Play,igaming,APAC,653,,False,
+ACC-1257,Arbor Bank,bank_regional,EMEA,12955,233.3,True,check
+ACC-1258,Bayfront Credit Union,credit_union,NA,1575,3.5,True,identity
+ACC-1259,Highland Bancshares,bank_regional,NA,6285,43.0,True,check
+ACC-1260,Sterling County Services,adjacent_regulated,NA,372,,False,
+ACC-1261,Lakeshore National Bank,bank_tier1,NA,179614,1701.4,True,identity
+ACC-1262,Silverline Community Bank,bank_community,NA,147,2.6,False,
+ACC-1263,Westfield Neo,fintech,NA,2140,,False,
+ACC-1264,Granite Peak Hub,marketplace,NA,751,,False,
+ACC-1265,Tidewater Credit Union,credit_union,NA,1639,13.1,True,check
+ACC-1266,Prairie First Federal Credit Union,credit_union,NA,106,5.5,True,check
+ACC-1267,Crescent State Bank,bank_community,NA,262,7.8,False,
+ACC-1268,Tidewater Federal Credit Union,credit_union,NA,2672,2.8,False,
+ACC-1269,Highland Lend,fintech,NA,582,,True,check
+ACC-1270,Evergreen Bet,igaming,NA,229,,False,
+ACC-1271,Oakmont Agency,other,NA,422,,False,
+ACC-1272,Riverbend Pay,fintech,EMEA,812,,False,
+ACC-1273,Summit Ridge Mutual,adjacent_regulated,NA,26392,,False,
+ACC-1274,Redwood Studio,other,EMEA,202,,False,
+ACC-1275,Ironwood Federal Credit Union,credit_union,NA,2874,7.6,False,
+ACC-1276,Redwood Lend,fintech,NA,2497,,False,
+ACC-1277,Silverline Savings Bank,bank_community,NA,260,1.1,False,
+ACC-1278,Copper State Credit Union,credit_union,NA,2865,6.8,True,identity
+ACC-1279,Arbor Exchange,marketplace,NA,3613,,False,
+ACC-1280,Summit Ridge Consulting,other,NA,212,,False,
+ACC-1281,Union Square Members CU,credit_union,NA,2822,2.6,True,check;identity
+ACC-1282,Crescent County Services,adjacent_regulated,NA,2403,,False,
+ACC-1283,Prairie First Hub,marketplace,APAC,315,,False,
+ACC-1284,Prairie First Exchange,marketplace,NA,679,,False,
+ACC-1285,Bayfront Wallet,fintech,NA,1052,,False,
+ACC-1286,Ironwood Financial Group,bank_tier1,NA,167239,573.8,False,
+ACC-1287,Lakeshore Exchange,marketplace,NA,4073,,False,
+ACC-1288,Cedar Valley Bank & Trust,bank_regional,NA,16085,249.3,False,
+ACC-1289,Highland Consulting,other,NA,153,,False,
+ACC-1290,Union Square Agency,other,NA,67,,False,
+ACC-1291,Union Square Labs,other,NA,257,,False,
+ACC-1292,Tidewater Bancorp,bank_tier1,NA,164610,606.9,False,
+ACC-1293,Redwood Bank & Trust,bank_regional,NA,14916,207.6,True,check
+ACC-1294,Evergreen Studio,other,NA,181,,False,
+ACC-1295,Clearwater Bancshares,bank_regional,NA,7462,194.3,True,identity
+ACC-1296,Falcon Pay,fintech,EMEA,2152,,False,
+ACC-1297,Oakmont State Bank,bank_community,NA,511,3.7,False,
+ACC-1298,Falcon Consulting,other,NA,330,,False,
+ACC-1299,Stonebridge Labs,other,NA,324,,False,
+ACC-1300,Westfield Exchange,marketplace,EMEA,4667,,True,check;identity
+ACC-1301,Pinecrest Mutual,adjacent_regulated,NA,25331,,False,
+ACC-1302,Harborview Lend,fintech,EMEA,2264,,False,
+ACC-1303,Keystone Labs,other,EMEA,355,,False,
+ACC-1304,Evergreen Credit Union,credit_union,NA,2860,1.1,True,check
+ACC-1305,Lakeshore Wallet,fintech,NA,1310,,False,
+ACC-1306,Falcon Federal Credit Union,credit_union,NA,1673,2.1,True,check
+ACC-1307,Oakmont Money,fintech,NA,1125,,False,
+ACC-1308,Summit Ridge Bank & Trust,bank_regional,APAC,15201,69.6,False,
+ACC-1309,Lakeshore Bank,bank_regional,NA,18366,122.0,False,
+ACC-1310,Cedar Valley Lend,fintech,NA,1016,,False,
+ACC-1311,Harborview Credit Union,credit_union,NA,1805,2.2,True,check
+ACC-1312,Bayfront Federal Credit Union,credit_union,NA,225,6.1,False,
+ACC-1313,Tidewater Savings Bank,bank_community,NA,200,4.0,False,
+ACC-1314,Clearwater Neo,fintech,NA,516,,True,check
+ACC-1315,Prairie First Bank & Trust,bank_regional,NA,13480,191.2,True,check;identity
+ACC-1316,Maple Leaf Pay,fintech,NA,591,,False,
+ACC-1317,Maple Leaf Play,igaming,NA,3708,,False,
+ACC-1318,Westfield Federal Credit Union,credit_union,NA,705,6.0,False,
+ACC-1319,Stonebridge Mutual,adjacent_regulated,NA,16902,,False,
+ACC-1320,Clearwater Market,marketplace,NA,947,,False,
+ACC-1321,Riverbend Neo,fintech,NA,2984,,True,check
+ACC-1322,Sterling Lend,fintech,NA,2818,,False,
+ACC-1323,Highland Pay,fintech,NA,1836,,False,
+ACC-1324,Highland Bank,bank_regional,NA,16953,219.5,False,
+ACC-1325,Lakeshore Bancshares,bank_regional,NA,17175,136.1,True,check;identity
+ACC-1326,Arbor State Bank,bank_community,NA,751,5.6,False,
+ACC-1327,Crescent Mutual,adjacent_regulated,NA,6500,,False,
+ACC-1328,Highland Community Bank,bank_community,NA,1463,7.1,True,check
+ACC-1329,Silverline Credit Union,credit_union,NA,1218,14.3,True,identity
+ACC-1330,Lakeshore Labs,other,EMEA,143,,False,
+ACC-1331,Highland Agency,other,NA,320,,False,
+ACC-1332,Granite Peak Gaming,igaming,NA,3757,,False,
+ACC-1333,Summit Ridge Pay,fintech,NA,2968,,False,
+ACC-1334,Northgate Market,marketplace,LATAM,1343,,False,
+ACC-1335,Meridian Studio,other,NA,107,,False,
+ACC-1336,Silverline Sportsbook,igaming,NA,292,,False,
+ACC-1337,Stonebridge Bank,bank_regional,NA,2722,229.2,True,check
+ACC-1338,Ironwood Consulting,other,LATAM,208,,False,
+ACC-1339,Ironwood Sportsbook,igaming,EMEA,87,,False,
+ACC-1340,Arbor Wallet,fintech,NA,2656,,False,
+ACC-1341,Northgate Neo,fintech,NA,819,,False,
+ACC-1342,Redwood Federal Credit Union,credit_union,NA,2695,4.0,True,check
+ACC-1343,Union Square Sportsbook,igaming,NA,3151,,False,
+ACC-1344,Ironwood Money,fintech,NA,1046,,True,check
+ACC-1345,Evergreen Federal Credit Union,credit_union,NA,1390,4.7,False,
+ACC-1346,Pinecrest Financial Group,bank_tier1,NA,36285,2086.4,False,
+ACC-1347,Crescent Bancshares,bank_regional,APAC,11690,175.7,False,
+ACC-1348,Granite Peak Labs,other,NA,237,,False,
+ACC-1349,Copper State Play,igaming,EMEA,3334,,False,
+ACC-1350,Granite Peak State Bank,bank_community,NA,1270,8.8,True,check
+ACC-1351,Highland Wallet,fintech,NA,2340,,True,check
+ACC-1352,Meridian Insurance,adjacent_regulated,NA,5110,,False,
+ACC-1353,Evergreen Health,adjacent_regulated,NA,23691,,False,
+ACC-1354,Maple Leaf Bank & Trust,bank_regional,EMEA,16358,41.7,True,check
+ACC-1355,Tidewater Lend,fintech,NA,1292,,False,
+ACC-1356,Cedar Valley Members CU,credit_union,NA,286,14.0,True,check;identity
+ACC-1357,Summit Ridge Agency,other,NA,398,,False,
+ACC-1358,Pinecrest Bancshares,bank_regional,NA,15274,99.9,False,
+ACC-1359,Arbor Lend,fintech,NA,2826,,False,
+ACC-1360,Northgate Agency,other,NA,280,,False,
+ACC-1361,Granite Peak Federal Credit Union,credit_union,NA,1457,2.5,True,identity
+ACC-1362,Sterling Consulting,other,NA,343,,False,
+ACC-1363,Cedar Valley Credit Union,credit_union,NA,2472,0.7,False,
+ACC-1364,Summit Ridge Rentals,marketplace,EMEA,3345,,False,
+ACC-1365,Silverline Money,fintech,EMEA,2389,,False,
+ACC-1366,Granite Peak Wallet,fintech,EMEA,2734,,False,
+ACC-1367,Tidewater Members CU,credit_union,NA,757,9.5,True,identity
+ACC-1368,Union Square Neo,fintech,NA,1735,,False,
+ACC-1369,Ironwood Members CU,credit_union,NA,1979,3.8,True,check
+ACC-1370,Northgate County Services,adjacent_regulated,APAC,18628,,False,
+ACC-1371,Maple Leaf Credit Union,credit_union,NA,1630,3.8,True,identity
+ACC-1372,Arbor Hub,marketplace,EMEA,807,,False,
+ACC-1373,Bayfront Health,adjacent_regulated,EMEA,6365,,False,
+ACC-1374,Lakeshore Lend,fintech,NA,1393,,False,
+ACC-1375,Redwood Consulting,other,EMEA,391,,False,
+ACC-1376,Granite Peak Neo,fintech,EMEA,1654,,False,
+ACC-1377,Sterling Wallet,fintech,NA,2215,,False,
+ACC-1378,Keystone Federal Credit Union,credit_union,NA,872,5.7,True,check
+ACC-1379,Granite Peak Money,fintech,NA,2296,,False,
+ACC-1380,Copper State Wallet,fintech,NA,1381,,False,
+ACC-1381,Riverbend Lend,fintech,LATAM,2658,,False,
+ACC-1382,Redwood Wallet,fintech,NA,2980,,False,
+ACC-1383,Meridian State Bank,bank_community,NA,1364,9.6,False,
+ACC-1384,Sterling Health,adjacent_regulated,NA,27808,,False,
+ACC-1385,Northgate Bank,bank_regional,NA,16442,99.6,False,
+ACC-1386,Crescent Hub,marketplace,NA,4409,,False,
+ACC-1387,Maple Leaf Bancorp,bank_tier1,NA,95153,297.1,False,
+ACC-1388,Union Square Rentals,marketplace,NA,839,,False,
+ACC-1389,Cedar Valley Savings Bank,bank_community,NA,881,4.8,True,identity
+ACC-1390,Silverline Market,marketplace,NA,309,,True,check
+ACC-1391,Summit Ridge Members CU,credit_union,NA,78,10.6,True,check
+ACC-1392,Stonebridge Health,adjacent_regulated,EMEA,1594,,False,
+ACC-1393,Highland Studio,other,NA,478,,False,
+ACC-1394,Meridian Bancshares,bank_regional,NA,2578,53.0,False,
+ACC-1395,Lakeshore Bancorp,bank_tier1,NA,124410,2804.4,True,identity
+ACC-1396,Stonebridge Lend,fintech,NA,2244,,False,
+ACC-1397,Northgate Bet,igaming,NA,1466,,True,check;identity
+ACC-1398,Sterling Members CU,credit_union,NA,2479,6.1,False,
+ACC-1399,Riverbend Financial Group,bank_tier1,NA,113273,1770.9,True,identity
+ACC-1400,Stonebridge State Bank,bank_community,NA,828,1.1,False,
+ACC-1401,Cedar Valley Sportsbook,igaming,NA,2965,,False,
+ACC-1402,Bayfront Bank & Trust,bank_regional,NA,4498,11.2,True,check
+ACC-1403,Northgate Credit Union,credit_union,NA,807,6.6,False,
+ACC-1404,Blue Mesa Pay,fintech,NA,2300,,True,identity
+ACC-1405,Oakmont Lend,fintech,NA,1724,,False,
+ACC-1406,Meridian Bank,bank_regional,NA,7056,174.5,True,check
+ACC-1407,Northgate Community Bank,bank_community,NA,392,4.5,True,check;identity
+ACC-1408,Cedar Valley Wallet,fintech,NA,1040,,False,
+ACC-1409,Evergreen Pay,fintech,NA,57,,False,
+ACC-1410,Union Square Federal Credit Union,credit_union,NA,1843,5.2,False,
+ACC-1411,Westfield Insurance,adjacent_regulated,NA,19966,,False,
+ACC-1412,Oakmont Community Bank,bank_community,NA,865,9.7,True,check;identity
+ACC-1413,Keystone Rentals,marketplace,NA,2346,,False,
+ACC-1414,Harborview Members CU,credit_union,NA,1930,14.2,True,identity
+ACC-1415,Clearwater Bet,igaming,EMEA,3309,,False,
+ACC-1416,Northgate Exchange,marketplace,NA,1312,,False,
+ACC-1417,Cedar Valley Play,igaming,LATAM,2012,,False,
+ACC-1418,Tidewater Pay,fintech,EMEA,1502,,False,
+ACC-1419,Westfield Health,adjacent_regulated,NA,8334,,False,
+ACC-1420,Pinecrest Members CU,credit_union,NA,221,8.5,False,
+ACC-1421,Union Square Hub,marketplace,NA,857,,False,
+ACC-1422,Highland Neo,fintech,NA,130,,False,
+ACC-1423,Arbor Credit Union,credit_union,NA,515,12.5,False,
+ACC-1424,Union Square Credit Union,credit_union,NA,2174,7.3,False,
+ACC-1425,Redwood Members CU,credit_union,NA,848,6.9,True,check
+ACC-1426,Riverbend Bancorp,bank_tier1,EMEA,36400,1837.7,False,
+ACC-1427,Blue Mesa Wallet,fintech,NA,2034,,False,
+ACC-1428,Stonebridge Pay,fintech,NA,1905,,False,
+ACC-1429,Highland Mutual,adjacent_regulated,APAC,19538,,True,check;identity
+ACC-1430,Ironwood Bank & Trust,bank_regional,NA,18238,103.2,False,
+ACC-1431,Keystone Neo,fintech,NA,2672,,False,
+ACC-1432,Ironwood Savings Bank,bank_community,NA,641,1.7,True,check
+ACC-1433,Summit Ridge Wallet,fintech,APAC,2014,,True,identity
+ACC-1434,Tidewater County Services,adjacent_regulated,NA,16312,,False,
+ACC-1435,Union Square Insurance,adjacent_regulated,NA,9206,,False,
+ACC-1436,Tidewater State Bank,bank_community,NA,281,5.9,True,check
+ACC-1437,Prairie First Neo,fintech,EMEA,200,,False,
+ACC-1438,Clearwater Members CU,credit_union,NA,1053,4.6,False,
+ACC-1439,Prairie First Pay,fintech,NA,510,,False,
+ACC-1440,Union Square State Bank,bank_community,NA,1254,7.0,False,
+ACC-1441,Union Square Money,fintech,EMEA,273,,False,
+ACC-1442,Silverline Neo,fintech,NA,2137,,False,
+ACC-1443,Blue Mesa Rentals,marketplace,LATAM,3421,,False,
+ACC-1444,Clearwater Labs,other,EMEA,351,,False,
+ACC-1445,Harborview Federal Credit Union,credit_union,NA,868,14.9,False,
+ACC-1446,Riverbend Consulting,other,NA,467,,False,
+ACC-1447,Summit Ridge Hub,marketplace,NA,1968,,False,
+ACC-1448,Lakeshore Bank & Trust,bank_regional,NA,8911,134.7,True,identity
+ACC-1449,Falcon Financial Group,bank_tier1,NA,145226,444.8,True,check

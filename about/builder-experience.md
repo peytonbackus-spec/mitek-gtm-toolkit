@@ -39,13 +39,13 @@ Never missed target, as an IC or as a manager.
 | Salesforce | Direct (above) | ✅ Same tool |
 | Clay | Direct | ✅ Same tool |
 | **Salesloft** | **Outreach**: built sequencing infrastructure, daily use | 🔁 Same category, different vendor. Cadence architecture, enrollment and activity sync concepts carry over directly. |
-| **Clari** (forecasting) | Win-rate-based coverage and capacity forecasting models; deal-risk and pipeline-health scoring at Certa | 🔁 Forecast *methodology* is direct; Clari as a tool is `[CONFIRM: any hands-on use?]` |
+| **Clari** (forecasting) | Win-rate-based coverage and capacity forecasting models that fed leadership's forecast calls; deal-risk and pipeline-health scoring at Certa; customer health scoring | 🔁 Forecast *methodology* is direct; Clari as a tool is `[CONFIRM: any hands-on use?]` |
 | **Clari Copilot** | **Gong**: qualification and objection analysis | 🔁 Same category (conversation intelligence) |
 | Nooks | Direct: I've used it | ✅ Same tool |
 | Lusha | Direct: I've used it (Apollo in my consulting stack too) | ✅ Same tool |
 | Qualified | **Drift** (its closest competitor) and **Chili Piper** (routing + meeting booking) | 🔁 Same category, different vendor. Drift covers the chat and account-ID side, Chili Piper the routing and booking side. |
-| LinkedIn Sales Navigator | `[CONFIRM]` | Not on resume |
-| SQL / warehouse | `[CONFIRM: depth]` | Not on main resume |
+| LinkedIn Sales Navigator | Direct: I've used it | ✅ Same tool |
+| SQL / warehouse | I read and understand SQL and write it with AI assistance (the SQL in this repo was built that way) | 🔁 Comfortable for take-home and analysis work; I don't claim live whiteboard SQL |
 
 ## Why my background is relevant to Mitek specifically
 

@@ -4,7 +4,9 @@
 
 > **Posting:** "Administer and optimize Salesforce, Salesloft, Lusha, Clay, Nooks, Qualified and LinkedIn Sales Navigator" · "Hands-on sales engagement platform experience" · "Lead lifecycle and SDR process design"
 
-This is a design spec: how I would configure each tool so it reinforces the lead lifecycle instead of running its own version of it.
+This is a design spec: how I would configure each tool so it reinforces the lead lifecycle instead of running its own version of it. Nooks and Lusha I've used hands-on. Salesloft and Qualified I haven't; I've used tools in the same categories (Outreach for sequencing).
+
+> Salesloft merged with Clari in Dec 2025, so cadence activity and the 🟩 forecast now share a platform. Cadence and activity-logging standards here directly affect forecast signals on the Strategy & Ops side.
 
 ## Salesloft: cadence architecture
 

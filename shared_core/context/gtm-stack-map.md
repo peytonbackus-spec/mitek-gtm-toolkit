@@ -45,6 +45,8 @@ flowchart LR
 | **Qualified** | Website chat, intent, meeting booking | 🟦 GTM Engineer | GTM Engineer |
 | **LinkedIn Sales Navigator** | Account and lead lists, job-change alerts | 🟦 GTM Engineer | Both |
 
+> **Vendor note:** Clari and Salesloft merged in Dec 2025, so Salesloft (🟦) and Clari (🟩) are now one platform on a shared revenue data layer. That's one more reason both roles need one activity-capture standard. Details in the [Clari spec](../../gtm_strategy_ops/clari_admin/clari-configuration-spec.md#platform-context-clari-and-salesloft-are-one-company-now).
+
 ## Integration rules
 
 1. **Salesforce wins conflicts.** Clay writes only to fields with a `_clay` suffix or to empty fields, never over a rep-entered value. See the [object model](../data_model/salesforce-object-model.md).

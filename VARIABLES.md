@@ -15,7 +15,7 @@ My base toolkit is company-agnostic and uses bracketed variables like `[COMPANY_
 | `[REGIONS]` | NA, EMEA, APAC, LATAM | PUBLIC (EMEA demand noted) + ASSUME (split) | quota, forecast, pods |
 | `[FISCAL_YEAR_END]` | September 30 (FY27-Q1 = Oct–Dec 2026) | PUBLIC | fiscal quarter logic (Python + SQL) |
 | `[CRM]` | Salesforce | POSTING | object model, Flows |
-| `[FORECAST_TOOL]` | Clari + Clari Copilot | POSTING | forecast cadence, Clari spec |
+| `[FORECAST_TOOL]` | Clari + Clari Copilot (Clari merged with Salesloft, Dec 2025) | POSTING + PUBLIC | forecast cadence, Clari spec |
 | `[SEQUENCER]` / `[DIALER]` | Salesloft / Nooks | POSTING | engagement layer spec |
 | `[ENRICHMENT_STACK]` | Clay (orchestration) + Lusha (contact data) + Sales Navigator (signals) | POSTING | waterfall spec |
 | `[WEBSITE_CONVERSION]` | Qualified | POSTING | intent signals, routing |

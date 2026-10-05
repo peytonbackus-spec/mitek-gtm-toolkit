@@ -41,9 +41,9 @@ Never missed target, as an IC or as a manager.
 | **Salesloft** | **Outreach**: built sequencing infrastructure, daily use | 🔁 Same category, different vendor. Cadence architecture, enrollment and activity sync concepts carry over directly. |
 | **Clari** (forecasting) | Win-rate-based coverage and capacity forecasting models; deal-risk and pipeline-health scoring at Certa | 🔁 Forecast *methodology* is direct; Clari as a tool is `[CONFIRM: any hands-on use?]` |
 | **Clari Copilot** | **Gong**: qualification and objection analysis | 🔁 Same category (conversation intelligence) |
-| Nooks | `[CONFIRM]` | Not on resume |
-| Lusha | `[CONFIRM]` | Not on resume (Apollo used in consulting stack) |
-| Qualified | `[CONFIRM]` | Not on resume |
+| Nooks | Direct: I've used it | ✅ Same tool |
+| Lusha | Direct: I've used it (Apollo in my consulting stack too) | ✅ Same tool |
+| Qualified | **Drift** (its closest competitor) and **Chili Piper** (routing + meeting booking) | 🔁 Same category, different vendor. Drift covers the chat and account-ID side, Chili Piper the routing and booking side. |
 | LinkedIn Sales Navigator | `[CONFIRM]` | Not on resume |
 | SQL / warehouse | `[CONFIRM: depth]` | Not on main resume |
 

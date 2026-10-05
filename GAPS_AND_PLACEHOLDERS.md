@@ -15,7 +15,8 @@ Sources for the "Real experience" column: my resume (Sept 2026 version) and thin
 | Clay (🟦) | ✅ Daily use; signal enrichment at Certa; consulting stack | Waterfall spec | — |
 | Hands-on sales engagement platform (🟦 **required**) | ✅ **Outreach**: built the sequencing infrastructure at Certa, daily use | Salesloft cadence architecture spec | Haven't used Salesloft; frame Outreach → Salesloft as same category. Haven't built auto-enrollment; spec says so. |
 | Nooks, Lusha (🟦 preferred) | ✅ Used both | Config specs | — |
-| Qualified, Sales Nav (🟦 preferred) | Qualified: used a competitor `[CONFIRM: which]`. Sales Nav: `[CONFIRM]` | Config specs | Preferred, not required |
+| Qualified (🟦 preferred) | 🔁 Used Drift and Chili Piper, which between them cover what Qualified does (website chat, account ID, routing, booking) | Config spec | Frame as same category; Drift is now part of the Salesloft/Clari family |
+| Sales Navigator (🟦 preferred) | `[CONFIRM]` | Config spec | Preferred, not required |
 | **Clari, hands-on (🟩 required, "ideally Clari")** | Not on resume. Adjacent: win-rate-based coverage and capacity forecasting (Certa, Planful); deal-risk and pipeline-health scoring (Certa). | Clari config spec (rebuilt from Clari's public docs: role-hierarchy roll-up, formula-field limits, CRM Score, Salesloft merger), forecast cadence, accuracy measurement | **Still the largest gap for Strategy & Ops.** Lead with forecasting *methodology* (which is real) and the spec. If you've used Clari at all, even as a viewer, `[CONFIRM]`. |
 | Conversation intelligence / Clari Copilot (🟩 preferred) | ✅ **Gong**: qualification validation and objection-trend analysis fed back into messaging | Tracker and EB-detection design | Same category, different vendor |
 | Deal-risk detection (🟩) | ✅ Deal-risk and pipeline-health scoring calibrated to Certa's ~10% win rate | `deal_risk.py` + evals | — |

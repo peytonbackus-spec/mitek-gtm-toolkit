@@ -34,3 +34,4 @@ Principle: **the forecast is the product.** Every change in days 31–90 has to 
 3. Which usage data (transaction / check volumes) reaches Salesforce or the warehouse, and how fresh is it?
 4. How do Finance and Sales reconcile bookings vs revenue for license vs SaaS deals?
 5. Who owns Clari admin today, and what's the Clari Copilot adoption rate?
+6. With sales, channel, CS, SE and PS newly unified under Aaron Seyler, what does he want the forecast and QBR rhythm to look like, and which of today's processes are already marked for change?

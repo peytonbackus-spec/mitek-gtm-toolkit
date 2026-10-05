@@ -34,3 +34,4 @@ Principle: **measure before building.** Every change in days 31–90 has a basel
 3. How are community bank and credit union leads from Fiserv/CSI attributed today?
 4. Is there a warehouse (Snowflake/BigQuery) with Salesforce synced, or is reporting Salesforce-native only?
 5. What is the policy on sending prospect data to AI vendors, and who in security signs off?
+6. With Aaron Seyler now running sales, channel, CS and SE under one org, which lead-side changes are already on his list (routing across direct vs channel, SDR structure, tooling)?

@@ -4,22 +4,27 @@ This page separates three things: what is **real experience**, what is **demonst
 
 ## 1. Experience vs demonstration, by requirement
 
+Sources for the "Real experience" column: my resume (Sept 2026 version) and things I've said directly. Last updated Oct 5, 2026.
+
 | Requirement (role) | Real experience | Demonstrated here | Gap / action |
 |---|---|---|---|
-| Salesforce automation, data model, governance (🟪) | ✅ Validation rules, Flows, fields, layouts, reports | Object model, Flow spec, DQ rules | — |
+| Salesforce automation, data model, governance (🟪) | ✅ Validation rules, Flows, fields, layouts, reports; CRM hygiene standards at Planful | Object model, Flow spec, DQ rules | — |
 | Lead routing + scoring (🟦) | ✅ Built at Planful and Certa | Scoring, calibration, routing engine | — |
-| Lead lifecycle + SDR process design (🟦) | ✅ SDR leadership at Planful (12) and Certa (5) | Lifecycle spec, SLA monitor, capacity model | — |
-| AI-enabled workflows (🟪) | ✅ Certa AI Systems & GTM Engineering; consulting practice | 3 AI workflows with evals, PII guard, HITL | `[CONFIRM]` one production AI workflow + measured result to cite |
-| Clay (🟦) | ✅ | Waterfall spec | — |
-| Salesloft / sales engagement (🟦 required) | `[CONFIRM]` | Cadence architecture spec | Haven't built auto-enrollment; spec says so |
-| Nooks, Lusha, Qualified, Sales Nav (🟦 preferred) | `[CONFIRM]` | Config specs | Confirm hands-on vs evaluated |
-| **Clari, hands-on (🟩 required, "ideally Clari")** | `[CONFIRM]` | Clari config spec, forecast cadence, accuracy measurement | **Largest likely gap for the Strategy & Ops role.** If it's limited, lead with forecast process and accuracy measurement, which are tool-agnostic, and show the spec. |
-| Clari Copilot / conversation intelligence (🟩 preferred) | `[CONFIRM]` | Tracker and EB-detection design | Confirm |
-| Forecasting cadence ownership (🟩) | `[CONFIRM]`: ran forecasts as SDR leader / GTM eng? | Cadence + accuracy/bias script | Be specific about what was owned vs contributed to |
-| Renewals / retention ops (🟩) | `[CONFIRM]`: Certa scope included CS | Renewal process + health model | Confirm depth |
-| SQL / BI / warehouse (preferred, both) | `[CONFIRM]` | Semantic layer + role SQL, runnable | Confirm depth |
-| 4+ years in GTM/Revenue Ops or technical GTM (both) | `[CONFIRM: count years]` | — | Frame SDR leadership + builder work + Certa GTM engineering as one continuous technical-GTM arc |
-| Enterprise ABM in fintech or cybersecurity (🟦 preferred) | Partial: Certa is third-party-risk (security/risk buyers) | — | `[CONFIRM]` account examples |
+| Lead lifecycle + SDR process design (🟦) | ✅ SDR leadership at Planful (12) and Certa (5); qualification-based BDR→AE handoff; ramp framework | Lifecycle spec, SLA monitor, capacity model | — |
+| AI-enabled workflows (🟪) | ✅ Certa: Clay signal-driven prospecting, security/RFP automation, AI-assisted account planning | 3 AI workflows with evals, PII guard, HITL | `[CONFIRM]` one measured result to cite (time saved, conversion lift) |
+| Clay (🟦) | ✅ Daily use; signal enrichment at Certa; consulting stack | Waterfall spec | — |
+| Hands-on sales engagement platform (🟦 **required**) | ✅ **Outreach**: built the sequencing infrastructure at Certa, daily use | Salesloft cadence architecture spec | Salesloft specifically is `[CONFIRM]`; frame Outreach → Salesloft as same category. Haven't built auto-enrollment; spec says so. |
+| Nooks, Lusha, Qualified, Sales Nav (🟦 preferred) | Not on resume. Apollo used in consulting. | Config specs | `[CONFIRM]` hands-on vs none. Preferred, not required. |
+| **Clari, hands-on (🟩 required, "ideally Clari")** | Not on resume. Adjacent: win-rate-based coverage and capacity forecasting (Certa, Planful); deal-risk and pipeline-health scoring (Certa). | Clari config spec, forecast cadence, accuracy measurement | **Still the largest gap for Strategy & Ops.** Lead with forecasting *methodology* (which is real) and the spec. If you've used Clari at all, even as a viewer, `[CONFIRM]`. |
+| Conversation intelligence / Clari Copilot (🟩 preferred) | ✅ **Gong**: qualification validation and objection-trend analysis fed back into messaging | Tracker and EB-detection design | Same category, different vendor |
+| Deal-risk detection (🟩) | ✅ Deal-risk and pipeline-health scoring calibrated to Certa's ~10% win rate | `deal_risk.py` + evals | — |
+| Forecasting cadence ownership (🟩) | Partial: coverage targets and capacity forecasting off actual win rate fed leadership forecasting (Certa); forecasting models tied to win-rate data (Planful) | Cadence + accuracy/bias script | `[CONFIRM]` did you run or sit in the weekly forecast call, or supply inputs to it? |
+| Renewals / retention ops (🟩) | Partial: Certa GTM-engineering scope covered Customer Success; the SDR target spanned expansion and renewal motions | Renewal process + health model | `[CONFIRM]` any renewal forecasting or health-scoring work |
+| Funnel analytics + reporting (both) | ✅ Full-funnel instrumentation at Certa (engagement tracking, SQL attribution, conversion analytics, weekly leadership reporting); performance dashboards at Planful | Funnel report, pipeline report, SQL | — |
+| SQL / BI / warehouse (preferred, both) | Not on the main resume | Semantic layer + role SQL, runnable | `[CONFIRM]` depth. Don't claim it unless you can write a join + window function live. |
+| 4+ years in GTM/Revenue Ops or technical GTM (both) | ~4 yrs 9 mo in B2B SaaS revenue orgs (Jan 2022 – now), with systems ownership growing throughout; plus 2+ yrs at TD Bank | — | Meets the bar. Frame it as one continuous arc: SDR → manager who built the systems → GTM engineering. |
+| Enterprise ABM in fintech or cybersecurity (🟦 preferred) | Partial: Certa sells third-party-risk management to risk and security buyers; enterprise account planning and multithreading | — | `[CONFIRM]` specific ABM plays or accounts |
+| Banking domain (useful for Mitek, not in posting) | ✅ Personal Banking Specialist, TD Bank (2019–2021) | — | Use as context, not as a fraud/IDV claim |
 
 ## 2. What's synthetic or assumed in this repo
 
@@ -30,13 +35,13 @@ This page separates three things: what is **real experience**, what is **demonst
 | ACV ranges, cycle lengths, quota | `[ASSUME]`, illustrative | Mitek actuals |
 | Stage design and max days | `[ASSUME]` | Validate with sales leadership |
 | Health weights and expected churn by band | `[ASSUME]` | Calibrate on 4 quarters of renewals |
-| Competitor names | Placeholder labels | Mitek's actual competitive set |
+| Competitor names | Placeholder labels in data; Jumio and Onfido are publicly compared against Mitek (see VARIABLES.md) | Mitek's actual competitive set from win/loss data |
 | SDR / AE names | Fictional | — |
 | AI model | Deterministic mock by default | Live mode exists (`GTM_LLM_MODE=anthropic`); vendor and retention terms need Mitek security approval |
 
 ## 3. Before this repo is shared with anyone
 
 - [ ] Fill every `[CONFIRM]` in this file and in [`about/builder-experience.md`](about/builder-experience.md), or delete the row.
-- [ ] Re-check the company-brief figures against Mitek's latest 10-Q / press release.
+- [x] Re-check the company-brief figures against Mitek's latest press release (done Oct 5, 2026: Q3 FY26 figures verified against the 8-K exhibit; three items remain from call coverage only).
 - [ ] Decide which role the conversation is about and lead with that track's README.
 - [ ] Repo stays **private** until there's a reason to share it.

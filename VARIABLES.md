@@ -22,10 +22,11 @@ My base toolkit is company-agnostic and uses bracketed variables like `[COMPANY_
 | `[PRIMARY_SIGNAL_TRIGGERS]` | Demo request, Qualified chat, pricing page, deepfake webinar, check-fraud content, fraud-leader job change, fraud-team hiring, competitor contract-renewal window | ASSUME | `lead_scoring.intent_signals` |
 | `[ACV_RANGE]` | ~$20K (credit union) to $900K (Top-25 bank) by segment | ASSUME, illustrative only | sample data generator |
 | `[SALES_CYCLE_LENGTH]` | ~60–200 days, ~1.6x longer for Top-25 banks; technical validation and security review are the long poles | ASSUME | stage max-days, deal-risk rules |
-| `[REVENUE_CONTEXT]` | FY26 revenue guidance $195–200M; Fraud & Identity growing faster than Check; SaaS ~46% of TTM revenue | PUBLIC (call coverage) | company brief, renewal weighting |
+| `[REVENUE_CONTEXT]` | FY26 Q3 revenue $54.0M (+18%); F&I SaaS +37%; FY26 guidance $195–200M; SaaS ~46% of TTM revenue (call coverage) | PUBLIC (Q3 press release / 8-K) | company brief, renewal weighting |
+| `[GTM_LEADERSHIP]` | CRO Aaron Seyler (since Aug 17, 2026; ex-Vonage, ex-Telesign) over sales, channel, CS, SE and PS | PUBLIC | company brief, first-90-days framing |
 | `[STRATEGIC_THEMES]` | "Unify and Grow"; check consortium network effects; GenAI-era fraud; channel expansion | PUBLIC | expansion routing, renewals, signals |
 | `[REGULATORY_CONTEXT]` | KYC/AML, age verification (EMEA demand), bank vendor-risk reviews; CASL/GDPR for outreach | PUBLIC + ASSUME | personas, security-review stage gate, cadence rules |
-| `[COMPETITORS]` | Placeholder labels in sample data ("Competitor A (IDV)" etc.). Vendors commonly compared in IDV include Jumio, Socure, Entrust/Onfido, Persona, Incode and AU10TIX | VERIFY | closed-lost analysis |
+| `[COMPETITORS]` | Placeholder labels in sample data ("Competitor A (IDV)" etc.). **Jumio** and **Onfido** are publicly compared head-to-head with Mitek ([1](https://validadvantage.com/blog/jumio-vs-mitek), [2](https://validadvantage.com/blog/mitek-vs-onfido)). Socure, Persona, Incode and AU10TIX are other likely IDV names | PUBLIC (Jumio, Onfido) / VERIFY (rest) | closed-lost analysis |
 | `[QUOTA]` | FY27-Q1: NA $1.6M, EMEA $450K, APAC $180K, LATAM $120K | ASSUME, sized to the synthetic data only | coverage report |
 
 ## Changing a variable

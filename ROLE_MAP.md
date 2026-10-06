@@ -66,9 +66,9 @@ The two Mitek postings share a template. Both have Analytics, AI & Automation, a
 | 4+ yrs GTM Ops / RevOps / technical GTM | 4+ yrs GTM/Revenue/Sales Ops or technical GTM, B2B SaaS | [about/builder-experience.md](about/builder-experience.md) |
 | Strong Salesforce (automation, data governance) | Strong Salesforce (data modeling, automation) | Experience + 🟪 [object model](shared_core/data_model/salesforce-object-model.md) |
 | AI-enabled workflows; prompt design, testing, monitoring | AI workflows; prompt engineering and testing | Both tracks' AI workflows, evals in CI |
-| Hands-on sales engagement platform | Hands-on forecasting platform, ideally Clari | See [gaps](GAPS_AND_PLACEHOLDERS.md) |
+| Hands-on sales engagement platform | Hands-on forecasting platform, ideally Clari | See [builder experience](about/builder-experience.md) |
 | Lead lifecycle + SDR process design | Influence senior cross-functional leaders | SDR leadership background |
-| *Pref:* Lusha, Clay, Nooks, Qualified, Sales Nav | *Pref:* Clari Copilot / conversation intelligence | See [gaps](GAPS_AND_PLACEHOLDERS.md) |
+| *Pref:* Lusha, Clay, Nooks, Qualified, Sales Nav | *Pref:* Clari Copilot / conversation intelligence | See [builder experience](about/builder-experience.md) |
 | *Pref:* SQL, BI, warehouse | *Pref:* SQL, BI, warehouse | ▶️ SQL in both tracks |
 | *Pref:* GTM app / agent development | *Pref:* GTM app / internal tool development | This repo |
 | *Pref:* enterprise ABM in fintech or cybersecurity | *Pref:* Salesloft, Lusha, Sales Nav familiarity | Certa.ai (third-party risk management) |

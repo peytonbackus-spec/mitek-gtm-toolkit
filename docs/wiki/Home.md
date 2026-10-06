@@ -1,6 +1,6 @@
 # Mitek GTM Toolkit Wiki
 
-**One revenue engine, two owners.** This wiki is the narrative layer on top of the [repository](https://github.com/peytonbackus-spec/mitek-gtm-toolkit). The repo holds the working code and specs; the wiki explains how the pieces fit, why they're built this way, and how to walk someone through them.
+**One revenue engine, two owners.** This wiki is the narrative layer on top of the [repository](https://github.com/peytonbackus-spec/mitek-gtm-toolkit). The repo holds the working code and specs; the wiki explains how the pieces fit and why they're built this way.
 
 | | Role | Owns | Start with |
 |---|---|---|---|
@@ -10,7 +10,6 @@
 
 ## Pages
 
-- [[Five Minute Walkthrough]]: the order to show things in, and what to say at each stop
 - [[Architecture]]: how data moves from signal to renewal, and where the handoff between roles sits
 - [[Running the Toolkit]]: setup, every command, what each report shows
 - [[AI Governance]]: the six parts every AI workflow has, and the three workflows in the repo
@@ -21,6 +20,5 @@
 
 ## Ground rules
 
-- **Private.** Not shared with anyone until there's a reason to.
 - **Synthetic data only.** Everything in `sample_data/` is fictional. Mitek facts are sourced in the [company brief](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/blob/main/shared_core/context/mitek-company-brief.md).
-- **No overclaiming.** What I've done vs what's demonstrated here is separated in [GAPS_AND_PLACEHOLDERS.md](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/blob/main/GAPS_AND_PLACEHOLDERS.md).
+- **No overclaiming.** What I've done vs what's demonstrated here is laid out in [builder-experience](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/blob/main/about/builder-experience.md).

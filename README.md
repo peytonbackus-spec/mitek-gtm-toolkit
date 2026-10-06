@@ -7,7 +7,7 @@
 ![Shared](https://img.shields.io/badge/🟪%20Shared%20Core-both%20roles-7B61FF)
 ![CI](https://img.shields.io/badge/tests-pytest%20%2B%20prompt%20evals-555)
 
-> **Private repo.** All accounts, people and numbers in `sample_data/` are synthetic. Mitek company facts come from public sources and are cited in the [company brief](shared_core/context/mitek-company-brief.md). Working assumptions are tagged `[ASSUME]` in [`config/mitek.yaml`](config/mitek.yaml).
+> All accounts, people and numbers in `sample_data/` are synthetic. Mitek company facts come from public sources and are cited in the [company brief](shared_core/context/mitek-company-brief.md). Working assumptions are tagged `[ASSUME]` in [`config/mitek.yaml`](config/mitek.yaml).
 
 ---
 
@@ -21,7 +21,7 @@ Every folder, badge and diagram node is colour-coded by the role it supports:
 | 🟩 **Green** | [`gtm_strategy_ops/`](gtm_strategy_ops/) | [GTM Strategy & Ops posting](https://jobs.lever.co/miteksystems-2/158d6add-b1b5-4de6-aaa4-5975e241766d) | opportunity → stage gates → deal risk → forecast → close → renewal |
 | 🟪 **Purple** | [`shared_core/`](shared_core/) | **Both** | Salesforce data model, data quality, AI governance, metric definitions, Mitek context |
 
-**Start here:** the [wiki](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/wiki) ([five-minute walkthrough](docs/wiki/Five-Minute-Walkthrough.md)). Then [`ROLE_MAP.md`](ROLE_MAP.md) lists every requirement in both postings side by side, each linked to the artifact that answers it.
+**Start here:** the [wiki](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/wiki). Then [`ROLE_MAP.md`](ROLE_MAP.md) lists every requirement in both postings side by side, each linked to the artifact that answers it.
 
 ```mermaid
 flowchart LR
@@ -126,7 +126,6 @@ about/                          my background against these roles
 
 - [`ROLE_MAP.md`](ROLE_MAP.md): every posting requirement mapped to an artifact, both roles side by side
 - [`VARIABLES.md`](VARIABLES.md): how the generic toolkit variables were filled in for Mitek, with sources
-- [`GAPS_AND_PLACEHOLDERS.md`](GAPS_AND_PLACEHOLDERS.md): what is real experience, what is demonstrated here, and what is still a gap
 - [`about/builder-experience.md`](about/builder-experience.md): where my hands-on builder and CRM experience comes from
-- [Wiki](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/wiki) (source in [`docs/wiki/`](docs/wiki/Home.md)): walkthrough, architecture, AI governance, decision log, glossary, roadmap
+- [Wiki](https://github.com/peytonbackus-spec/mitek-gtm-toolkit/wiki) (source in [`docs/wiki/`](docs/wiki/Home.md)): architecture, AI governance, decision log, glossary, roadmap
 - [`CHANGELOG.md`](CHANGELOG.md): what changed and when

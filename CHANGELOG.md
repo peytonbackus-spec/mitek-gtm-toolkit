@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.1 (2026-10-06)
+- Repository made public. Removed internal prep notes (gaps file, walkthrough script, repo-rules file), rewrote `about/builder-experience.md` to confirmed facts only, and updated the README, role map, wiki and license wording accordingly.
+
 ## 0.3.0 (2026-10-05)
 - Added a wiki (source in `docs/wiki/`, published with `scripts/publish_wiki.sh`): home, five-minute walkthrough, both role tracks, shared core, architecture, running guide, AI governance, Mitek context, decision log, glossary, roadmap.
 - Added repo metadata script (`scripts/set_repo_about.sh`), `LICENSE`, `pyproject.toml` and this changelog.

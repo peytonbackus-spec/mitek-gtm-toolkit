@@ -5,7 +5,7 @@ set -euo pipefail
 REPO="peytonbackus-spec/mitek-gtm-toolkit"
 
 gh repo edit "$REPO" \
-  --description "GTM Engineer (lead → opportunity) and GTM Strategy & Ops (opportunity → renewal) toolkit for Mitek: scoring, routing, funnel, forecasting, deal-risk and renewal tooling on a shared Salesforce + AI-governance core. Synthetic data." \
+  --description "GTM Engineer (lead → opportunity) and GTM Strategy & Ops (opportunity → renewal) toolkit for Mitek: scoring, routing, funnel, forecasting, deal-risk and renewal tooling, plus VP of Sales reporting, sales planning and Marketing Ops, on a shared Salesforce + AI-governance core. Synthetic data." \
   --homepage "https://github.com/${REPO}/wiki" \
   --enable-wiki \
   --add-topic gtm-engineering \
@@ -18,6 +18,8 @@ gh repo edit "$REPO" \
   --add-topic lead-scoring \
   --add-topic forecasting \
   --add-topic ai-governance \
+  --add-topic sales-operations \
+  --add-topic marketing-operations \
   --add-topic python \
   --add-topic sql
 

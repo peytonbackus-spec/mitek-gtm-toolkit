@@ -1,0 +1,1867 @@
+member_id,campaign_id,lead_id,status,responded,touch_date,utm_source,utm_medium
+CM-50000,CMP-123,L-5000,Referred,True,2026-05-01,partner,referral
+CM-50002,CMP-117,L-5000,Downloaded,True,2026-05-02,linkedin,organic
+CM-50001,CMP-129,L-5000,Attended,True,2026-08-12,webinar_platform,webinar
+CM-50003,CMP-101,L-5001,Met at Booth,True,2026-02-13,events,event
+CM-50004,CMP-133,L-5001,Converted,True,2026-09-01,LinkedIn,paid_social
+CM-50005,CMP-101,L-5002,Attended,True,2026-01-09,events,event
+CM-50006,CMP-103,L-5002,Attended,True,2026-01-15,webinar_platform,webinar
+CM-50007,CMP-113,L-5002,Registered,False,2026-04-16,events,event
+CM-50008,CMP-138,L-5003,Demo Requested,True,2026-08-02,google,cpc
+CM-50009,CMP-133,L-5003,Clicked,False,2026-08-03,linkedin,paid_social
+CM-50011,CMP-129,L-5003,No Show,False,2026-08-19,webinar_platform,webinar
+CM-50010,CMP-134,L-5003,Replied,True,2026-08-28,salesloft,email
+CM-50012,CMP-102,L-5004,Attended,True,2026-02-04,webinar_platform,webinar
+CM-50013,CMP-127,L-5005,Met at Booth,True,2026-07-25,events,event
+CM-50014,CMP-125,L-5006,Demo Requested,True,2026-05-20,google,cpc
+CM-50015,CMP-136,L-5007,Referred,True,2026-08-24,partner,referral
+CM-50016,CMP-130,L-5007,Downloaded,True,2026-09-09,linkedin,organic
+CM-50017,CMP-126,L-5007,Attended,True,2026-09-18,events,event
+CM-50018,CMP-125,L-5008,Demo Requested,True,2026-05-17,google,cpc
+CM-50019,CMP-135,L-5008,Replied,True,2026-09-02,salesloft,email
+CM-50020,CMP-134,L-5009,Replied,True,2026-08-14,salesloft,email
+CM-50021,CMP-134,L-5009,Replied,True,2026-09-23,salesloft,email
+CM-50022,CMP-137,L-5010,Chat Engaged,True,2026-09-07,google,cpc
+CM-50023,CMP-136,L-5011,Referred,True,2026-09-07,partner,referral
+CM-50024,CMP-129,L-5011,Watched On-Demand,True,2026-09-12,webinar_platform,webinar
+CM-50025,CMP-104,L-5012,Downloaded,True,2026-02-25,linkedin,organic
+CM-50026,CMP-119,L-5012,Converted,True,2026-05-28,linkedin,paid_social
+CM-50027,CMP-101,L-5013,Met at Booth,True,2026-01-19,events,event
+CM-50028,CMP-116,L-5014,Watched On-Demand,True,2026-06-28,webinar_platform,webinar
+CM-50031,CMP-121,L-5014,Replied,True,2026-06-30,salesloft,email
+CM-50030,CMP-129,L-5014,Watched On-Demand,True,2026-08-21,webinar_platform,webinar
+CM-50029,CMP-131,L-5014,Downloaded,True,2026-09-27,linkedin,organic
+CM-50032,CMP-123,L-5015,Referred,True,2026-04-04,partner,referral
+CM-50034,CMP-129,L-5015,Watched On-Demand,True,2026-08-14,webinar_platform_,webinar
+CM-50033,CMP-127,L-5015,Attended,True,2026-08-31,events,event
+CM-50035,CMP-117,L-5016,Downloaded,True,2026-06-16,linkedin,organic
+CM-50036,CMP-132,L-5016,Converted,True,2026-08-18,linkedin,paid_social
+CM-50037,CMP-106,L-5017,Converted,True,2026-01-10,linkedin,paid_social
+CM-50038,CMP-138,L-5018,Chat Engaged,True,2026-07-16,google,cpc
+CM-50039,CMP-129,L-5019,Attended,True,2026-08-13,webinar_platform,webinar
+CM-50041,CMP-127,L-5019,Registered,False,2026-08-22,events,event
+CM-50040,CMP-131,L-5019,Downloaded,True,2026-08-26,linkedin,organic
+CM-50042,CMP-112,L-5020,Demo Requested,True,2026-02-23,google,cpc
+CM-50043,CMP-114,L-5020,Met at Booth,True,2026-04-19,events,event
+CM-50044,CMP-125,L-5021,Chat Engaged,True,2026-06-03,google,cpc
+CM-50045,CMP-137,L-5022,Chat Engaged,True,2026-08-21,google,cpc
+CM-50046,CMP-121,L-5023,Replied,True,2026-05-05,salesloft,email
+CM-50047,CMP-118,L-5024,Downloaded,True,2026-04-23,linkedin,organic
+CM-50048,CMP-113,L-5024,Met at Booth,True,2026-05-23,events,event
+CM-50049,CMP-118,L-5024,Downloaded,True,2026-06-13,linkedin,organic
+CM-50050,CMP-136,L-5025,Referred,True,2026-07-27,partner,referral
+CM-50052,CMP-131,L-5025,Downloaded,True,2026-09-15,linkedin,organic
+CM-50051,CMP-134,L-5025,Replied,True,2026-09-30,salesloft,email
+CM-50053,CMP-122,L-5026,Meeting Booked,True,2026-06-30,salesloft,email
+CM-50056,CMP-129,L-5026,Watched On-Demand,True,2026-07-11,webinar_platform,webinar
+CM-50054,CMP-128,L-5026,Watched On-Demand,True,2026-07-13,webinar_platform,webinar
+CM-50055,CMP-135,L-5026,Replied,True,2026-08-09,salesloft,email
+CM-50057,CMP-118,L-5027,Downloaded,True,2026-06-23,linkedin,organic
+CM-50058,CMP-128,L-5027,Attended,True,2026-08-17,webinar_platform,webinar
+CM-50059,CMP-135,L-5027,Sent,False,2026-08-29,salesloft,email
+CM-50060,CMP-115,L-5028,Attended,True,2026-05-01,webinar_platform,webinar
+CM-50061,CMP-131,L-5028,Downloaded,True,2026-09-22,linkedin,organic
+CM-50062,CMP-110,L-5029,Referred,True,2026-02-02,partner,referral
+CM-50065,CMP-121,L-5029,Replied,True,2026-05-16,salesloft,email
+CM-50063,CMP-120,L-5029,Converted,True,2026-06-17,linkedin,paid_social
+CM-50064,CMP-126,L-5029,Attended,True,2026-07-07,events,event
+CM-50066,CMP-138,L-5030,Chat Engaged,True,2026-08-26,google,cpc
+CM-50067,CMP-132,L-5030,Converted,True,2026-09-21,linkedin,paid_social
+CM-50068,CMP-135,L-5030,Meeting Booked,True,2026-09-26,salesloft,email
+CM-50069,CMP-138,L-5031,Demo Requested,True,2026-07-21,google,cpc
+CM-50070,CMP-130,L-5031,Downloaded,True,2026-07-26,linkedin,organic
+CM-50072,CMP-131,L-5031,Downloaded,True,2026-08-23,linkedin,organic
+CM-50071,CMP-131,L-5031,Downloaded,True,2026-09-05,linkedin,organic
+CM-50073,CMP-104,L-5032,Downloaded,True,2026-01-09,linkedin,organic
+CM-50074,CMP-121,L-5032,Sent,False,2026-05-01,salesloft,email
+CM-50075,CMP-110,L-5033,Referred,True,2026-01-08,partner,referral
+CM-50076,CMP-108,L-5034,Replied,True,2026-02-03,salesloft,email
+CM-50077,CMP-136,L-5035,Referred,True,2026-07-07,partner,referral
+CM-50078,CMP-126,L-5036,Met at Booth,True,2026-08-08,events,event
+CM-50079,CMP-134,L-5036,Replied,True,2026-09-04,salesloft,email
+CM-50080,CMP-136,L-5037,Referred,True,2026-07-19,partner,referral
+CM-50081,CMP-134,L-5037,Sent,False,2026-09-01,salesloft,email
+CM-50082,CMP-126,L-5038,Met at Booth,True,2026-09-11,events,event
+CM-50083,CMP-111,L-5039,Demo Requested,True,2026-01-07,google,cpc
+CM-50084,CMP-108,L-5039,Meeting Booked,True,2026-02-25,salesloft,email
+CM-50085,CMP-107,L-5039,Converted,True,2026-02-26,linkedin,paid_social
+CM-50086,CMP-128,L-5039,Registered,False,2026-07-18,webinar_platform,webinar
+CM-50087,CMP-109,L-5040,Meeting Booked,True,2026-02-26,salesloft,email
+CM-50088,CMP-130,L-5041,Downloaded,True,2026-07-07,linkedin,organic
+CM-50089,CMP-111,L-5042,Chat Engaged,True,2026-01-29,google,cpc
+CM-50090,CMP-110,L-5043,Referred,True,2026-02-25,partner,referral
+CM-50091,CMP-130,L-5044,Downloaded,True,2026-09-16,linkedin,organic
+CM-50092,CMP-112,L-5045,Chat Engaged,True,2026-02-12,google,cpc
+CM-50093,CMP-130,L-5045,Downloaded,True,2026-08-16,linkedin,organic
+CM-50094,CMP-102,L-5046,Watched On-Demand,True,2026-01-09,webinar_platform,webinar
+CM-50095,CMP-105,L-5046,Downloaded,True,2026-02-04,linkedin,organic
+CM-50096,CMP-134,L-5046,Meeting Booked,True,2026-08-05,salesloft,email
+CM-50097,CMP-130,L-5046,Downloaded,True,2026-09-21,linkedin,organic
+CM-50098,CMP-134,L-5047,Replied,True,2026-09-06,salesloft,email
+CM-50099,CMP-131,L-5047,Downloaded,True,2026-09-08,linkedin,organic
+CM-50100,CMP-138,L-5048,Chat Engaged,True,2026-07-07,google,cpc
+CM-50101,CMP-126,L-5048,Attended,True,2026-07-20,events,event
+CM-50102,CMP-108,L-5049,Meeting Booked,True,2026-02-22,salesloft,email
+CM-50103,CMP-125,L-5050,Demo Requested,True,2026-05-27,google,cpc
+CM-50104,CMP-135,L-5050,Meeting Booked,True,2026-07-03,salesloft,email
+CM-50105,CMP-138,L-5051,Chat Engaged,True,2026-09-16,google,cpc
+CM-50106,CMP-114,L-5052,Attended,True,2026-06-28,events_,event
+CM-50107,CMP-137,L-5053,Demo Requested,True,2026-08-02,google,cpc
+CM-50108,CMP-133,L-5053,Converted,True,2026-08-06,linkedin,paid_social
+CM-50109,CMP-108,L-5054,Meeting Booked,True,2026-03-09,salesloft,email
+CM-50110,CMP-115,L-5055,Attended,True,2026-04-03,webinar_platform,webinar
+CM-50113,CMP-116,L-5055,Watched On-Demand,True,2026-05-13,webinar_platform,webinar
+CM-50112,CMP-126,L-5055,Attended,True,2026-07-19,events,event
+CM-50111,CMP-130,L-5055,Downloaded,True,2026-08-01,linkedin,organic
+CM-50114,CMP-122,L-5056,Meeting Booked,True,2026-06-04,salesloft,email
+CM-50116,CMP-133,L-5056,Converted,True,2026-08-08,linkedin,paid_social
+CM-50115,CMP-131,L-5056,Downloaded,True,2026-09-17,linkedin,organic
+CM-50117,CMP-136,L-5057,Referred,True,2026-08-06,partner,referral
+CM-50118,CMP-130,L-5057,Downloaded,True,2026-09-17,linkedin,organic
+CM-50119,CMP-110,L-5058,Referred,True,2026-02-26,partner,referral
+CM-50120,CMP-122,L-5059,Replied,True,2026-04-18,salesloft,email
+CM-50123,CMP-116,L-5059,Registered,False,2026-04-20,webinar_platform,webinar
+CM-50121,CMP-121,L-5059,Meeting Booked,True,2026-04-21,salesloft,email
+CM-50122,CMP-118,L-5059,Downloaded,True,2026-04-24,linkedin,organic
+CM-50124,CMP-101,L-5060,Met at Booth,True,2026-01-07,events,event
+CM-50125,CMP-119,L-5060,Converted,True,2026-06-23,linkedin,paid_social
+CM-50126,CMP-101,L-5061,Met at Booth,True,2026-02-11,events,event
+CM-50127,CMP-112,L-5062,Chat Engaged,True,2026-01-09,google,cpc
+CM-50128,CMP-106,L-5062,Clicked,False,2026-02-17,linkedin,paid_social
+CM-50129,CMP-133,L-5062,Clicked,False,2026-09-20,linkedin,paid_social
+CM-50130,CMP-136,L-5063,Referred,True,2026-09-25,partner,referral
+CM-50131,CMP-105,L-5064,Downloaded,True,2026-02-07,linkedin,organic
+CM-50132,CMP-114,L-5064,Attended,True,2026-04-27,events,event
+CM-50133,CMP-132,L-5064,Converted,True,2026-09-08,linkedin,paid_social
+CM-50134,CMP-111,L-5065,Chat Engaged,True,2026-02-11,google,cpc
+CM-50135,CMP-134,L-5065,Meeting Booked,True,2026-09-14,salesloft,email
+CM-50136,CMP-112,L-5066,Demo Requested,True,2026-02-06,google,cpc
+CM-50137,CMP-115,L-5067,Watched On-Demand,True,2026-04-27,webinar_platform,webinar
+CM-50138,CMP-129,L-5067,Attended,True,2026-08-14,webinar_platform,webinar
+CM-50139,CMP-122,L-5068,Replied,True,2026-04-23,salesloft,email
+CM-50140,CMP-106,L-5069,Converted,True,2026-02-08,linkedin,paid_social
+CM-50141,CMP-118,L-5069,Downloaded,True,2026-04-12,linkedin,organic
+CM-50142,CMP-135,L-5070,Meeting Booked,True,2026-09-10,salesloft,email
+CM-50144,CMP-127,L-5070,No Show,False,2026-09-12,events,event
+CM-50143,CMP-127,L-5070,Attended,True,2026-09-15,events,event
+CM-50145,CMP-134,L-5070,Replied,True,2026-09-25,salesloft,email
+CM-50146,CMP-101,L-5071,Met at Booth,True,2026-03-14,events,event
+CM-50147,CMP-111,L-5072,Chat Engaged,True,2026-02-13,google,cpc
+CM-50148,CMP-109,L-5073,Meeting Booked,True,2026-03-14,salesloft,email
+CM-50149,CMP-126,L-5074,Met at Booth,True,2026-09-09,events,event
+CM-50150,CMP-137,L-5075,Demo Requested,True,2026-08-25,google,cpc
+CM-50151,CMP-135,L-5075,Sent,False,2026-08-27,salesloft,email
+CM-50152,CMP-131,L-5075,Downloaded,True,2026-09-07,linkedin,organic
+CM-50153,CMP-123,L-5076,Referred,True,2026-04-29,partner,referral
+CM-50154,CMP-131,L-5076,Downloaded,True,2026-08-11,linkedin,organic
+CM-50155,CMP-127,L-5076,Attended,True,2026-09-01,events,event
+CM-50156,CMP-121,L-5077,Meeting Booked,True,2026-05-02,SalesLoft,email
+CM-50158,CMP-129,L-5077,No Show,False,2026-07-02,webinar_platform,webinar
+CM-50157,CMP-135,L-5077,Replied,True,2026-08-09,salesloft,email
+CM-50159,CMP-134,L-5077,Meeting Booked,True,2026-08-18,salesloft,email
+CM-50160,CMP-124,L-5078,Chat Engaged,True,2026-05-30,google,cpc
+CM-50161,CMP-104,L-5079,Downloaded,True,2026-02-09,linkedin,organic
+CM-50162,CMP-104,L-5079,Downloaded,True,2026-03-20,linkedin,organic
+CM-50164,CMP-100,L-5079,Registered,False,2026-03-30,events,event
+CM-50163,CMP-126,L-5079,No Show,False,2026-08-06,events_,event
+CM-50165,CMP-138,L-5080,Demo Requested,True,2026-09-19,google.com,cpc
+CM-50166,CMP-131,L-5080,Downloaded,True,2026-09-27,linkedin,organic
+CM-50167,CMP-131,L-5081,Downloaded,True,2026-08-12,linkedin,organic
+CM-50168,CMP-113,L-5082,Attended,True,2026-04-20,events,event
+CM-50169,CMP-129,L-5082,Watched On-Demand,True,2026-08-17,webinar_platform,webinar
+CM-50170,CMP-136,L-5083,Referred,True,2026-07-13,partner,referral
+CM-50171,CMP-134,L-5084,Replied,True,2026-09-22,salesloft,email
+CM-50172,CMP-138,L-5085,Chat Engaged,True,2026-07-13,google,cpc
+CM-50174,CMP-133,L-5085,Converted,True,2026-08-25,linkedin,paid_social
+CM-50173,CMP-129,L-5085,Watched On-Demand,True,2026-09-23,webinar_platform,webinar
+CM-50175,CMP-118,L-5086,Downloaded,True,2026-05-31,linkedin,organic
+CM-50176,CMP-117,L-5086,Downloaded,True,2026-06-17,linkedin,organic
+CM-50177,CMP-121,L-5087,Replied,True,2026-05-26,salesloft,email
+CM-50178,CMP-134,L-5088,Meeting Booked,True,2026-08-25,salesloft,email
+CM-50179,CMP-135,L-5089,Replied,True,2026-07-17,salesloft,email
+CM-50181,CMP-130,L-5089,Downloaded,True,2026-08-27,linkedin,organic
+CM-50180,CMP-127,L-5089,Registered,False,2026-09-05,events,event
+CM-50182,CMP-136,L-5090,Referred,True,2026-09-26,partner,referral
+CM-50183,CMP-118,L-5091,Downloaded,True,2026-05-05,linkedin,organic
+CM-50184,CMP-120,L-5091,Converted,True,2026-06-15,linkedin,paid_social
+CM-50185,CMP-121,L-5092,Replied,True,2026-06-15,salesloft,email
+CM-50186,CMP-130,L-5092,Downloaded,True,2026-09-15,linkedin,organic
+CM-50187,CMP-124,L-5093,Demo Requested,True,2026-06-15,google,cpc
+CM-50188,CMP-119,L-5093,Clicked,False,2026-06-21,linkedin,paid_social
+CM-50189,CMP-134,L-5094,Meeting Booked,True,2026-07-10,salesloft,email
+CM-50190,CMP-108,L-5095,Meeting Booked,True,2026-03-22,salesloft,email
+CM-50191,CMP-121,L-5095,Replied,True,2026-06-16,salesloft,email
+CM-50192,CMP-118,L-5095,Downloaded,True,2026-06-24,linkedin,organic
+CM-50193,CMP-137,L-5096,Chat Engaged,True,2026-09-05,google.com,cpc
+CM-50194,CMP-119,L-5097,Converted,True,2026-04-04,linkedin,paid_social
+CM-50196,CMP-122,L-5097,Meeting Booked,True,2026-05-11,salesloft,email
+CM-50195,CMP-134,L-5097,Meeting Booked,True,2026-07-11,salesloft,email
+CM-50197,CMP-137,L-5098,Chat Engaged,True,2026-07-31,google,cpc
+CM-50198,CMP-128,L-5098,Watched On-Demand,True,2026-08-04,webinar_platform,webinar
+CM-50199,CMP-133,L-5098,Clicked,False,2026-08-31,linkedin,paid_social
+CM-50200,CMP-127,L-5098,Registered,False,2026-09-01,events,event
+CM-50201,CMP-129,L-5099,Watched On-Demand,True,2026-08-04,webinar_platform,webinar
+CM-50202,CMP-108,L-5100,Meeting Booked,True,2026-02-06,salesloft,email
+CM-50203,CMP-127,L-5100,Met at Booth,True,2026-08-13,events,event
+CM-50205,CMP-126,L-5100,Attended,True,2026-09-18,events,event
+CM-50204,CMP-128,L-5100,Watched On-Demand,True,2026-09-19,webinar_platform,webinar
+CM-50206,CMP-102,L-5101,Watched On-Demand,True,2026-03-10,webinar_platform,webinar
+CM-50207,CMP-107,L-5101,Converted,True,2026-03-28,linkedin,paid_social
+CM-50209,CMP-116,L-5101,Attended,True,2026-04-13,webinar_platform,webinar
+CM-50208,CMP-126,L-5101,Registered,False,2026-09-18,events,event
+CM-50210,CMP-121,L-5102,Meeting Booked,True,2026-04-05,salesloft,email
+CM-50211,CMP-135,L-5102,Replied,True,2026-07-30,SalesLoft,email
+CM-50212,CMP-110,L-5103,Referred,True,2026-01-05,partner,referral
+CM-50213,CMP-131,L-5104,Downloaded,True,2026-07-26,linkedin,organic
+CM-50216,CMP-130,L-5104,Downloaded,True,2026-08-26,linkedin,organic
+CM-50215,CMP-126,L-5104,Attended,True,2026-09-10,events,event
+CM-50214,CMP-130,L-5104,Downloaded,True,2026-09-25,linkedin,organic
+CM-50217,CMP-120,L-5105,Converted,True,2026-05-24,linkedin,paid_social
+CM-50218,CMP-120,L-5105,Converted,True,2026-06-28,linkedin,paid_social
+CM-50219,CMP-128,L-5105,Attended,True,2026-08-11,webinar_platform,webinar
+CM-50220,CMP-103,L-5106,Watched On-Demand,True,2026-01-14,webinar_platform,webinar
+CM-50221,CMP-108,L-5106,Sent,False,2026-01-16,salesloft,email
+CM-50222,CMP-101,L-5107,Attended,True,2026-01-21,events,event
+CM-50223,CMP-111,L-5108,Chat Engaged,True,2026-01-11,google,cpc
+CM-50224,CMP-132,L-5109,Converted,True,2026-09-08,linkedin,paid_social
+CM-50225,CMP-101,L-5110,Met at Booth,True,2026-03-25,events,event
+CM-50226,CMP-131,L-5111,Downloaded,True,2026-08-17,linkedin,organic
+CM-50227,CMP-123,L-5112,Referred,True,2026-04-10,partner,referral
+CM-50228,CMP-134,L-5113,Meeting Booked,True,2026-09-21,salesloft,email
+CM-50229,CMP-126,L-5113,Met at Booth,True,2026-09-22,events,event
+CM-50230,CMP-107,L-5114,Converted,True,2026-03-24,linkedin,paid_social
+CM-50231,CMP-134,L-5114,Replied,True,2026-09-03,salesloft,email
+CM-50232,CMP-112,L-5115,Demo Requested,True,2026-02-24,google,cpc
+CM-50233,CMP-118,L-5115,Downloaded,True,2026-05-01,linkedin,organic
+CM-50234,CMP-138,L-5116,Chat Engaged,True,2026-07-12,google.com,cpc
+CM-50235,CMP-129,L-5116,Registered,False,2026-07-18,webinar_platform,webinar
+CM-50236,CMP-134,L-5117,Meeting Booked,True,2026-07-07,salesloft,email
+CM-50237,CMP-128,L-5117,Attended,True,2026-08-10,webinar_platform,webinar
+CM-50238,CMP-123,L-5118,Referred,True,2026-05-08,partner,referral
+CM-50239,CMP-135,L-5118,Meeting Booked,True,2026-07-28,salesloft,email
+CM-50240,CMP-117,L-5119,Downloaded,True,2026-06-07,linkedin,organic
+CM-50241,CMP-125,L-5120,Demo Requested,True,2026-04-26,google,cpc
+CM-50242,CMP-115,L-5120,Attended,True,2026-06-21,webinar_platform,webinar
+CM-50243,CMP-138,L-5121,Demo Requested,True,2026-08-06,google.com,cpc
+CM-50244,CMP-130,L-5121,Downloaded,True,2026-09-09,linkedin,organic
+CM-50245,CMP-121,L-5122,Replied,True,2026-04-28,salesloft,email
+CM-50247,CMP-118,L-5122,Downloaded,True,2026-05-21,LinkedIn,organic
+CM-50246,CMP-120,L-5122,Converted,True,2026-06-26,linkedin,paid_social
+CM-50248,CMP-109,L-5123,Replied,True,2026-03-15,salesloft,email
+CM-50249,CMP-131,L-5123,Downloaded,True,2026-08-14,linkedin,organic
+CM-50250,CMP-126,L-5124,Attended,True,2026-08-09,events,event
+CM-50251,CMP-113,L-5125,Met at Booth,True,2026-04-17,events,event
+CM-50252,CMP-107,L-5126,Converted,True,2026-03-02,linkedin,paid_social
+CM-50253,CMP-131,L-5126,Downloaded,True,2026-08-10,linkedin,organic
+CM-50254,CMP-106,L-5127,Converted,True,2026-01-27,linkedin,paid_social
+CM-50255,CMP-137,L-5128,Demo Requested,True,2026-07-08,google,cpc
+CM-50256,CMP-131,L-5128,Downloaded,True,2026-09-19,linkedin,organic
+CM-50257,CMP-112,L-5129,Demo Requested,True,2026-01-16,google,cpc
+CM-50258,CMP-103,L-5129,No Show,False,2026-03-19,webinar_platform,webinar
+CM-50259,CMP-133,L-5129,Converted,True,2026-07-31,linkedin,paid_social
+CM-50260,CMP-137,L-5130,Chat Engaged,True,2026-07-22,google.com,cpc
+CM-50261,CMP-115,L-5131,Attended,True,2026-04-18,webinar_platform,webinar
+CM-50262,CMP-134,L-5131,Meeting Booked,True,2026-08-19,salesloft,email
+CM-50263,CMP-135,L-5132,Meeting Booked,True,2026-08-04,salesloft,email
+CM-50264,CMP-125,L-5133,Chat Engaged,True,2026-05-03,google,cpc
+CM-50265,CMP-117,L-5133,Downloaded,True,2026-05-09,linkedin,organic
+CM-50266,CMP-117,L-5134,Downloaded,True,2026-04-18,linkedin,organic
+CM-50268,CMP-118,L-5134,Downloaded,True,2026-05-06,linkedin,organic
+CM-50267,CMP-134,L-5134,Sent,False,2026-08-20,salesloft,email
+CM-50269,CMP-122,L-5135,Replied,True,2026-06-14,salesloft,email
+CM-50270,CMP-136,L-5136,Referred,True,2026-07-22,partner,referral
+CM-50273,CMP-127,L-5136,Met at Booth,True,2026-08-11,events,event
+CM-50272,CMP-132,L-5136,Converted,True,2026-08-13,linkedin,paid_social
+CM-50271,CMP-127,L-5136,Met at Booth,True,2026-08-28,events,event
+CM-50274,CMP-108,L-5137,Meeting Booked,True,2026-03-18,salesloft,email
+CM-50276,CMP-119,L-5137,Converted,True,2026-06-10,linkedin,paid_social
+CM-50277,CMP-122,L-5137,Replied,True,2026-06-22,salesloft,email
+CM-50275,CMP-119,L-5137,Converted,True,2026-06-30,linkedin,paid_social
+CM-50278,CMP-112,L-5138,Chat Engaged,True,2026-03-09,google,cpc
+CM-50279,CMP-130,L-5138,Downloaded,True,2026-08-04,linkedin,organic
+CM-50280,CMP-102,L-5139,Watched On-Demand,True,2026-01-27,webinar_platform,webinar
+CM-50281,CMP-114,L-5139,Attended,True,2026-05-23,events,event
+CM-50282,CMP-136,L-5140,Referred,True,2026-09-17,partner,referral
+CM-50283,CMP-130,L-5140,Downloaded,True,2026-09-18,linkedin,organic
+CM-50284,CMP-102,L-5141,Attended,True,2026-01-30,webinar_platform,webinar
+CM-50285,CMP-105,L-5141,Downloaded,True,2026-01-31,linkedin,organic
+CM-50286,CMP-107,L-5141,Converted,True,2026-02-04,linkedin,paid_social
+CM-50287,CMP-105,L-5141,Downloaded,True,2026-02-05,linkedin,organic
+CM-50288,CMP-126,L-5142,Met at Booth,True,2026-08-26,events,event
+CM-50289,CMP-133,L-5142,Converted,True,2026-09-14,linkedin,paid_social
+CM-50290,CMP-132,L-5143,Converted,True,2026-09-09,linkedin,paid_social
+CM-50291,CMP-124,L-5144,Demo Requested,True,2026-04-14,google,cpc
+CM-50292,CMP-129,L-5144,Watched On-Demand,True,2026-07-03,webinar_platform_,webinar
+CM-50293,CMP-127,L-5144,Met at Booth,True,2026-09-21,events,event
+CM-50294,CMP-107,L-5145,Converted,True,2026-02-08,linkedin,paid_social
+CM-50295,CMP-103,L-5146,Attended,True,2026-01-23,webinar_platform,webinar
+CM-50297,CMP-109,L-5146,Sent,False,2026-02-25,salesloft,email
+CM-50296,CMP-134,L-5146,Meeting Booked,True,2026-08-27,salesloft,email
+CM-50298,CMP-105,L-5147,Downloaded,True,2026-01-14,linkedin,organic
+CM-50301,CMP-120,L-5147,Converted,True,2026-04-24,linkedin,paid_social
+CM-50300,CMP-126,L-5147,Attended,True,2026-08-06,events,event
+CM-50299,CMP-134,L-5147,Meeting Booked,True,2026-09-13,salesloft,email
+CM-50302,CMP-113,L-5148,Met at Booth,True,2026-06-11,events,event
+CM-50303,CMP-129,L-5149,Watched On-Demand,True,2026-09-18,webinar_platform,webinar
+CM-50305,CMP-126,L-5149,No Show,False,2026-09-21,events,event
+CM-50304,CMP-131,L-5149,Downloaded,True,2026-09-25,linkedin,organic
+CM-50306,CMP-109,L-5150,Replied,True,2026-01-23,salesloft,email
+CM-50308,CMP-103,L-5150,Watched On-Demand,True,2026-03-23,webinar_platform,webinar
+CM-50307,CMP-121,L-5150,Meeting Booked,True,2026-04-03,salesloft,email
+CM-50309,CMP-117,L-5151,Downloaded,True,2026-04-17,LinkedIn,organic
+CM-50310,CMP-115,L-5151,Attended,True,2026-05-08,webinar_platform,webinar
+CM-50311,CMP-114,L-5151,Met at Booth,True,2026-06-08,events,event
+CM-50312,CMP-125,L-5152,Demo Requested,True,2026-04-02,google,cpc
+CM-50313,CMP-133,L-5152,Converted,True,2026-09-09,linkedin,paid_social
+CM-50314,CMP-133,L-5153,Converted,True,2026-07-06,linkedin,paid_social
+CM-50315,CMP-130,L-5154,Downloaded,True,2026-09-02,linkedin,organic
+CM-50316,CMP-110,L-5155,Referred,True,2026-03-11,partner,referral
+CM-50317,CMP-116,L-5155,Watched On-Demand,True,2026-05-04,webinar_platform,webinar
+CM-50318,CMP-135,L-5156,Meeting Booked,True,2026-09-08,salesloft,email
+CM-50319,CMP-129,L-5156,Watched On-Demand,True,2026-09-30,webinar_platform,webinar
+CM-50320,CMP-137,L-5157,Demo Requested,True,2026-09-11,google,cpc
+CM-50321,CMP-112,L-5158,Chat Engaged,True,2026-02-05,google,cpc
+CM-50322,CMP-112,L-5159,Chat Engaged,True,2026-02-19,google,cpc
+CM-50323,CMP-122,L-5160,Replied,True,2026-06-16,salesloft,email
+CM-50324,CMP-111,L-5161,Demo Requested,True,2026-01-10,google.com,cpc
+CM-50325,CMP-138,L-5162,Demo Requested,True,2026-08-10,google,cpc
+CM-50326,CMP-121,L-5163,Meeting Booked,True,2026-05-28,salesloft,email
+CM-50327,CMP-113,L-5163,Met at Booth,True,2026-05-30,events,event
+CM-50328,CMP-100,L-5164,Attended,True,2026-02-01,events,event
+CM-50329,CMP-106,L-5165,Converted,True,2026-01-23,linkedin,paid_social
+CM-50332,CMP-105,L-5165,Downloaded,True,2026-01-26,linkedin,organic
+CM-50331,CMP-101,L-5165,No Show,False,2026-02-10,events,event
+CM-50330,CMP-101,L-5165,Attended,True,2026-03-21,events,event
+CM-50333,CMP-120,L-5166,Converted,True,2026-05-27,linkedin,paid_social
+CM-50334,CMP-134,L-5166,Meeting Booked,True,2026-07-31,salesloft,email
+CM-50335,CMP-118,L-5167,Downloaded,True,2026-05-18,linkedin,organic
+CM-50336,CMP-134,L-5167,Replied,True,2026-08-23,salesloft,email
+CM-50337,CMP-105,L-5168,Downloaded,True,2026-03-31,linkedin,organic
+CM-50338,CMP-110,L-5169,Referred,True,2026-03-20,partner,referral
+CM-50339,CMP-122,L-5169,Meeting Booked,True,2026-05-25,salesloft,email
+CM-50340,CMP-135,L-5170,Replied,True,2026-07-24,salesloft,email
+CM-50341,CMP-127,L-5171,Attended,True,2026-08-21,events,event
+CM-50343,CMP-133,L-5171,Converted,True,2026-08-24,linkedin,paid_social
+CM-50342,CMP-128,L-5171,Watched On-Demand,True,2026-08-31,webinar_platform,webinar
+CM-50344,CMP-128,L-5172,Watched On-Demand,True,2026-07-16,webinar_platform,webinar
+CM-50345,CMP-121,L-5173,Replied,True,2026-04-06,salesloft,email
+CM-50346,CMP-130,L-5173,Downloaded,True,2026-08-10,linkedin,organic
+CM-50347,CMP-111,L-5174,Demo Requested,True,2026-02-11,google,cpc
+CM-50348,CMP-109,L-5175,Replied,True,2026-01-06,salesloft,email
+CM-50349,CMP-119,L-5175,Converted,True,2026-04-29,LinkedIn,paid_social
+CM-50351,CMP-118,L-5175,Downloaded,True,2026-06-17,linkedin,organic
+CM-50350,CMP-126,L-5175,Attended,True,2026-09-02,events,event
+CM-50352,CMP-138,L-5176,Demo Requested,True,2026-07-23,google,cpc
+CM-50353,CMP-137,L-5177,Demo Requested,True,2026-08-23,google,cpc
+CM-50354,CMP-132,L-5177,Converted,True,2026-09-01,linkedin,paid_social
+CM-50355,CMP-103,L-5178,Watched On-Demand,True,2026-01-23,webinar_platform,webinar
+CM-50357,CMP-107,L-5178,Converted,True,2026-02-11,linkedin,paid_social
+CM-50358,CMP-108,L-5178,Sent,False,2026-02-27,salesloft,email
+CM-50356,CMP-131,L-5178,Downloaded,True,2026-07-20,linkedin,organic
+CM-50359,CMP-109,L-5179,Replied,True,2026-03-04,salesloft,email
+CM-50360,CMP-136,L-5180,Referred,True,2026-07-13,partner,referral
+CM-50361,CMP-135,L-5181,Replied,True,2026-08-06,salesloft,email
+CM-50362,CMP-126,L-5181,Attended,True,2026-09-23,events,event
+CM-50363,CMP-135,L-5182,Meeting Booked,True,2026-07-02,salesloft,email
+CM-50364,CMP-132,L-5182,Converted,True,2026-08-06,LinkedIn,paid_social
+CM-50365,CMP-125,L-5183,Demo Requested,True,2026-05-26,google,cpc
+CM-50367,CMP-113,L-5183,Met at Booth,True,2026-06-08,events_,event
+CM-50366,CMP-127,L-5183,Attended,True,2026-07-15,events,event
+CM-50368,CMP-111,L-5184,Chat Engaged,True,2026-01-27,google,cpc
+CM-50370,CMP-120,L-5184,Converted,True,2026-06-06,linkedin,paid_social
+CM-50369,CMP-128,L-5184,Watched On-Demand,True,2026-09-08,webinar_platform,webinar
+CM-50371,CMP-100,L-5185,Met at Booth,True,2026-03-02,events,event
+CM-50372,CMP-117,L-5186,Downloaded,True,2026-05-23,linkedin,organic
+CM-50373,CMP-130,L-5186,Downloaded,True,2026-09-03,linkedin,organic
+CM-50374,CMP-124,L-5187,Demo Requested,True,2026-05-02,google.com,cpc
+CM-50376,CMP-114,L-5187,Met at Booth,True,2026-05-04,events,event
+CM-50375,CMP-122,L-5187,Meeting Booked,True,2026-05-14,salesloft,email
+CM-50377,CMP-115,L-5187,Attended,True,2026-05-16,webinar_platform,webinar
+CM-50378,CMP-108,L-5188,Meeting Booked,True,2026-01-25,salesloft,email
+CM-50379,CMP-108,L-5188,Replied,True,2026-02-12,salesloft,email
+CM-50380,CMP-118,L-5189,Downloaded,True,2026-06-05,linkedin,organic
+CM-50381,CMP-135,L-5190,Meeting Booked,True,2026-07-13,salesloft,email
+CM-50382,CMP-109,L-5191,Replied,True,2026-03-02,salesloft,email
+CM-50383,CMP-108,L-5191,Replied,True,2026-03-29,salesloft,email
+CM-50384,CMP-130,L-5192,Downloaded,True,2026-09-06,linkedin,organic
+CM-50385,CMP-121,L-5193,Meeting Booked,True,2026-06-03,salesloft,email
+CM-50386,CMP-113,L-5193,Attended,True,2026-06-07,events,event
+CM-50387,CMP-136,L-5194,Referred,True,2026-08-06,partner,referral
+CM-50388,CMP-127,L-5194,Registered,False,2026-09-18,events,event
+CM-50389,CMP-121,L-5195,Replied,True,2026-06-21,salesloft,email
+CM-50390,CMP-103,L-5196,Attended,True,2026-03-31,webinar_platform,webinar
+CM-50391,CMP-127,L-5196,Met at Booth,True,2026-08-01,events,event
+CM-50392,CMP-115,L-5197,Watched On-Demand,True,2026-06-30,webinar_platform,webinar
+CM-50393,CMP-120,L-5198,Converted,True,2026-06-23,linkedin,paid_social
+CM-50394,CMP-106,L-5199,Converted,True,2026-03-05,LinkedIn,paid_social
+CM-50395,CMP-122,L-5199,Meeting Booked,True,2026-05-03,salesloft,email
+CM-50396,CMP-124,L-5200,Demo Requested,True,2026-04-15,google,cpc
+CM-50397,CMP-120,L-5200,Clicked,False,2026-06-18,linkedin,paid_social
+CM-50398,CMP-134,L-5201,Meeting Booked,True,2026-07-13,salesloft,email
+CM-50399,CMP-103,L-5202,Attended,True,2026-02-18,webinar_platform,webinar
+CM-50400,CMP-123,L-5203,Referred,True,2026-06-02,partner,referral
+CM-50401,CMP-119,L-5203,Converted,True,2026-06-14,linkedin,paid_social
+CM-50402,CMP-107,L-5204,Converted,True,2026-03-09,linkedin,paid_social
+CM-50404,CMP-128,L-5204,Registered,False,2026-08-16,webinar_platform,webinar
+CM-50403,CMP-133,L-5204,Converted,True,2026-09-27,LinkedIn,paid_social
+CM-50405,CMP-137,L-5205,Demo Requested,True,2026-09-05,google,cpc
+CM-50406,CMP-128,L-5205,Watched On-Demand,True,2026-09-16,webinar_platform,webinar
+CM-50407,CMP-137,L-5206,Chat Engaged,True,2026-07-06,google,cpc
+CM-50408,CMP-127,L-5206,Registered,False,2026-07-22,events,event
+CM-50409,CMP-120,L-5207,Converted,True,2026-06-08,linkedin,paid_social
+CM-50410,CMP-134,L-5207,Sent,False,2026-09-05,salesloft,email
+CM-50411,CMP-110,L-5208,Referred,True,2026-03-25,partner,referral
+CM-50412,CMP-127,L-5209,Met at Booth,True,2026-09-29,events,event
+CM-50413,CMP-131,L-5209,Downloaded,True,2026-09-30,linkedin,organic
+CM-50414,CMP-128,L-5209,Watched On-Demand,True,2026-09-30,webinar_platform,webinar
+CM-50415,CMP-116,L-5210,Attended,True,2026-06-11,webinar_platform,webinar
+CM-50416,CMP-135,L-5210,Meeting Booked,True,2026-09-22,salesloft,email
+CM-50417,CMP-137,L-5211,Chat Engaged,True,2026-09-02,google,cpc
+CM-50418,CMP-126,L-5211,Met at Booth,True,2026-09-05,events,event
+CM-50419,CMP-123,L-5212,Referred,True,2026-05-08,partner,referral
+CM-50421,CMP-121,L-5212,Sent,False,2026-05-25,salesloft,email
+CM-50420,CMP-126,L-5212,Met at Booth,True,2026-07-13,events,event
+CM-50422,CMP-113,L-5213,Attended,True,2026-04-07,events,event
+CM-50423,CMP-132,L-5213,Converted,True,2026-09-28,linkedin,paid_social
+CM-50424,CMP-122,L-5214,Meeting Booked,True,2026-06-13,salesloft,email
+CM-50425,CMP-133,L-5214,Converted,True,2026-09-19,linkedin,paid_social
+CM-50426,CMP-108,L-5215,Meeting Booked,True,2026-02-27,salesloft,email
+CM-50427,CMP-131,L-5215,Downloaded,True,2026-07-27,linkedin,organic
+CM-50428,CMP-133,L-5215,Converted,True,2026-09-17,LinkedIn,paid_social
+CM-50429,CMP-135,L-5216,Meeting Booked,True,2026-08-10,salesloft,email
+CM-50430,CMP-126,L-5216,Met at Booth,True,2026-08-27,events,event
+CM-50431,CMP-121,L-5217,Meeting Booked,True,2026-05-13,salesloft,email
+CM-50432,CMP-121,L-5217,Replied,True,2026-06-16,salesloft,email
+CM-50433,CMP-132,L-5217,Converted,True,2026-07-19,linkedin,paid_social
+CM-50434,CMP-110,L-5218,Referred,True,2026-02-13,partner,referral
+CM-50435,CMP-131,L-5218,Downloaded,True,2026-08-19,linkedin,organic
+CM-50436,CMP-126,L-5219,Attended,True,2026-08-23,events,event
+CM-50437,CMP-132,L-5219,Converted,True,2026-08-28,linkedin,paid_social
+CM-50439,CMP-130,L-5219,Downloaded,True,2026-08-28,linkedin,organic
+CM-50438,CMP-133,L-5219,Clicked,False,2026-09-16,linkedin,paid_social
+CM-50440,CMP-110,L-5220,Referred,True,2026-03-26,partner,referral
+CM-50441,CMP-138,L-5221,Chat Engaged,True,2026-07-02,google,cpc
+CM-50443,CMP-134,L-5221,Meeting Booked,True,2026-07-06,salesloft,email
+CM-50442,CMP-126,L-5221,Attended,True,2026-07-16,events,event
+CM-50444,CMP-124,L-5222,Chat Engaged,True,2026-06-20,google,cpc
+CM-50446,CMP-134,L-5222,Sent,False,2026-07-02,salesloft,email
+CM-50445,CMP-126,L-5222,Met at Booth,True,2026-07-10,events,event
+CM-50447,CMP-132,L-5222,Converted,True,2026-07-29,linkedin,paid_social
+CM-50448,CMP-137,L-5223,Demo Requested,True,2026-09-12,google,cpc
+CM-50449,CMP-126,L-5223,Met at Booth,True,2026-09-16,events,event
+CM-50451,CMP-135,L-5223,Replied,True,2026-09-18,salesloft,email
+CM-50450,CMP-128,L-5223,Watched On-Demand,True,2026-09-19,webinar_platform,webinar
+CM-50452,CMP-101,L-5224,Attended,True,2026-02-22,events,event
+CM-50453,CMP-122,L-5225,Meeting Booked,True,2026-04-17,salesloft,email
+CM-50455,CMP-118,L-5225,Downloaded,True,2026-04-23,linkedin,organic
+CM-50454,CMP-118,L-5225,Downloaded,True,2026-06-04,linkedin,organic
+CM-50456,CMP-115,L-5225,Attended,True,2026-06-09,webinar_platform,webinar
+CM-50457,CMP-110,L-5226,Referred,True,2026-02-04,partner,referral
+CM-50458,CMP-107,L-5226,Converted,True,2026-03-12,linkedin,paid_social
+CM-50459,CMP-122,L-5227,Replied,True,2026-05-05,salesloft,email
+CM-50460,CMP-132,L-5227,Converted,True,2026-07-04,linkedin,paid_social
+CM-50461,CMP-123,L-5228,Referred,True,2026-05-27,partner,referral
+CM-50462,CMP-113,L-5228,Attended,True,2026-06-03,events,event
+CM-50463,CMP-117,L-5228,Downloaded,True,2026-06-17,linkedin,organic
+CM-50464,CMP-133,L-5228,Converted,True,2026-09-24,linkedin,paid_social
+CM-50465,CMP-125,L-5229,Demo Requested,True,2026-05-05,google,cpc
+CM-50466,CMP-102,L-5230,Watched On-Demand,True,2026-02-28,webinar_platform,webinar
+CM-50468,CMP-120,L-5230,Converted,True,2026-04-01,linkedin,paid_social
+CM-50467,CMP-117,L-5230,Downloaded,True,2026-05-09,linkedin,organic
+CM-50469,CMP-120,L-5231,Converted,True,2026-05-11,linkedin,paid_social
+CM-50470,CMP-137,L-5232,Demo Requested,True,2026-07-09,google,cpc
+CM-50471,CMP-124,L-5233,Demo Requested,True,2026-05-25,google,cpc
+CM-50472,CMP-120,L-5233,Converted,True,2026-06-21,linkedin,paid_social
+CM-50473,CMP-122,L-5234,Meeting Booked,True,2026-04-09,SalesLoft,email
+CM-50474,CMP-120,L-5235,Converted,True,2026-06-21,linkedin,paid_social
+CM-50475,CMP-129,L-5235,Attended,True,2026-08-30,webinar_platform,webinar
+CM-50476,CMP-124,L-5236,Demo Requested,True,2026-04-01,google.com,cpc
+CM-50477,CMP-134,L-5236,Replied,True,2026-08-07,salesloft,email
+CM-50478,CMP-137,L-5237,Chat Engaged,True,2026-09-15,google,cpc
+CM-50479,CMP-122,L-5238,Meeting Booked,True,2026-04-11,salesloft,email
+CM-50480,CMP-119,L-5238,Clicked,False,2026-05-24,linkedin,paid_social
+CM-50481,CMP-127,L-5238,Met at Booth,True,2026-09-09,events,event
+CM-50482,CMP-108,L-5239,Meeting Booked,True,2026-01-10,salesloft,email
+CM-50485,CMP-101,L-5239,Met at Booth,True,2026-03-09,events,event
+CM-50483,CMP-118,L-5239,Downloaded,True,2026-06-07,linkedin,organic
+CM-50484,CMP-132,L-5239,Converted,True,2026-07-03,linkedin,paid_social
+CM-50486,CMP-118,L-5240,Downloaded,True,2026-06-24,linkedin,organic
+CM-50487,CMP-122,L-5241,Replied,True,2026-06-27,salesloft,email
+CM-50489,CMP-135,L-5241,Meeting Booked,True,2026-07-28,salesloft,email
+CM-50488,CMP-135,L-5241,Meeting Booked,True,2026-08-02,salesloft,email
+CM-50490,CMP-134,L-5241,Replied,True,2026-09-17,salesloft,email
+CM-50491,CMP-123,L-5242,Referred,True,2026-05-20,partner,referral
+CM-50492,CMP-127,L-5243,Attended,True,2026-08-19,events,event
+CM-50493,CMP-132,L-5243,Converted,True,2026-09-17,linkedin,paid_social
+CM-50494,CMP-104,L-5244,Downloaded,True,2026-02-13,linkedin,organic
+CM-50495,CMP-132,L-5245,Converted,True,2026-08-25,linkedin,paid_social
+CM-50496,CMP-116,L-5246,Watched On-Demand,True,2026-05-15,webinar_platform,webinar
+CM-50497,CMP-115,L-5246,Watched On-Demand,True,2026-05-28,webinar_platform,webinar
+CM-50498,CMP-101,L-5247,Met at Booth,True,2026-02-23,events,event
+CM-50499,CMP-132,L-5247,Converted,True,2026-09-06,linkedin,paid_social
+CM-50500,CMP-116,L-5248,Watched On-Demand,True,2026-04-29,webinar_platform,webinar
+CM-50502,CMP-128,L-5248,No Show,False,2026-07-29,webinar_platform,webinar
+CM-50501,CMP-133,L-5248,Converted,True,2026-09-22,linkedin,paid_social
+CM-50503,CMP-111,L-5249,Demo Requested,True,2026-02-13,google,cpc
+CM-50505,CMP-106,L-5249,Converted,True,2026-02-20,linkedin,paid_social
+CM-50504,CMP-131,L-5249,Downloaded,True,2026-08-10,linkedin,organic
+CM-50506,CMP-129,L-5250,Watched On-Demand,True,2026-08-29,webinar_platform,webinar
+CM-50508,CMP-134,L-5250,Replied,True,2026-09-05,salesloft,email
+CM-50507,CMP-129,L-5250,Watched On-Demand,True,2026-09-20,webinar_platform,webinar
+CM-50509,CMP-107,L-5251,Converted,True,2026-02-14,linkedin,paid_social
+CM-50510,CMP-116,L-5251,Watched On-Demand,True,2026-05-12,webinar_platform,webinar
+CM-50511,CMP-132,L-5252,Converted,True,2026-07-26,linkedin,paid_social
+CM-50512,CMP-122,L-5253,Meeting Booked,True,2026-05-08,salesloft,email
+CM-50513,CMP-135,L-5253,Meeting Booked,True,2026-09-28,salesloft,email
+CM-50514,CMP-100,L-5254,Attended,True,2026-01-31,events,event
+CM-50517,CMP-116,L-5254,No Show,False,2026-05-28,webinar_platform,webinar
+CM-50516,CMP-120,L-5254,Converted,True,2026-06-30,linkedin,paid_social
+CM-50515,CMP-130,L-5254,Downloaded,True,2026-07-08,linkedin,organic
+CM-50518,CMP-107,L-5255,Converted,True,2026-02-06,linkedin,paid_social
+CM-50519,CMP-122,L-5256,Meeting Booked,True,2026-06-04,salesloft,email
+CM-50520,CMP-134,L-5256,Replied,True,2026-08-07,salesloft,email
+CM-50522,CMP-127,L-5256,Attended,True,2026-08-17,events,event
+CM-50521,CMP-126,L-5256,Attended,True,2026-08-22,events,event
+CM-50523,CMP-123,L-5257,Referred,True,2026-04-22,partner,referral
+CM-50524,CMP-138,L-5258,Chat Engaged,True,2026-09-25,google,cpc
+CM-50525,CMP-132,L-5258,Converted,True,2026-09-28,linkedin,paid_social
+CM-50526,CMP-113,L-5259,Met at Booth,True,2026-04-20,events_,event
+CM-50527,CMP-135,L-5260,Meeting Booked,True,2026-08-17,salesloft,email
+CM-50528,CMP-127,L-5260,Attended,True,2026-08-31,events,event
+CM-50529,CMP-135,L-5261,Replied,True,2026-08-04,salesloft,email
+CM-50530,CMP-135,L-5261,Meeting Booked,True,2026-09-30,salesloft,email
+CM-50531,CMP-134,L-5262,Replied,True,2026-08-07,salesloft,email
+CM-50532,CMP-127,L-5262,Met at Booth,True,2026-09-15,events,event
+CM-50533,CMP-129,L-5262,Watched On-Demand,True,2026-09-26,webinar_platform_,webinar
+CM-50534,CMP-131,L-5263,Downloaded,True,2026-07-31,linkedin,organic
+CM-50535,CMP-138,L-5264,Demo Requested,True,2026-09-20,google,cpc
+CM-50536,CMP-132,L-5265,Converted,True,2026-07-03,linkedin,paid_social
+CM-50537,CMP-126,L-5265,Met at Booth,True,2026-07-10,events,event
+CM-50538,CMP-122,L-5266,Meeting Booked,True,2026-04-24,salesloft,email
+CM-50539,CMP-134,L-5266,Sent,False,2026-08-07,salesloft,email
+CM-50540,CMP-129,L-5267,Attended,True,2026-08-06,webinar_platform,webinar
+CM-50541,CMP-127,L-5267,Met at Booth,True,2026-09-09,events,event
+CM-50542,CMP-110,L-5268,Referred,True,2026-03-26,partner,referral
+CM-50543,CMP-117,L-5269,Downloaded,True,2026-05-30,linkedin,organic
+CM-50544,CMP-134,L-5269,Sent,False,2026-07-26,salesloft,email
+CM-50545,CMP-128,L-5270,Attended,True,2026-09-05,webinar_platform_,webinar
+CM-50546,CMP-132,L-5270,Converted,True,2026-09-11,linkedin,paid_social
+CM-50547,CMP-132,L-5271,Converted,True,2026-08-19,linkedin,paid_social
+CM-50548,CMP-134,L-5271,Replied,True,2026-09-08,salesloft,email
+CM-50549,CMP-110,L-5272,Referred,True,2026-03-07,partner,referral
+CM-50550,CMP-103,L-5273,Attended,True,2026-03-19,webinar_platform,webinar
+CM-50551,CMP-116,L-5274,Watched On-Demand,True,2026-06-17,webinar_platform,webinar
+CM-50552,CMP-133,L-5274,Clicked,False,2026-09-15,linkedin,paid_social
+CM-50553,CMP-132,L-5274,Converted,True,2026-09-15,linkedin,paid_social
+CM-50554,CMP-125,L-5275,Demo Requested,True,2026-05-22,google,cpc
+CM-50555,CMP-131,L-5275,Downloaded,True,2026-08-12,linkedin,organic
+CM-50556,CMP-130,L-5276,Downloaded,True,2026-09-18,linkedin,organic
+CM-50557,CMP-131,L-5276,Downloaded,True,2026-09-24,linkedin,organic
+CM-50558,CMP-111,L-5277,Demo Requested,True,2026-03-31,google,cpc
+CM-50559,CMP-128,L-5277,Attended,True,2026-09-26,webinar_platform,webinar
+CM-50560,CMP-107,L-5278,Converted,True,2026-02-09,linkedin,paid_social
+CM-50561,CMP-132,L-5279,Converted,True,2026-08-24,linkedin,paid_social
+CM-50562,CMP-136,L-5280,Referred,True,2026-08-04,partner,referral
+CM-50563,CMP-134,L-5280,Meeting Booked,True,2026-08-19,SalesLoft,email
+CM-50564,CMP-133,L-5280,Converted,True,2026-08-23,linkedin,paid_social
+CM-50565,CMP-126,L-5281,Met at Booth,True,2026-08-29,events,event
+CM-50566,CMP-104,L-5282,Downloaded,True,2026-01-08,linkedin,organic
+CM-50567,CMP-123,L-5283,Referred,True,2026-05-14,partner,referral
+CM-50568,CMP-133,L-5283,Converted,True,2026-09-21,linkedin,paid_social
+CM-50569,CMP-136,L-5284,Referred,True,2026-07-09,partner,referral
+CM-50570,CMP-135,L-5284,Replied,True,2026-07-15,salesloft,email
+CM-50571,CMP-118,L-5285,Downloaded,True,2026-05-12,linkedin,organic
+CM-50572,CMP-134,L-5285,Sent,False,2026-08-22,salesloft,email
+CM-50573,CMP-124,L-5286,Chat Engaged,True,2026-05-11,google,cpc
+CM-50574,CMP-129,L-5286,Attended,True,2026-07-30,webinar_platform,webinar
+CM-50575,CMP-124,L-5287,Demo Requested,True,2026-06-14,google,cpc
+CM-50577,CMP-134,L-5287,Replied,True,2026-07-02,salesloft,email
+CM-50576,CMP-129,L-5287,Watched On-Demand,True,2026-07-05,webinar_platform,webinar
+CM-50578,CMP-134,L-5288,Meeting Booked,True,2026-08-30,salesloft,email
+CM-50579,CMP-132,L-5288,Converted,True,2026-09-17,linkedin,paid_social
+CM-50580,CMP-134,L-5289,Meeting Booked,True,2026-08-08,salesloft,email
+CM-50581,CMP-134,L-5289,Sent,False,2026-09-13,salesloft,email
+CM-50583,CMP-130,L-5289,Downloaded,True,2026-09-23,linkedin,organic
+CM-50582,CMP-130,L-5289,Downloaded,True,2026-09-30,linkedin,organic
+CM-50584,CMP-112,L-5290,Chat Engaged,True,2026-03-20,google,cpc
+CM-50586,CMP-114,L-5290,Attended,True,2026-06-06,events,event
+CM-50585,CMP-115,L-5290,Registered,False,2026-06-10,webinar_platform,webinar
+CM-50587,CMP-113,L-5291,Attended,True,2026-06-23,events,event
+CM-50588,CMP-130,L-5292,Downloaded,True,2026-07-16,linkedin,organic
+CM-50589,CMP-119,L-5293,Converted,True,2026-04-27,linkedin,paid_social
+CM-50590,CMP-114,L-5293,Attended,True,2026-05-28,events,event
+CM-50591,CMP-126,L-5293,Attended,True,2026-09-25,events,event
+CM-50592,CMP-127,L-5294,Met at Booth,True,2026-07-13,events,event
+CM-50593,CMP-134,L-5294,Replied,True,2026-09-27,salesloft,email
+CM-50594,CMP-115,L-5295,Watched On-Demand,True,2026-06-04,webinar_platform,webinar
+CM-50595,CMP-121,L-5295,Meeting Booked,True,2026-06-14,salesloft,email
+CM-50596,CMP-127,L-5295,Met at Booth,True,2026-09-21,events,event
+CM-50597,CMP-110,L-5296,Referred,True,2026-03-31,partner,referral
+CM-50598,CMP-117,L-5297,Downloaded,True,2026-04-21,linkedin,organic
+CM-50599,CMP-127,L-5298,Attended,True,2026-09-24,events,event
+CM-50600,CMP-118,L-5299,Downloaded,True,2026-05-26,linkedin,organic
+CM-50601,CMP-124,L-5300,Demo Requested,True,2026-05-18,google,cpc
+CM-50602,CMP-121,L-5300,Meeting Booked,True,2026-06-06,salesloft,email
+CM-50603,CMP-136,L-5301,Referred,True,2026-09-26,partner,referral
+CM-50604,CMP-134,L-5301,Meeting Booked,True,2026-09-27,salesloft,email
+CM-50605,CMP-127,L-5302,Met at Booth,True,2026-07-05,events,event
+CM-50606,CMP-134,L-5303,Replied,True,2026-07-24,salesloft,email
+CM-50608,CMP-131,L-5303,Downloaded,True,2026-08-06,linkedin,organic
+CM-50607,CMP-128,L-5303,Watched On-Demand,True,2026-09-10,webinar_platform,webinar
+CM-50609,CMP-110,L-5304,Referred,True,2026-02-27,partner,referral
+CM-50610,CMP-122,L-5304,Sent,False,2026-05-31,salesloft,email
+CM-50611,CMP-131,L-5304,Downloaded,True,2026-07-24,linkedin,organic
+CM-50612,CMP-108,L-5305,Meeting Booked,True,2026-02-09,salesloft,email
+CM-50613,CMP-131,L-5306,Downloaded,True,2026-07-23,linkedin,organic
+CM-50614,CMP-132,L-5306,Converted,True,2026-07-27,linkedin,paid_social
+CM-50615,CMP-118,L-5307,Downloaded,True,2026-05-26,linkedin,organic
+CM-50616,CMP-128,L-5307,Attended,True,2026-08-28,webinar_platform,webinar
+CM-50617,CMP-112,L-5308,Chat Engaged,True,2026-01-25,google,cpc
+CM-50618,CMP-100,L-5308,Registered,False,2026-02-11,events,event
+CM-50619,CMP-125,L-5309,Chat Engaged,True,2026-04-08,google,cpc
+CM-50620,CMP-120,L-5309,Converted,True,2026-06-09,linkedin,paid_social
+CM-50621,CMP-100,L-5310,Attended,True,2026-03-08,events,event
+CM-50622,CMP-130,L-5311,Downloaded,True,2026-07-28,linkedin,organic
+CM-50623,CMP-108,L-5312,Meeting Booked,True,2026-03-17,salesloft,email
+CM-50624,CMP-110,L-5313,Referred,True,2026-01-29,partner,referral
+CM-50625,CMP-120,L-5313,Clicked,False,2026-04-05,linkedin,paid_social
+CM-50626,CMP-137,L-5314,Demo Requested,True,2026-08-08,google,cpc
+CM-50627,CMP-100,L-5315,Attended,True,2026-02-28,events,event
+CM-50628,CMP-132,L-5316,Converted,True,2026-08-03,linkedin,paid_social
+CM-50629,CMP-133,L-5316,Converted,True,2026-09-14,linkedin,paid_social
+CM-50630,CMP-138,L-5317,Chat Engaged,True,2026-09-08,google,cpc
+CM-50631,CMP-118,L-5318,Downloaded,True,2026-06-05,linkedin,organic
+CM-50632,CMP-133,L-5318,Converted,True,2026-09-23,linkedin,paid_social
+CM-50633,CMP-134,L-5319,Replied,True,2026-09-28,salesloft,email
+CM-50634,CMP-132,L-5319,Converted,True,2026-09-29,linkedin,paid_social
+CM-50635,CMP-127,L-5320,Met at Booth,True,2026-09-28,events,event
+CM-50636,CMP-128,L-5320,Watched On-Demand,True,2026-09-30,webinar_platform,webinar
+CM-50637,CMP-123,L-5321,Referred,True,2026-05-05,partner,referral
+CM-50638,CMP-118,L-5321,Downloaded,True,2026-05-13,linkedin,organic
+CM-50639,CMP-134,L-5322,Replied,True,2026-09-20,SalesLoft,email
+CM-50640,CMP-108,L-5323,Replied,True,2026-03-15,salesloft,email
+CM-50641,CMP-124,L-5324,Demo Requested,True,2026-06-11,google,cpc
+CM-50642,CMP-129,L-5324,No Show,False,2026-08-28,webinar_platform,webinar
+CM-50643,CMP-109,L-5325,Replied,True,2026-02-03,salesloft,email
+CM-50644,CMP-131,L-5326,Downloaded,True,2026-09-27,linkedin,organic
+CM-50645,CMP-128,L-5326,Watched On-Demand,True,2026-09-28,webinar_platform,webinar
+CM-50646,CMP-130,L-5326,Downloaded,True,2026-09-29,linkedin,organic
+CM-50647,CMP-131,L-5326,Downloaded,True,2026-09-30,linkedin,organic
+CM-50648,CMP-115,L-5327,Attended,True,2026-06-30,webinar_platform,webinar
+CM-50649,CMP-132,L-5327,Converted,True,2026-09-08,linkedin,paid_social
+CM-50650,CMP-122,L-5328,Replied,True,2026-04-16,salesloft,email
+CM-50651,CMP-113,L-5328,Attended,True,2026-06-13,events,event
+CM-50652,CMP-111,L-5329,Chat Engaged,True,2026-03-31,google,cpc
+CM-50653,CMP-131,L-5329,Downloaded,True,2026-07-03,linkedin,organic
+CM-50654,CMP-111,L-5330,Demo Requested,True,2026-01-08,google,cpc
+CM-50655,CMP-126,L-5330,Met at Booth,True,2026-08-18,events,event
+CM-50656,CMP-135,L-5331,Replied,True,2026-07-08,salesloft,email
+CM-50657,CMP-135,L-5331,Replied,True,2026-08-23,salesloft,email
+CM-50658,CMP-136,L-5332,Referred,True,2026-09-05,partner,referral
+CM-50659,CMP-134,L-5333,Replied,True,2026-07-02,salesloft,email
+CM-50660,CMP-118,L-5334,Downloaded,True,2026-05-08,linkedin,organic
+CM-50662,CMP-120,L-5334,Clicked,False,2026-05-26,linkedin,paid_social
+CM-50663,CMP-133,L-5334,Converted,True,2026-07-19,linkedin,paid_social
+CM-50661,CMP-129,L-5334,Watched On-Demand,True,2026-09-21,webinar_platform,webinar
+CM-50664,CMP-102,L-5335,Attended,True,2026-03-09,webinar_platform,webinar
+CM-50665,CMP-119,L-5336,Converted,True,2026-04-29,linkedin,paid_social
+CM-50666,CMP-132,L-5336,Converted,True,2026-07-20,linkedin,paid_social
+CM-50667,CMP-137,L-5337,Chat Engaged,True,2026-07-18,google,cpc
+CM-50669,CMP-134,L-5337,Replied,True,2026-07-31,salesloft,email
+CM-50668,CMP-128,L-5337,Attended,True,2026-09-30,webinar_platform,webinar
+CM-50670,CMP-116,L-5338,Watched On-Demand,True,2026-06-15,webinar_platform,webinar
+CM-50673,CMP-128,L-5338,No Show,False,2026-07-04,webinar_platform,webinar
+CM-50672,CMP-135,L-5338,Sent,False,2026-07-06,salesloft,email
+CM-50671,CMP-126,L-5338,Met at Booth,True,2026-09-21,events,event
+CM-50674,CMP-130,L-5339,Downloaded,True,2026-09-06,linkedin,organic
+CM-50675,CMP-135,L-5339,Meeting Booked,True,2026-09-27,salesloft,email
+CM-50676,CMP-121,L-5340,Meeting Booked,True,2026-04-06,salesloft,email
+CM-50677,CMP-100,L-5341,Attended,True,2026-03-13,events,event
+CM-50678,CMP-118,L-5341,Downloaded,True,2026-04-01,linkedin,organic
+CM-50679,CMP-134,L-5342,Meeting Booked,True,2026-07-16,salesloft,email
+CM-50680,CMP-130,L-5342,Downloaded,True,2026-07-21,LinkedIn,organic
+CM-50681,CMP-137,L-5343,Chat Engaged,True,2026-07-16,google,cpc
+CM-50682,CMP-131,L-5343,Downloaded,True,2026-09-11,linkedin,organic
+CM-50683,CMP-125,L-5344,Demo Requested,True,2026-05-25,google,cpc
+CM-50684,CMP-116,L-5344,No Show,False,2026-06-18,webinar_platform,webinar
+CM-50685,CMP-135,L-5344,Meeting Booked,True,2026-08-06,SalesLoft,email
+CM-50686,CMP-127,L-5344,Registered,False,2026-08-28,events,event
+CM-50687,CMP-138,L-5345,Chat Engaged,True,2026-09-12,google,cpc
+CM-50688,CMP-131,L-5345,Downloaded,True,2026-09-26,linkedin,organic
+CM-50689,CMP-124,L-5346,Chat Engaged,True,2026-06-14,google,cpc
+CM-50690,CMP-129,L-5347,Watched On-Demand,True,2026-08-20,webinar_platform,webinar
+CM-50691,CMP-108,L-5348,Meeting Booked,True,2026-03-11,salesloft,email
+CM-50692,CMP-124,L-5349,Demo Requested,True,2026-04-19,google,cpc
+CM-50693,CMP-100,L-5350,Met at Booth,True,2026-02-07,events_,event
+CM-50694,CMP-100,L-5350,Met at Booth,True,2026-03-02,events,event
+CM-50695,CMP-137,L-5351,Chat Engaged,True,2026-09-12,google,cpc
+CM-50696,CMP-131,L-5351,Downloaded,True,2026-09-16,linkedin,organic
+CM-50697,CMP-126,L-5351,No Show,False,2026-09-22,events,event
+CM-50698,CMP-134,L-5351,Meeting Booked,True,2026-09-26,salesloft,email
+CM-50699,CMP-129,L-5352,Watched On-Demand,True,2026-09-06,webinar_platform,webinar
+CM-50700,CMP-129,L-5352,Watched On-Demand,True,2026-09-20,webinar_platform,webinar
+CM-50701,CMP-136,L-5353,Referred,True,2026-09-01,partner,referral
+CM-50702,CMP-112,L-5354,Chat Engaged,True,2026-02-03,google,cpc
+CM-50703,CMP-119,L-5354,Converted,True,2026-04-19,linkedin,paid_social
+CM-50704,CMP-129,L-5355,Watched On-Demand,True,2026-08-22,webinar_platform,webinar
+CM-50705,CMP-133,L-5355,Converted,True,2026-08-23,LinkedIn,paid_social
+CM-50706,CMP-120,L-5356,Converted,True,2026-06-02,linkedin,paid_social
+CM-50707,CMP-119,L-5357,Converted,True,2026-06-22,linkedin,paid_social
+CM-50708,CMP-135,L-5358,Replied,True,2026-07-10,salesloft,email
+CM-50710,CMP-133,L-5358,Clicked,False,2026-07-29,linkedin,paid_social
+CM-50709,CMP-129,L-5358,Watched On-Demand,True,2026-09-12,webinar_platform,webinar
+CM-50711,CMP-124,L-5359,Chat Engaged,True,2026-05-21,google,cpc
+CM-50712,CMP-111,L-5360,Chat Engaged,True,2026-03-01,google,cpc
+CM-50714,CMP-114,L-5360,No Show,False,2026-04-28,events,event
+CM-50713,CMP-129,L-5360,No Show,False,2026-07-05,webinar_platform_,webinar
+CM-50715,CMP-130,L-5361,Downloaded,True,2026-08-12,LinkedIn,organic
+CM-50716,CMP-130,L-5361,Downloaded,True,2026-09-03,linkedin,organic
+CM-50717,CMP-124,L-5362,Chat Engaged,True,2026-05-02,google,cpc
+CM-50718,CMP-128,L-5362,Watched On-Demand,True,2026-09-08,webinar_platform,webinar
+CM-50719,CMP-114,L-5363,Attended,True,2026-04-28,events,event
+CM-50722,CMP-115,L-5363,Attended,True,2026-06-21,webinar_platform,webinar
+CM-50721,CMP-133,L-5363,Converted,True,2026-07-27,linkedin,paid_social
+CM-50720,CMP-130,L-5363,Downloaded,True,2026-09-11,linkedin,organic
+CM-50723,CMP-112,L-5364,Demo Requested,True,2026-01-05,google,cpc
+CM-50724,CMP-101,L-5365,Attended,True,2026-03-12,events,event
+CM-50726,CMP-117,L-5365,Downloaded,True,2026-05-06,linkedin,organic
+CM-50725,CMP-133,L-5365,Converted,True,2026-07-21,linkedin,paid_social
+CM-50727,CMP-105,L-5366,Downloaded,True,2026-01-26,linkedin,organic
+CM-50728,CMP-126,L-5367,Attended,True,2026-07-01,events,event
+CM-50729,CMP-129,L-5367,Registered,False,2026-07-17,webinar_platform,webinar
+CM-50730,CMP-109,L-5368,Meeting Booked,True,2026-03-30,salesloft,email
+CM-50733,CMP-117,L-5368,Downloaded,True,2026-05-28,linkedin,organic
+CM-50731,CMP-127,L-5368,Registered,False,2026-07-05,events,event
+CM-50732,CMP-134,L-5368,Meeting Booked,True,2026-09-21,salesloft,email
+CM-50734,CMP-117,L-5369,Downloaded,True,2026-06-09,linkedin,organic
+CM-50735,CMP-129,L-5369,Watched On-Demand,True,2026-07-25,webinar_platform,webinar
+CM-50736,CMP-111,L-5370,Demo Requested,True,2026-03-05,google,cpc
+CM-50737,CMP-129,L-5370,Attended,True,2026-09-28,webinar_platform,webinar
+CM-50738,CMP-108,L-5371,Meeting Booked,True,2026-02-28,salesloft,email
+CM-50739,CMP-122,L-5372,Meeting Booked,True,2026-04-11,salesloft,email
+CM-50740,CMP-121,L-5372,Meeting Booked,True,2026-04-20,salesloft,email
+CM-50741,CMP-138,L-5373,Chat Engaged,True,2026-07-20,google,cpc
+CM-50742,CMP-132,L-5373,Converted,True,2026-08-30,linkedin,paid_social
+CM-50743,CMP-125,L-5374,Demo Requested,True,2026-06-27,google,cpc
+CM-50744,CMP-129,L-5374,Attended,True,2026-07-09,webinar_platform,webinar
+CM-50745,CMP-125,L-5375,Demo Requested,True,2026-04-29,google,cpc
+CM-50746,CMP-133,L-5375,Converted,True,2026-08-14,linkedin,paid_social
+CM-50747,CMP-114,L-5376,Attended,True,2026-05-29,events,event
+CM-50749,CMP-115,L-5376,Registered,False,2026-06-02,webinar_platform,webinar
+CM-50748,CMP-118,L-5376,Downloaded,True,2026-06-08,linkedin,organic
+CM-50750,CMP-114,L-5377,Attended,True,2026-05-31,events,event
+CM-50751,CMP-116,L-5378,Attended,True,2026-05-27,webinar_platform,webinar
+CM-50752,CMP-116,L-5378,Attended,True,2026-06-05,webinar_platform,webinar
+CM-50753,CMP-122,L-5379,Meeting Booked,True,2026-05-10,salesloft,email
+CM-50756,CMP-116,L-5379,No Show,False,2026-06-13,webinar_platform_,webinar
+CM-50754,CMP-133,L-5379,Converted,True,2026-07-03,linkedin,paid_social
+CM-50755,CMP-130,L-5379,Downloaded,True,2026-09-19,linkedin,organic
+CM-50757,CMP-114,L-5380,Attended,True,2026-05-05,events,event
+CM-50758,CMP-110,L-5381,Referred,True,2026-03-19,partner,referral
+CM-50759,CMP-112,L-5382,Chat Engaged,True,2026-02-28,google,cpc
+CM-50760,CMP-114,L-5382,No Show,False,2026-04-02,events,event
+CM-50761,CMP-127,L-5382,Attended,True,2026-09-14,events,event
+CM-50762,CMP-126,L-5383,Met at Booth,True,2026-08-03,events,event
+CM-50763,CMP-123,L-5384,Referred,True,2026-05-17,partner,referral
+CM-50765,CMP-118,L-5384,Downloaded,True,2026-05-25,linkedin,organic
+CM-50764,CMP-132,L-5384,Converted,True,2026-08-01,linkedin,paid_social
+CM-50766,CMP-132,L-5384,Converted,True,2026-08-06,linkedin,paid_social
+CM-50767,CMP-109,L-5385,Replied,True,2026-02-13,salesloft,email
+CM-50768,CMP-125,L-5386,Demo Requested,True,2026-04-23,google,cpc
+CM-50769,CMP-122,L-5387,Replied,True,2026-06-15,salesloft,email
+CM-50770,CMP-119,L-5387,Converted,True,2026-06-22,linkedin,paid_social
+CM-50771,CMP-104,L-5388,Downloaded,True,2026-02-21,linkedin,organic
+CM-50772,CMP-105,L-5388,Downloaded,True,2026-03-05,linkedin,organic
+CM-50773,CMP-132,L-5388,Converted,True,2026-07-08,linkedin,paid_social
+CM-50774,CMP-125,L-5389,Chat Engaged,True,2026-04-21,google,cpc
+CM-50775,CMP-112,L-5390,Chat Engaged,True,2026-03-17,google.com,cpc
+CM-50776,CMP-131,L-5390,Downloaded,True,2026-08-02,linkedin,organic
+CM-50777,CMP-102,L-5391,Attended,True,2026-01-09,webinar_platform,webinar
+CM-50778,CMP-121,L-5392,Meeting Booked,True,2026-04-17,salesloft,email
+CM-50779,CMP-100,L-5393,Attended,True,2026-02-05,events,event
+CM-50781,CMP-102,L-5393,Attended,True,2026-03-31,webinar_platform,webinar
+CM-50780,CMP-126,L-5393,Met at Booth,True,2026-09-19,events,event
+CM-50782,CMP-116,L-5394,Watched On-Demand,True,2026-05-17,webinar_platform,webinar
+CM-50783,CMP-119,L-5394,Converted,True,2026-06-22,linkedin,paid_social
+CM-50784,CMP-124,L-5395,Chat Engaged,True,2026-04-16,google,cpc
+CM-50785,CMP-128,L-5395,Watched On-Demand,True,2026-08-28,webinar_platform,webinar
+CM-50786,CMP-104,L-5396,Downloaded,True,2026-01-23,linkedin,organic
+CM-50787,CMP-107,L-5396,Converted,True,2026-03-20,linkedin,paid_social
+CM-50788,CMP-113,L-5396,Met at Booth,True,2026-05-25,events,event
+CM-50789,CMP-135,L-5397,Replied,True,2026-09-17,salesloft,email
+CM-50790,CMP-132,L-5397,Clicked,False,2026-09-22,linkedin,paid_social
+CM-50792,CMP-130,L-5397,Downloaded,True,2026-09-25,linkedin,organic
+CM-50791,CMP-129,L-5397,Attended,True,2026-09-26,webinar_platform,webinar
+CM-50793,CMP-132,L-5398,Converted,True,2026-07-19,linkedin,paid_social
+CM-50794,CMP-126,L-5398,Attended,True,2026-08-07,events,event
+CM-50795,CMP-137,L-5399,Demo Requested,True,2026-07-19,google,cpc
+CM-50796,CMP-119,L-5400,Converted,True,2026-05-22,linkedin,paid_social
+CM-50797,CMP-131,L-5401,Downloaded,True,2026-08-13,LinkedIn,organic
+CM-50798,CMP-123,L-5402,Referred,True,2026-05-18,partner,referral
+CM-50799,CMP-132,L-5403,Converted,True,2026-07-17,linkedin,paid_social
+CM-50800,CMP-131,L-5403,Downloaded,True,2026-09-21,linkedin,organic
+CM-50801,CMP-137,L-5404,Chat Engaged,True,2026-09-13,google,cpc
+CM-50802,CMP-103,L-5405,Attended,True,2026-01-10,webinar_platform,webinar
+CM-50803,CMP-114,L-5406,Met at Booth,True,2026-04-25,events,event
+CM-50804,CMP-136,L-5407,Referred,True,2026-08-16,partner,referral
+CM-50805,CMP-132,L-5407,Converted,True,2026-08-18,linkedin,paid_social
+CM-50806,CMP-124,L-5408,Demo Requested,True,2026-06-17,google,cpc
+CM-50807,CMP-130,L-5409,Downloaded,True,2026-07-07,linkedin,organic
+CM-50808,CMP-130,L-5409,Downloaded,True,2026-07-08,linkedin,organic
+CM-50809,CMP-123,L-5410,Referred,True,2026-04-23,partner,referral
+CM-50810,CMP-117,L-5410,Downloaded,True,2026-06-05,linkedin,organic
+CM-50811,CMP-118,L-5411,Downloaded,True,2026-04-16,linkedin,organic
+CM-50812,CMP-134,L-5411,Meeting Booked,True,2026-09-05,salesloft,email
+CM-50813,CMP-132,L-5412,Converted,True,2026-08-29,LinkedIn,paid_social
+CM-50814,CMP-126,L-5412,Registered,False,2026-09-28,events,event
+CM-50815,CMP-114,L-5413,Attended,True,2026-06-16,events_,event
+CM-50816,CMP-134,L-5413,Meeting Booked,True,2026-07-09,salesloft,email
+CM-50817,CMP-121,L-5414,Meeting Booked,True,2026-06-19,salesloft,email
+CM-50818,CMP-131,L-5414,Downloaded,True,2026-08-26,linkedin,organic
+CM-50819,CMP-121,L-5415,Meeting Booked,True,2026-06-22,salesloft,email
+CM-50820,CMP-134,L-5415,Replied,True,2026-08-25,salesloft,email
+CM-50821,CMP-135,L-5415,Meeting Booked,True,2026-08-25,salesloft,email
+CM-50822,CMP-134,L-5416,Replied,True,2026-09-06,salesloft,email
+CM-50823,CMP-131,L-5416,Downloaded,True,2026-09-26,linkedin,organic
+CM-50824,CMP-135,L-5416,Meeting Booked,True,2026-09-27,salesloft,email
+CM-50825,CMP-104,L-5417,Downloaded,True,2026-01-11,linkedin,organic
+CM-50826,CMP-114,L-5417,Attended,True,2026-04-07,events,event
+CM-50827,CMP-117,L-5417,Downloaded,True,2026-04-12,linkedin,organic
+CM-50828,CMP-110,L-5418,Referred,True,2026-03-24,partners,referral
+CM-50830,CMP-116,L-5418,Registered,False,2026-06-06,webinar_platform,webinar
+CM-50829,CMP-129,L-5418,No Show,False,2026-07-17,webinar_platform,webinar
+CM-50831,CMP-127,L-5418,Met at Booth,True,2026-08-25,events,event
+CM-50832,CMP-104,L-5419,Downloaded,True,2026-03-02,linkedin,organic
+CM-50833,CMP-113,L-5420,Met at Booth,True,2026-05-24,events,event
+CM-50834,CMP-133,L-5420,Converted,True,2026-09-10,linkedin,paid_social
+CM-50835,CMP-111,L-5421,Demo Requested,True,2026-03-04,google,cpc
+CM-50836,CMP-107,L-5421,Converted,True,2026-03-15,linkedin,paid_social
+CM-50837,CMP-103,L-5422,Watched On-Demand,True,2026-02-22,webinar_platform,webinar
+CM-50840,CMP-106,L-5422,Converted,True,2026-03-08,linkedin,paid_social
+CM-50839,CMP-117,L-5422,Downloaded,True,2026-04-02,LinkedIn,organic
+CM-50838,CMP-114,L-5422,Met at Booth,True,2026-06-03,events,event
+CM-50841,CMP-127,L-5423,Attended,True,2026-08-12,events,event
+CM-50842,CMP-106,L-5424,Converted,True,2026-01-13,linkedin,paid_social
+CM-50843,CMP-104,L-5424,Downloaded,True,2026-02-02,linkedin,organic
+CM-50844,CMP-107,L-5425,Converted,True,2026-03-03,linkedin,paid_social
+CM-50845,CMP-113,L-5425,Met at Booth,True,2026-06-21,events,event
+CM-50846,CMP-136,L-5426,Referred,True,2026-08-23,partner,referral
+CM-50847,CMP-128,L-5427,Attended,True,2026-09-17,webinar_platform,webinar
+CM-50848,CMP-128,L-5427,Watched On-Demand,True,2026-09-29,webinar_platform,webinar
+CM-50849,CMP-124,L-5428,Chat Engaged,True,2026-06-10,google,cpc
+CM-50850,CMP-134,L-5428,Replied,True,2026-07-06,salesloft,email
+CM-50851,CMP-104,L-5429,Downloaded,True,2026-03-19,LinkedIn,organic
+CM-50852,CMP-116,L-5430,Watched On-Demand,True,2026-06-13,webinar_platform,webinar
+CM-50853,CMP-134,L-5430,Replied,True,2026-08-23,salesloft,email
+CM-50854,CMP-127,L-5431,Attended,True,2026-09-19,events_,event
+CM-50855,CMP-128,L-5431,Watched On-Demand,True,2026-09-22,webinar_platform,webinar
+CM-50856,CMP-127,L-5431,Attended,True,2026-09-25,events,event
+CM-50857,CMP-123,L-5432,Referred,True,2026-05-09,partner,referral
+CM-50858,CMP-127,L-5432,Met at Booth,True,2026-08-01,events,event
+CM-50859,CMP-137,L-5433,Chat Engaged,True,2026-08-28,google.com,cpc
+CM-50860,CMP-131,L-5433,Downloaded,True,2026-09-30,linkedin,organic
+CM-50861,CMP-123,L-5434,Referred,True,2026-04-19,partner,referral
+CM-50862,CMP-127,L-5434,Attended,True,2026-09-05,events,event
+CM-50863,CMP-110,L-5435,Referred,True,2026-03-07,partner,referral
+CM-50864,CMP-106,L-5435,Converted,True,2026-03-28,linkedin,paid_social
+CM-50865,CMP-108,L-5436,Replied,True,2026-03-09,salesloft,email
+CM-50866,CMP-119,L-5436,Converted,True,2026-05-26,linkedin,paid_social
+CM-50867,CMP-134,L-5437,Meeting Booked,True,2026-07-24,salesloft,email
+CM-50868,CMP-132,L-5438,Converted,True,2026-08-27,linkedin,paid_social
+CM-50869,CMP-134,L-5438,Replied,True,2026-09-08,salesloft,email
+CM-50870,CMP-127,L-5438,Met at Booth,True,2026-09-28,events,event
+CM-50871,CMP-101,L-5439,Attended,True,2026-03-23,events,event
+CM-50873,CMP-121,L-5439,Meeting Booked,True,2026-05-26,salesloft,email
+CM-50872,CMP-134,L-5439,Replied,True,2026-09-16,salesloft,email
+CM-50874,CMP-111,L-5440,Demo Requested,True,2026-02-08,google,cpc
+CM-50875,CMP-131,L-5440,Downloaded,True,2026-09-23,linkedin,organic
+CM-50876,CMP-134,L-5441,Meeting Booked,True,2026-07-20,salesloft,email
+CM-50877,CMP-132,L-5441,Clicked,False,2026-08-26,linkedin,paid_social
+CM-50878,CMP-118,L-5442,Downloaded,True,2026-04-17,linkedin,organic
+CM-50880,CMP-115,L-5442,Watched On-Demand,True,2026-06-28,webinar_platform,webinar
+CM-50879,CMP-134,L-5442,Replied,True,2026-08-17,salesloft,email
+CM-50881,CMP-124,L-5443,Demo Requested,True,2026-04-19,google,cpc
+CM-50882,CMP-138,L-5444,Chat Engaged,True,2026-07-16,google,cpc
+CM-50885,CMP-126,L-5444,No Show,False,2026-09-02,events,event
+CM-50884,CMP-128,L-5444,Attended,True,2026-09-03,webinar_platform,webinar
+CM-50883,CMP-132,L-5444,Clicked,False,2026-09-12,linkedin,paid_social
+CM-50886,CMP-123,L-5445,Referred,True,2026-05-08,partner,referral
+CM-50887,CMP-135,L-5445,Replied,True,2026-07-13,salesloft,email
+CM-50888,CMP-114,L-5446,Attended,True,2026-04-17,events,event
+CM-50889,CMP-129,L-5447,Attended,True,2026-09-07,webinar_platform,webinar
+CM-50890,CMP-126,L-5447,Met at Booth,True,2026-09-30,events,event
+CM-50891,CMP-105,L-5448,Downloaded,True,2026-01-18,linkedin,organic
+CM-50892,CMP-104,L-5448,Downloaded,True,2026-01-31,linkedin,organic
+CM-50893,CMP-138,L-5449,Chat Engaged,True,2026-08-16,google,cpc
+CM-50894,CMP-108,L-5450,Replied,True,2026-03-10,salesloft,email
+CM-50895,CMP-120,L-5450,Converted,True,2026-05-24,linkedin,paid_social
+CM-50896,CMP-111,L-5451,Demo Requested,True,2026-03-08,google,cpc
+CM-50898,CMP-122,L-5451,Meeting Booked,True,2026-06-10,SalesLoft,email
+CM-50897,CMP-114,L-5451,Met at Booth,True,2026-06-15,events,event
+CM-50899,CMP-114,L-5452,Attended,True,2026-05-21,events,event
+CM-50900,CMP-128,L-5453,Attended,True,2026-07-14,webinar_platform,webinar
+CM-50901,CMP-134,L-5453,Meeting Booked,True,2026-07-18,salesloft,email
+CM-50902,CMP-135,L-5454,Meeting Booked,True,2026-07-19,salesloft,email
+CM-50903,CMP-117,L-5455,Downloaded,True,2026-05-19,linkedin,organic
+CM-50904,CMP-121,L-5455,Meeting Booked,True,2026-06-12,salesloft,email
+CM-50905,CMP-127,L-5455,Met at Booth,True,2026-07-05,events_,event
+CM-50906,CMP-115,L-5456,Attended,True,2026-05-18,webinar_platform,webinar
+CM-50907,CMP-113,L-5456,Met at Booth,True,2026-06-23,events,event
+CM-50908,CMP-106,L-5457,Converted,True,2026-03-09,linkedin,paid_social
+CM-50909,CMP-113,L-5457,Met at Booth,True,2026-04-06,events,event
+CM-50910,CMP-113,L-5457,Attended,True,2026-05-16,events,event
+CM-50911,CMP-124,L-5458,Chat Engaged,True,2026-06-14,google,cpc
+CM-50912,CMP-116,L-5458,Watched On-Demand,True,2026-06-15,webinar_platform,webinar
+CM-50913,CMP-107,L-5459,Converted,True,2026-02-05,linkedin,paid_social
+CM-50914,CMP-120,L-5459,Converted,True,2026-04-21,linkedin,paid_social
+CM-50915,CMP-121,L-5460,Meeting Booked,True,2026-06-25,salesloft,email
+CM-50917,CMP-126,L-5460,No Show,False,2026-08-08,events,event
+CM-50916,CMP-128,L-5460,Watched On-Demand,True,2026-09-03,webinar_platform,webinar
+CM-50918,CMP-108,L-5461,Replied,True,2026-03-22,salesloft,email
+CM-50919,CMP-135,L-5461,Meeting Booked,True,2026-07-22,salesloft,email
+CM-50920,CMP-136,L-5462,Referred,True,2026-09-30,partner,referral
+CM-50921,CMP-104,L-5463,Downloaded,True,2026-03-05,linkedin,organic
+CM-50922,CMP-103,L-5463,Attended,True,2026-03-26,webinar_platform,webinar
+CM-50923,CMP-121,L-5464,Meeting Booked,True,2026-05-10,salesloft,email
+CM-50925,CMP-117,L-5464,Downloaded,True,2026-06-07,linkedin,organic
+CM-50924,CMP-129,L-5464,Attended,True,2026-09-20,webinar_platform,webinar
+CM-50926,CMP-103,L-5465,Attended,True,2026-01-12,webinar_platform,webinar
+CM-50927,CMP-108,L-5466,Replied,True,2026-03-11,salesloft,email
+CM-50928,CMP-113,L-5466,No Show,False,2026-06-28,events,event
+CM-50930,CMP-128,L-5466,Watched On-Demand,True,2026-08-12,webinar_platform,webinar
+CM-50929,CMP-132,L-5466,Converted,True,2026-09-07,linkedin,paid_social
+CM-50931,CMP-123,L-5467,Referred,True,2026-04-08,partner,referral
+CM-50932,CMP-128,L-5467,Attended,True,2026-08-31,webinar_platform,webinar
+CM-50933,CMP-131,L-5467,Downloaded,True,2026-09-17,linkedin,organic
+CM-50934,CMP-136,L-5468,Referred,True,2026-09-27,partner,referral
+CM-50935,CMP-115,L-5469,Watched On-Demand,True,2026-05-30,webinar_platform,webinar
+CM-50937,CMP-113,L-5469,Registered,False,2026-06-09,events,event
+CM-50936,CMP-131,L-5469,Downloaded,True,2026-09-02,linkedin,organic
+CM-50938,CMP-115,L-5470,Watched On-Demand,True,2026-05-27,webinar_platform,webinar
+CM-50941,CMP-129,L-5470,Attended,True,2026-07-11,webinar_platform,webinar
+CM-50939,CMP-127,L-5470,Met at Booth,True,2026-07-26,events,event
+CM-50940,CMP-131,L-5470,Downloaded,True,2026-09-25,linkedin,organic
+CM-50942,CMP-131,L-5471,Downloaded,True,2026-07-13,linkedin,organic
+CM-50944,CMP-129,L-5471,Registered,False,2026-07-31,webinar_platform,webinar
+CM-50945,CMP-129,L-5471,Attended,True,2026-08-09,webinar_platform,webinar
+CM-50943,CMP-134,L-5471,Replied,True,2026-08-19,salesloft,email
+CM-50946,CMP-137,L-5472,Chat Engaged,True,2026-07-05,google,cpc
+CM-50947,CMP-130,L-5472,Downloaded,True,2026-08-13,linkedin,organic
+CM-50948,CMP-112,L-5473,Chat Engaged,True,2026-01-23,google,cpc
+CM-50949,CMP-118,L-5473,Downloaded,True,2026-04-29,linkedin,organic
+CM-50950,CMP-138,L-5474,Demo Requested,True,2026-08-15,google,cpc
+CM-50951,CMP-130,L-5474,Downloaded,True,2026-08-24,linkedin,organic
+CM-50952,CMP-120,L-5475,Converted,True,2026-04-07,linkedin,paid_social
+CM-50955,CMP-120,L-5475,Converted,True,2026-04-28,LinkedIn,paid_social
+CM-50953,CMP-116,L-5475,No Show,False,2026-06-09,webinar_platform,webinar
+CM-50954,CMP-133,L-5475,Converted,True,2026-07-27,linkedin,paid_social
+CM-50956,CMP-138,L-5476,Demo Requested,True,2026-08-10,google,cpc
+CM-50957,CMP-123,L-5477,Referred,True,2026-05-22,partner,referral
+CM-50958,CMP-122,L-5478,Replied,True,2026-06-11,salesloft,email
+CM-50959,CMP-111,L-5479,Demo Requested,True,2026-02-06,google,cpc
+CM-50960,CMP-108,L-5479,Meeting Booked,True,2026-03-22,salesloft,email
+CM-50961,CMP-123,L-5480,Referred,True,2026-04-25,partner,referral
+CM-50962,CMP-111,L-5481,Demo Requested,True,2026-02-17,google,cpc
+CM-50963,CMP-121,L-5481,Meeting Booked,True,2026-04-19,salesloft,email
+CM-50964,CMP-136,L-5482,Referred,True,2026-08-10,partner,referral
+CM-50965,CMP-129,L-5482,Attended,True,2026-08-15,webinar_platform,webinar
+CM-50966,CMP-126,L-5482,Attended,True,2026-09-19,events_,event
+CM-50967,CMP-127,L-5483,Attended,True,2026-07-25,events,event
+CM-50968,CMP-127,L-5483,Attended,True,2026-08-22,events,event
+CM-50969,CMP-112,L-5484,Demo Requested,True,2026-02-16,google,cpc
+CM-50970,CMP-115,L-5485,Attended,True,2026-06-26,webinar_platform,webinar
+CM-50971,CMP-126,L-5485,Attended,True,2026-09-24,events,event
+CM-50972,CMP-134,L-5486,Meeting Booked,True,2026-08-29,salesloft,email
+CM-50973,CMP-134,L-5486,Replied,True,2026-09-08,salesloft,email
+CM-50974,CMP-128,L-5487,Attended,True,2026-09-15,webinar_platform,webinar
+CM-50976,CMP-126,L-5487,Met at Booth,True,2026-09-19,events,event
+CM-50975,CMP-131,L-5487,Downloaded,True,2026-09-29,linkedin,organic
+CM-50977,CMP-129,L-5488,Attended,True,2026-07-14,webinar_platform,webinar
+CM-50978,CMP-110,L-5489,Referred,True,2026-03-30,partner,referral
+CM-50979,CMP-129,L-5489,Watched On-Demand,True,2026-08-28,webinar_platform,webinar
+CM-50980,CMP-124,L-5490,Demo Requested,True,2026-06-23,google,cpc
+CM-50981,CMP-123,L-5491,Referred,True,2026-05-15,partner,referral
+CM-50982,CMP-127,L-5491,Met at Booth,True,2026-07-06,events,event
+CM-50983,CMP-130,L-5491,Downloaded,True,2026-08-14,linkedin,organic
+CM-50984,CMP-129,L-5491,Watched On-Demand,True,2026-09-02,webinar_platform,webinar
+CM-50985,CMP-121,L-5492,Replied,True,2026-05-26,salesloft,email
+CM-50986,CMP-129,L-5492,No Show,False,2026-08-29,webinar_platform,webinar
+CM-50987,CMP-110,L-5493,Referred,True,2026-03-16,partner,referral
+CM-50988,CMP-118,L-5493,Downloaded,True,2026-06-04,linkedin,organic
+CM-50989,CMP-123,L-5494,Referred,True,2026-06-16,partner,referral
+CM-50990,CMP-129,L-5494,Registered,False,2026-07-31,webinar_platform,webinar
+CM-50991,CMP-134,L-5494,Meeting Booked,True,2026-08-12,salesloft,email
+CM-50992,CMP-127,L-5495,Met at Booth,True,2026-08-31,events,event
+CM-50993,CMP-128,L-5495,Watched On-Demand,True,2026-09-13,webinar_platform,webinar
+CM-50994,CMP-106,L-5496,Converted,True,2026-01-22,linkedin,paid_social
+CM-50995,CMP-100,L-5497,Attended,True,2026-01-24,events,event
+CM-50996,CMP-110,L-5498,Referred,True,2026-02-23,partner,referral
+CM-50997,CMP-129,L-5499,Watched On-Demand,True,2026-08-02,webinar_platform,webinar
+CM-50999,CMP-133,L-5499,Converted,True,2026-08-14,linkedin,paid_social
+CM-50998,CMP-129,L-5499,Watched On-Demand,True,2026-09-05,webinar_platform,webinar
+CM-51000,CMP-102,L-5500,Attended,True,2026-02-18,webinar_platform,webinar
+CM-51001,CMP-115,L-5500,No Show,False,2026-04-14,webinar_platform,webinar
+CM-51002,CMP-106,L-5501,Converted,True,2026-03-13,linkedin,paid_social
+CM-51003,CMP-132,L-5501,Converted,True,2026-08-15,linkedin,paid_social
+CM-51004,CMP-108,L-5502,Replied,True,2026-02-21,salesloft,email
+CM-51005,CMP-117,L-5503,Downloaded,True,2026-06-01,linkedin,organic
+CM-51006,CMP-121,L-5504,Replied,True,2026-04-10,salesloft,email
+CM-51007,CMP-115,L-5504,Watched On-Demand,True,2026-05-04,webinar_platform,webinar
+CM-51008,CMP-130,L-5504,Downloaded,True,2026-09-05,linkedin,organic
+CM-51009,CMP-108,L-5505,Meeting Booked,True,2026-03-27,salesloft,email
+CM-51011,CMP-130,L-5505,Downloaded,True,2026-08-18,linkedin,organic
+CM-51010,CMP-130,L-5505,Downloaded,True,2026-09-01,linkedin,organic
+CM-51012,CMP-135,L-5506,Replied,True,2026-08-15,salesloft,email
+CM-51013,CMP-133,L-5507,Converted,True,2026-08-11,linkedin,paid_social
+CM-51014,CMP-135,L-5507,Replied,True,2026-08-19,salesloft,email
+CM-51015,CMP-135,L-5507,Meeting Booked,True,2026-09-09,salesloft,email
+CM-51016,CMP-109,L-5508,Replied,True,2026-03-30,salesloft,email
+CM-51017,CMP-117,L-5508,Downloaded,True,2026-04-10,linkedin,organic
+CM-51018,CMP-126,L-5508,Met at Booth,True,2026-09-11,events,event
+CM-51019,CMP-101,L-5509,Met at Booth,True,2026-03-27,events,event
+CM-51020,CMP-116,L-5509,Attended,True,2026-05-31,webinar_platform,webinar
+CM-51021,CMP-127,L-5510,Attended,True,2026-07-28,events,event
+CM-51022,CMP-130,L-5510,Downloaded,True,2026-08-21,LinkedIn,organic
+CM-51023,CMP-130,L-5510,Downloaded,True,2026-09-15,linkedin,organic
+CM-51024,CMP-108,L-5511,Meeting Booked,True,2026-03-16,salesloft,email
+CM-51025,CMP-106,L-5512,Converted,True,2026-01-22,linkedin,paid_social
+CM-51026,CMP-122,L-5513,Replied,True,2026-06-09,salesloft,email
+CM-51027,CMP-120,L-5513,Converted,True,2026-06-24,linkedin,paid_social
+CM-51028,CMP-120,L-5513,Converted,True,2026-06-26,linkedin,paid_social
+CM-51029,CMP-103,L-5514,Attended,True,2026-02-14,webinar_platform,webinar
+CM-51031,CMP-105,L-5514,Downloaded,True,2026-02-24,linkedin,organic
+CM-51030,CMP-134,L-5514,Replied,True,2026-07-26,salesloft,email
+CM-51032,CMP-135,L-5515,Meeting Booked,True,2026-09-12,salesloft,email
+CM-51033,CMP-128,L-5515,Attended,True,2026-09-16,webinar_platform,webinar
+CM-51034,CMP-131,L-5516,Downloaded,True,2026-07-26,linkedin,organic
+CM-51035,CMP-127,L-5516,Met at Booth,True,2026-07-27,events,event
+CM-51036,CMP-129,L-5516,Attended,True,2026-09-02,webinar_platform,webinar
+CM-51037,CMP-135,L-5517,Meeting Booked,True,2026-09-30,salesloft,email
+CM-51038,CMP-119,L-5518,Converted,True,2026-06-26,linkedin,paid_social
+CM-51039,CMP-127,L-5518,Met at Booth,True,2026-08-11,events,event
+CM-51040,CMP-101,L-5519,Met at Booth,True,2026-01-30,events,event
+CM-51041,CMP-108,L-5519,Replied,True,2026-02-17,salesloft,email
+CM-51042,CMP-107,L-5519,Converted,True,2026-02-22,linkedin,paid_social
+CM-51043,CMP-128,L-5519,Watched On-Demand,True,2026-08-27,webinar_platform,webinar
+CM-51044,CMP-107,L-5520,Converted,True,2026-03-12,linkedin,paid_social
+CM-51045,CMP-114,L-5521,Attended,True,2026-06-17,events,event
+CM-51046,CMP-134,L-5521,Sent,False,2026-09-22,salesloft,email
+CM-51047,CMP-134,L-5522,Meeting Booked,True,2026-08-24,salesloft,email
+CM-51048,CMP-132,L-5522,Converted,True,2026-09-03,LinkedIn,paid_social
+CM-51049,CMP-133,L-5522,Clicked,False,2026-09-07,linkedin,paid_social
+CM-51050,CMP-108,L-5523,Meeting Booked,True,2026-03-13,SalesLoft,email
+CM-51051,CMP-126,L-5523,Met at Booth,True,2026-08-17,events,event
+CM-51052,CMP-132,L-5524,Converted,True,2026-08-07,linkedin,paid_social
+CM-51054,CMP-132,L-5524,Converted,True,2026-08-14,linkedin,paid_social
+CM-51053,CMP-132,L-5524,Converted,True,2026-09-28,linkedin,paid_social
+CM-51055,CMP-132,L-5525,Converted,True,2026-07-28,linkedin,paid_social
+CM-51056,CMP-132,L-5525,Converted,True,2026-08-27,linkedin,paid_social
+CM-51057,CMP-109,L-5526,Meeting Booked,True,2026-02-15,salesloft,email
+CM-51058,CMP-115,L-5526,Watched On-Demand,True,2026-04-16,webinar_platform,webinar
+CM-51059,CMP-114,L-5527,Met at Booth,True,2026-04-17,events,event
+CM-51060,CMP-133,L-5527,Clicked,False,2026-09-17,linkedin,paid_social
+CM-51061,CMP-112,L-5528,Chat Engaged,True,2026-02-09,google,cpc
+CM-51062,CMP-106,L-5529,Converted,True,2026-02-04,linkedin,paid_social
+CM-51063,CMP-105,L-5530,Downloaded,True,2026-03-18,linkedin,organic
+CM-51064,CMP-110,L-5531,Referred,True,2026-03-21,partner,referral
+CM-51065,CMP-128,L-5531,Attended,True,2026-09-05,webinar_platform,webinar
+CM-51066,CMP-103,L-5532,Watched On-Demand,True,2026-03-11,webinar_platform,webinar
+CM-51068,CMP-119,L-5532,Clicked,False,2026-05-21,linkedin,paid_social
+CM-51067,CMP-129,L-5532,Watched On-Demand,True,2026-09-06,webinar_platform,webinar
+CM-51069,CMP-113,L-5533,Met at Booth,True,2026-04-02,events,event
+CM-51071,CMP-128,L-5533,Attended,True,2026-08-14,webinar_platform,webinar
+CM-51070,CMP-131,L-5533,Downloaded,True,2026-09-21,LinkedIn,organic
+CM-51072,CMP-120,L-5534,Converted,True,2026-04-30,linkedin,paid_social
+CM-51073,CMP-137,L-5535,Demo Requested,True,2026-07-10,google,cpc
+CM-51074,CMP-134,L-5535,Replied,True,2026-07-28,SalesLoft,email
+CM-51075,CMP-127,L-5535,No Show,False,2026-07-30,events,event
+CM-51076,CMP-132,L-5535,Clicked,False,2026-09-20,linkedin,paid_social
+CM-51077,CMP-131,L-5536,Downloaded,True,2026-09-29,LinkedIn,organic
+CM-51078,CMP-127,L-5536,Registered,False,2026-09-30,events,event
+CM-51079,CMP-104,L-5537,Downloaded,True,2026-02-20,linkedin,organic
+CM-51080,CMP-128,L-5537,Watched On-Demand,True,2026-09-26,webinar_platform,webinar
+CM-51081,CMP-104,L-5538,Downloaded,True,2026-02-11,linkedin,organic
+CM-51082,CMP-131,L-5539,Downloaded,True,2026-08-19,linkedin,organic
+CM-51084,CMP-130,L-5539,Downloaded,True,2026-09-10,linkedin,organic
+CM-51083,CMP-129,L-5539,Attended,True,2026-09-15,webinar_platform,webinar
+CM-51085,CMP-123,L-5540,Referred,True,2026-05-25,partner,referral
+CM-51087,CMP-116,L-5540,Watched On-Demand,True,2026-05-31,webinar_platform,webinar
+CM-51086,CMP-134,L-5540,Replied,True,2026-08-29,salesloft,email
+CM-51088,CMP-126,L-5540,Registered,False,2026-09-16,events,event
+CM-51089,CMP-126,L-5541,Attended,True,2026-08-19,events_,event
+CM-51090,CMP-133,L-5541,Converted,True,2026-08-23,linkedin,paid_social
+CM-51091,CMP-127,L-5541,No Show,False,2026-09-24,events_,event
+CM-51092,CMP-115,L-5542,Attended,True,2026-06-19,webinar_platform,webinar
+CM-51093,CMP-119,L-5542,Converted,True,2026-06-22,linkedin,paid_social
+CM-51094,CMP-130,L-5542,Downloaded,True,2026-07-05,linkedin,organic
+CM-51095,CMP-114,L-5543,Attended,True,2026-06-10,events,event
+CM-51096,CMP-127,L-5543,Met at Booth,True,2026-09-04,events,event
+CM-51097,CMP-118,L-5544,Downloaded,True,2026-04-18,linkedin,organic
+CM-51098,CMP-111,L-5545,Demo Requested,True,2026-02-28,google,cpc
+CM-51099,CMP-122,L-5545,Sent,False,2026-06-08,salesloft,email
+CM-51100,CMP-121,L-5545,Sent,False,2026-06-08,salesloft,email
+CM-51101,CMP-134,L-5545,Replied,True,2026-08-22,salesloft,email
+CM-51102,CMP-112,L-5546,Chat Engaged,True,2026-02-04,google,cpc
+CM-51105,CMP-119,L-5546,Converted,True,2026-05-18,linkedin,paid_social
+CM-51104,CMP-116,L-5546,Watched On-Demand,True,2026-06-01,webinar_platform,webinar
+CM-51103,CMP-130,L-5546,Downloaded,True,2026-08-24,linkedin,organic
+CM-51106,CMP-107,L-5547,Converted,True,2026-03-23,linkedin,paid_social
+CM-51107,CMP-121,L-5547,Meeting Booked,True,2026-05-27,salesloft,email
+CM-51108,CMP-113,L-5548,Met at Booth,True,2026-06-14,events,event
+CM-51109,CMP-135,L-5548,Replied,True,2026-09-05,salesloft,email
+CM-51110,CMP-135,L-5549,Replied,True,2026-08-03,salesloft,email
+CM-51111,CMP-132,L-5549,Clicked,False,2026-08-04,linkedin,paid_social
+CM-51112,CMP-114,L-5550,Met at Booth,True,2026-05-29,events,event
+CM-51113,CMP-133,L-5551,Converted,True,2026-08-13,LinkedIn,paid_social
+CM-51114,CMP-135,L-5551,Replied,True,2026-09-23,salesloft,email
+CM-51115,CMP-125,L-5552,Demo Requested,True,2026-06-04,google,cpc
+CM-51116,CMP-135,L-5552,Sent,False,2026-08-22,salesloft,email
+CM-51117,CMP-132,L-5552,Clicked,False,2026-09-19,linkedin,paid_social
+CM-51118,CMP-116,L-5553,Watched On-Demand,True,2026-04-11,webinar_platform,webinar
+CM-51119,CMP-114,L-5553,Met at Booth,True,2026-05-27,events,event
+CM-51120,CMP-135,L-5553,Sent,False,2026-08-19,salesloft,email
+CM-51121,CMP-118,L-5554,Downloaded,True,2026-05-02,linkedin,organic
+CM-51122,CMP-122,L-5554,Replied,True,2026-05-27,salesloft,email
+CM-51123,CMP-109,L-5555,Meeting Booked,True,2026-01-30,salesloft,email
+CM-51124,CMP-132,L-5555,Converted,True,2026-08-14,linkedin,paid_social
+CM-51125,CMP-109,L-5556,Replied,True,2026-03-07,salesloft,email
+CM-51126,CMP-102,L-5556,Watched On-Demand,True,2026-03-09,webinar_platform,webinar
+CM-51127,CMP-103,L-5556,Attended,True,2026-03-13,webinar_platform,webinar
+CM-51128,CMP-125,L-5557,Chat Engaged,True,2026-05-02,google,cpc
+CM-51129,CMP-135,L-5558,Replied,True,2026-07-14,salesloft,email
+CM-51130,CMP-111,L-5559,Demo Requested,True,2026-01-19,google,cpc
+CM-51131,CMP-114,L-5559,Attended,True,2026-06-09,events,event
+CM-51132,CMP-136,L-5560,Referred,True,2026-08-05,partner,referral
+CM-51133,CMP-127,L-5560,Attended,True,2026-09-27,events,event
+CM-51134,CMP-135,L-5561,Replied,True,2026-09-06,salesloft,email
+CM-51135,CMP-134,L-5561,Meeting Booked,True,2026-09-08,salesloft,email
+CM-51136,CMP-121,L-5562,Replied,True,2026-06-22,salesloft,email
+CM-51137,CMP-129,L-5562,Watched On-Demand,True,2026-07-21,webinar_platform,webinar
+CM-51138,CMP-112,L-5563,Demo Requested,True,2026-03-19,google,cpc
+CM-51139,CMP-128,L-5563,Attended,True,2026-07-18,webinar_platform,webinar
+CM-51140,CMP-137,L-5564,Demo Requested,True,2026-08-18,google,cpc
+CM-51141,CMP-137,L-5565,Chat Engaged,True,2026-08-11,google,cpc
+CM-51142,CMP-130,L-5565,Downloaded,True,2026-09-07,linkedin,organic
+CM-51143,CMP-124,L-5566,Demo Requested,True,2026-04-28,google,cpc
+CM-51144,CMP-112,L-5567,Demo Requested,True,2026-03-27,google,cpc
+CM-51145,CMP-116,L-5568,Watched On-Demand,True,2026-06-18,webinar_platform,webinar
+CM-51146,CMP-126,L-5568,Attended,True,2026-07-27,events,event
+CM-51147,CMP-105,L-5569,Downloaded,True,2026-03-28,linkedin,organic
+CM-51148,CMP-134,L-5569,Meeting Booked,True,2026-09-26,salesloft,email
+CM-51149,CMP-102,L-5570,Attended,True,2026-03-09,webinar_platform,webinar
+CM-51150,CMP-125,L-5571,Chat Engaged,True,2026-06-06,google,cpc
+CM-51153,CMP-134,L-5571,Meeting Booked,True,2026-07-11,salesloft,email
+CM-51152,CMP-132,L-5571,Converted,True,2026-07-12,linkedin,paid_social
+CM-51151,CMP-134,L-5571,Replied,True,2026-07-31,salesloft,email
+CM-51154,CMP-133,L-5572,Converted,True,2026-09-11,linkedin,paid_social
+CM-51155,CMP-135,L-5572,Meeting Booked,True,2026-09-27,salesloft,email
+CM-51156,CMP-111,L-5573,Chat Engaged,True,2026-02-03,google,cpc
+CM-51157,CMP-105,L-5573,Downloaded,True,2026-02-18,linkedin,organic
+CM-51158,CMP-136,L-5574,Referred,True,2026-09-11,partner,referral
+CM-51159,CMP-133,L-5574,Converted,True,2026-09-29,linkedin,paid_social
+CM-51160,CMP-131,L-5574,Downloaded,True,2026-09-30,linkedin,organic
+CM-51161,CMP-138,L-5575,Chat Engaged,True,2026-07-25,google,cpc
+CM-51162,CMP-130,L-5575,Downloaded,True,2026-08-18,linkedin,organic
+CM-51163,CMP-135,L-5575,Meeting Booked,True,2026-08-22,salesloft,email
+CM-51164,CMP-135,L-5575,Sent,False,2026-09-26,salesloft,email
+CM-51165,CMP-107,L-5576,Converted,True,2026-02-24,linkedin,paid_social
+CM-51168,CMP-120,L-5576,Clicked,False,2026-04-20,linkedin,paid_social
+CM-51167,CMP-119,L-5576,Clicked,False,2026-06-16,linkedin,paid_social
+CM-51166,CMP-128,L-5576,Watched On-Demand,True,2026-08-07,webinar_platform_,webinar
+CM-51169,CMP-121,L-5577,Meeting Booked,True,2026-04-03,salesloft,email
+CM-51170,CMP-122,L-5578,Meeting Booked,True,2026-06-26,salesloft,email
+CM-51171,CMP-115,L-5579,Watched On-Demand,True,2026-05-19,webinar_platform,webinar
+CM-51173,CMP-117,L-5579,Downloaded,True,2026-05-30,linkedin,organic
+CM-51174,CMP-132,L-5579,Converted,True,2026-07-26,linkedin,paid_social
+CM-51172,CMP-133,L-5579,Converted,True,2026-08-09,linkedin,paid_social
+CM-51175,CMP-123,L-5580,Referred,True,2026-05-10,partner,referral
+CM-51176,CMP-134,L-5581,Replied,True,2026-08-17,salesloft,email
+CM-51177,CMP-126,L-5581,Met at Booth,True,2026-09-20,events,event
+CM-51178,CMP-129,L-5581,Attended,True,2026-09-29,webinar_platform,webinar
+CM-51179,CMP-126,L-5582,Attended,True,2026-08-13,events,event
+CM-51180,CMP-110,L-5583,Referred,True,2026-02-23,partner,referral
+CM-51181,CMP-108,L-5583,Meeting Booked,True,2026-02-28,SalesLoft,email
+CM-51182,CMP-104,L-5583,Downloaded,True,2026-03-12,linkedin,organic
+CM-51183,CMP-110,L-5584,Referred,True,2026-01-16,partner,referral
+CM-51184,CMP-102,L-5584,Watched On-Demand,True,2026-02-17,webinar_platform,webinar
+CM-51185,CMP-104,L-5584,Downloaded,True,2026-03-18,linkedin,organic
+CM-51186,CMP-131,L-5585,Downloaded,True,2026-07-26,linkedin,organic
+CM-51187,CMP-134,L-5585,Meeting Booked,True,2026-09-09,salesloft,email
+CM-51188,CMP-110,L-5586,Referred,True,2026-02-06,partner,referral
+CM-51189,CMP-128,L-5587,Watched On-Demand,True,2026-07-05,webinar_platform,webinar
+CM-51190,CMP-130,L-5587,Downloaded,True,2026-08-07,linkedin,organic
+CM-51191,CMP-125,L-5588,Chat Engaged,True,2026-04-01,google,cpc
+CM-51192,CMP-129,L-5589,Watched On-Demand,True,2026-08-18,webinar_platform,webinar
+CM-51194,CMP-128,L-5589,Watched On-Demand,True,2026-09-05,webinar_platform_,webinar
+CM-51193,CMP-135,L-5589,Sent,False,2026-09-29,salesloft,email
+CM-51195,CMP-129,L-5590,Watched On-Demand,True,2026-09-27,webinar_platform,webinar
+CM-51196,CMP-128,L-5590,Attended,True,2026-09-29,webinar_platform,webinar
+CM-51197,CMP-122,L-5591,Meeting Booked,True,2026-05-07,salesloft,email
+CM-51198,CMP-129,L-5591,Watched On-Demand,True,2026-09-15,webinar_platform,webinar
+CM-51199,CMP-101,L-5592,Met at Booth,True,2026-02-20,events,event
+CM-51200,CMP-114,L-5592,No Show,False,2026-04-13,events,event
+CM-51201,CMP-135,L-5592,Replied,True,2026-07-07,salesloft,email
+CM-51202,CMP-123,L-5593,Referred,True,2026-06-18,partner,referral
+CM-51203,CMP-112,L-5594,Chat Engaged,True,2026-01-19,google,cpc
+CM-51205,CMP-133,L-5594,Converted,True,2026-08-05,linkedin,paid_social
+CM-51204,CMP-131,L-5594,Downloaded,True,2026-08-08,linkedin,organic
+CM-51206,CMP-111,L-5595,Chat Engaged,True,2026-01-12,google,cpc
+CM-51207,CMP-122,L-5595,Sent,False,2026-06-27,salesloft,email
+CM-51208,CMP-128,L-5595,Watched On-Demand,True,2026-08-16,webinar_platform,webinar
+CM-51209,CMP-121,L-5596,Replied,True,2026-05-24,salesloft,email
+CM-51210,CMP-125,L-5597,Demo Requested,True,2026-04-29,google,cpc
+CM-51211,CMP-110,L-5598,Referred,True,2026-02-18,partner,referral
+CM-51212,CMP-135,L-5599,Meeting Booked,True,2026-07-13,salesloft,email
+CM-51213,CMP-124,L-5600,Demo Requested,True,2026-04-17,google,cpc
+CM-51214,CMP-114,L-5600,Registered,False,2026-06-15,events,event
+CM-51215,CMP-116,L-5600,Watched On-Demand,True,2026-06-17,webinar_platform,webinar
+CM-51216,CMP-116,L-5600,Watched On-Demand,True,2026-06-22,webinar_platform,webinar
+CM-51217,CMP-125,L-5601,Chat Engaged,True,2026-06-16,google.com,cpc
+CM-51218,CMP-128,L-5601,Watched On-Demand,True,2026-07-22,webinar_platform,webinar
+CM-51219,CMP-130,L-5601,Downloaded,True,2026-09-19,linkedin,organic
+CM-51220,CMP-109,L-5602,Meeting Booked,True,2026-01-08,salesloft,email
+CM-51221,CMP-114,L-5602,Attended,True,2026-04-02,events,event
+CM-51222,CMP-133,L-5603,Converted,True,2026-07-21,linkedin,paid_social
+CM-51223,CMP-129,L-5603,Watched On-Demand,True,2026-09-29,webinar_platform,webinar
+CM-51224,CMP-116,L-5604,Watched On-Demand,True,2026-05-31,webinar_platform,webinar
+CM-51225,CMP-118,L-5604,Downloaded,True,2026-06-24,linkedin,organic
+CM-51226,CMP-133,L-5604,Converted,True,2026-07-12,linkedin,paid_social
+CM-51227,CMP-135,L-5605,Meeting Booked,True,2026-08-08,salesloft,email
+CM-51228,CMP-134,L-5606,Meeting Booked,True,2026-07-10,salesloft,email
+CM-51229,CMP-133,L-5606,Converted,True,2026-08-26,linkedin,paid_social
+CM-51230,CMP-117,L-5607,Downloaded,True,2026-04-17,linkedin,organic
+CM-51231,CMP-134,L-5607,Replied,True,2026-07-21,salesloft,email
+CM-51232,CMP-121,L-5608,Replied,True,2026-06-16,salesloft,email
+CM-51233,CMP-112,L-5609,Demo Requested,True,2026-01-09,google,cpc
+CM-51234,CMP-127,L-5610,Attended,True,2026-09-05,events,event
+CM-51235,CMP-128,L-5610,Attended,True,2026-09-07,webinar_platform,webinar
+CM-51236,CMP-112,L-5611,Chat Engaged,True,2026-02-23,google,cpc
+CM-51237,CMP-114,L-5612,Met at Booth,True,2026-06-30,events,event
+CM-51238,CMP-128,L-5613,Attended,True,2026-08-06,webinar_platform,webinar
+CM-51239,CMP-127,L-5613,Met at Booth,True,2026-09-23,events,event
+CM-51240,CMP-120,L-5614,Converted,True,2026-06-10,linkedin,paid_social
+CM-51242,CMP-113,L-5614,No Show,False,2026-06-22,events,event
+CM-51241,CMP-134,L-5614,Replied,True,2026-08-31,salesloft,email
+CM-51243,CMP-112,L-5615,Demo Requested,True,2026-01-10,google,cpc
+CM-51245,CMP-118,L-5615,Downloaded,True,2026-04-27,linkedin,organic
+CM-51244,CMP-114,L-5615,Met at Booth,True,2026-06-30,events,event
+CM-51246,CMP-127,L-5616,Attended,True,2026-08-01,events,event
+CM-51247,CMP-134,L-5616,Sent,False,2026-08-27,salesloft,email
+CM-51248,CMP-126,L-5616,Met at Booth,True,2026-08-30,events,event
+CM-51249,CMP-130,L-5616,Downloaded,True,2026-09-10,linkedin,organic
+CM-51250,CMP-105,L-5617,Downloaded,True,2026-02-28,linkedin,organic
+CM-51251,CMP-134,L-5617,Sent,False,2026-08-02,salesloft,email
+CM-51252,CMP-102,L-5618,Attended,True,2026-02-10,webinar_platform,webinar
+CM-51253,CMP-121,L-5618,Meeting Booked,True,2026-05-26,salesloft,email
+CM-51254,CMP-117,L-5619,Downloaded,True,2026-05-04,linkedin,organic
+CM-51255,CMP-132,L-5620,Converted,True,2026-09-02,linkedin,paid_social
+CM-51257,CMP-128,L-5620,Watched On-Demand,True,2026-09-03,webinar_platform,webinar
+CM-51256,CMP-128,L-5620,Watched On-Demand,True,2026-09-07,webinar_platform,webinar
+CM-51258,CMP-130,L-5620,Downloaded,True,2026-09-26,linkedin,organic
+CM-51259,CMP-105,L-5621,Downloaded,True,2026-02-12,linkedin,organic
+CM-51260,CMP-116,L-5621,Registered,False,2026-04-03,webinar_platform,webinar
+CM-51261,CMP-119,L-5621,Converted,True,2026-06-24,linkedin,paid_social
+CM-51262,CMP-123,L-5622,Referred,True,2026-05-08,partner,referral
+CM-51263,CMP-131,L-5622,Downloaded,True,2026-09-04,linkedin,organic
+CM-51264,CMP-138,L-5623,Chat Engaged,True,2026-07-09,google,cpc
+CM-51266,CMP-126,L-5623,Met at Booth,True,2026-07-14,events,event
+CM-51267,CMP-129,L-5623,No Show,False,2026-09-15,webinar_platform,webinar
+CM-51265,CMP-133,L-5623,Converted,True,2026-09-30,linkedin,paid_social
+CM-51268,CMP-134,L-5624,Meeting Booked,True,2026-08-02,salesloft,email
+CM-51269,CMP-129,L-5624,Watched On-Demand,True,2026-08-11,webinar_platform,webinar
+CM-51270,CMP-115,L-5625,Attended,True,2026-04-03,webinar_platform,webinar
+CM-51271,CMP-129,L-5625,Registered,False,2026-09-29,webinar_platform,webinar
+CM-51272,CMP-134,L-5626,Replied,True,2026-09-11,salesloft,email
+CM-51273,CMP-100,L-5627,Met at Booth,True,2026-03-27,events,event
+CM-51275,CMP-117,L-5627,Downloaded,True,2026-05-20,linkedin,organic
+CM-51274,CMP-130,L-5627,Downloaded,True,2026-08-05,LinkedIn,organic
+CM-51276,CMP-126,L-5628,Met at Booth,True,2026-08-21,events,event
+CM-51278,CMP-127,L-5628,Attended,True,2026-08-28,events,event
+CM-51279,CMP-127,L-5628,Met at Booth,True,2026-09-01,events,event
+CM-51277,CMP-134,L-5628,Replied,True,2026-09-23,salesloft,email
+CM-51280,CMP-100,L-5629,Attended,True,2026-03-11,events,event
+CM-51281,CMP-133,L-5629,Clicked,False,2026-07-24,linkedin,paid_social
+CM-51282,CMP-110,L-5630,Referred,True,2026-02-15,partner,referral
+CM-51283,CMP-113,L-5630,Attended,True,2026-05-09,events,event
+CM-51284,CMP-125,L-5631,Chat Engaged,True,2026-04-29,google,cpc
+CM-51285,CMP-119,L-5631,Converted,True,2026-05-05,linkedin,paid_social
+CM-51286,CMP-119,L-5631,Clicked,False,2026-05-29,linkedin,paid_social
+CM-51287,CMP-124,L-5632,Demo Requested,True,2026-06-05,google,cpc
+CM-51290,CMP-130,L-5632,Downloaded,True,2026-08-01,linkedin,organic
+CM-51288,CMP-130,L-5632,Downloaded,True,2026-08-02,linkedin,organic
+CM-51289,CMP-128,L-5632,Watched On-Demand,True,2026-08-04,webinar_platform,webinar
+CM-51291,CMP-135,L-5633,Meeting Booked,True,2026-08-21,salesloft,email
+CM-51292,CMP-130,L-5633,Downloaded,True,2026-09-03,linkedin,organic
+CM-51293,CMP-129,L-5633,Watched On-Demand,True,2026-09-11,webinar_platform,webinar
+CM-51294,CMP-100,L-5634,Attended,True,2026-03-18,events,event
+CM-51296,CMP-113,L-5634,No Show,False,2026-05-10,events,event
+CM-51297,CMP-118,L-5634,Downloaded,True,2026-05-10,linkedin,organic
+CM-51295,CMP-119,L-5634,Converted,True,2026-05-19,linkedin,paid_social
+CM-51298,CMP-102,L-5635,Attended,True,2026-02-02,webinar_platform,webinar
+CM-51299,CMP-108,L-5635,Meeting Booked,True,2026-02-05,salesloft,email
+CM-51300,CMP-109,L-5635,Sent,False,2026-02-06,salesloft,email
+CM-51301,CMP-129,L-5636,Attended,True,2026-07-26,webinar_platform,webinar
+CM-51302,CMP-130,L-5636,Downloaded,True,2026-09-17,linkedin,organic
+CM-51303,CMP-103,L-5637,Watched On-Demand,True,2026-03-24,webinar_platform,webinar
+CM-51304,CMP-127,L-5637,Attended,True,2026-09-25,events,event
+CM-51305,CMP-136,L-5638,Referred,True,2026-07-12,partner,referral
+CM-51306,CMP-136,L-5639,Referred,True,2026-08-21,partner,referral
+CM-51308,CMP-126,L-5639,No Show,False,2026-08-22,events,event
+CM-51307,CMP-126,L-5639,Attended,True,2026-09-13,events,event
+CM-51309,CMP-119,L-5640,Converted,True,2026-04-24,linkedin,paid_social
+CM-51310,CMP-122,L-5641,Replied,True,2026-04-20,salesloft,email
+CM-51311,CMP-132,L-5641,Converted,True,2026-08-21,linkedin,paid_social
+CM-51312,CMP-128,L-5642,Attended,True,2026-07-19,webinar_platform,webinar
+CM-51314,CMP-127,L-5642,Met at Booth,True,2026-07-21,events,event
+CM-51315,CMP-126,L-5642,Met at Booth,True,2026-09-01,events,event
+CM-51313,CMP-131,L-5642,Downloaded,True,2026-09-14,linkedin,organic
+CM-51316,CMP-111,L-5643,Chat Engaged,True,2026-01-22,google,cpc
+CM-51317,CMP-100,L-5643,Attended,True,2026-03-14,events,event
+CM-51318,CMP-127,L-5643,Met at Booth,True,2026-07-06,events,event
+CM-51319,CMP-112,L-5644,Chat Engaged,True,2026-03-03,google,cpc
+CM-51320,CMP-109,L-5645,Meeting Booked,True,2026-01-24,SalesLoft,email
+CM-51321,CMP-107,L-5646,Converted,True,2026-01-17,linkedin,paid_social
+CM-51322,CMP-118,L-5646,Downloaded,True,2026-06-02,linkedin,organic
+CM-51323,CMP-100,L-5647,Met at Booth,True,2026-03-20,events,event
+CM-51324,CMP-107,L-5648,Converted,True,2026-02-18,linkedin,paid_social
+CM-51326,CMP-115,L-5648,Registered,False,2026-04-07,webinar_platform,webinar
+CM-51325,CMP-127,L-5648,Attended,True,2026-09-14,events,event
+CM-51327,CMP-121,L-5649,Replied,True,2026-04-20,salesloft,email
+CM-51329,CMP-129,L-5649,Attended,True,2026-08-01,webinar_platform,webinar
+CM-51328,CMP-131,L-5649,Downloaded,True,2026-08-20,linkedin,organic
+CM-51330,CMP-122,L-5650,Replied,True,2026-06-25,salesloft,email
+CM-51332,CMP-130,L-5650,Downloaded,True,2026-07-21,linkedin,organic
+CM-51331,CMP-132,L-5650,Converted,True,2026-08-14,linkedin,paid_social
+CM-51333,CMP-125,L-5651,Chat Engaged,True,2026-04-11,google,cpc
+CM-51334,CMP-119,L-5651,Converted,True,2026-04-23,linkedin,paid_social
+CM-51335,CMP-114,L-5651,Met at Booth,True,2026-06-24,events,event
+CM-51336,CMP-115,L-5652,Attended,True,2026-04-21,webinar_platform,webinar
+CM-51337,CMP-116,L-5652,Watched On-Demand,True,2026-05-12,webinar_platform,webinar
+CM-51338,CMP-137,L-5653,Chat Engaged,True,2026-09-06,google,cpc
+CM-51339,CMP-137,L-5654,Chat Engaged,True,2026-07-18,google,cpc
+CM-51340,CMP-132,L-5654,Converted,True,2026-09-09,linkedin,paid_social
+CM-51341,CMP-130,L-5655,Downloaded,True,2026-08-24,linkedin,organic
+CM-51342,CMP-128,L-5655,Attended,True,2026-08-28,webinar_platform_,webinar
+CM-51343,CMP-128,L-5656,Watched On-Demand,True,2026-09-13,webinar_platform_,webinar
+CM-51344,CMP-122,L-5657,Replied,True,2026-04-05,salesloft,email
+CM-51347,CMP-121,L-5657,Sent,False,2026-05-01,salesloft,email
+CM-51346,CMP-120,L-5657,Converted,True,2026-06-04,linkedin,paid_social
+CM-51345,CMP-129,L-5657,Watched On-Demand,True,2026-09-30,webinar_platform,webinar
+CM-51348,CMP-103,L-5658,Watched On-Demand,True,2026-03-30,webinar_platform,webinar
+CM-51349,CMP-135,L-5659,Meeting Booked,True,2026-08-07,salesloft,email
+CM-51350,CMP-126,L-5659,Registered,False,2026-09-08,events,event
+CM-51351,CMP-103,L-5660,Watched On-Demand,True,2026-02-18,webinar_platform,webinar
+CM-51352,CMP-108,L-5661,Replied,True,2026-03-14,salesloft,email
+CM-51353,CMP-131,L-5662,Downloaded,True,2026-09-07,linkedin,organic
+CM-51354,CMP-132,L-5662,Converted,True,2026-09-26,linkedin,paid_social
+CM-51355,CMP-103,L-5663,Watched On-Demand,True,2026-03-20,webinar_platform,webinar
+CM-51356,CMP-103,L-5663,Watched On-Demand,True,2026-03-23,webinar_platform,webinar
+CM-51357,CMP-134,L-5664,Meeting Booked,True,2026-07-15,salesloft,email
+CM-51358,CMP-126,L-5664,Attended,True,2026-07-18,events,event
+CM-51359,CMP-129,L-5664,No Show,False,2026-08-10,webinar_platform,webinar
+CM-51360,CMP-134,L-5664,Meeting Booked,True,2026-08-16,salesloft,email
+CM-51361,CMP-137,L-5665,Chat Engaged,True,2026-09-16,google,cpc
+CM-51362,CMP-126,L-5665,Met at Booth,True,2026-09-24,events,event
+CM-51363,CMP-127,L-5666,Attended,True,2026-08-30,events,event
+CM-51364,CMP-128,L-5666,Attended,True,2026-09-22,webinar_platform,webinar
+CM-51365,CMP-108,L-5667,Replied,True,2026-03-16,salesloft,email
+CM-51366,CMP-118,L-5668,Downloaded,True,2026-05-07,linkedin,organic
+CM-51367,CMP-133,L-5668,Converted,True,2026-08-15,linkedin,paid_social
+CM-51368,CMP-113,L-5669,Attended,True,2026-04-12,events,event
+CM-51369,CMP-119,L-5669,Converted,True,2026-05-12,linkedin,paid_social
+CM-51371,CMP-115,L-5669,No Show,False,2026-05-25,webinar_platform,webinar
+CM-51370,CMP-129,L-5669,Attended,True,2026-09-08,webinar_platform,webinar
+CM-51372,CMP-127,L-5670,Met at Booth,True,2026-09-16,events,event
+CM-51374,CMP-131,L-5670,Downloaded,True,2026-09-18,linkedin,organic
+CM-51373,CMP-132,L-5670,Converted,True,2026-09-23,linkedin,paid_social
+CM-51375,CMP-137,L-5671,Demo Requested,True,2026-07-25,google,cpc
+CM-51376,CMP-131,L-5671,Downloaded,True,2026-08-21,linkedin,organic
+CM-51377,CMP-109,L-5672,Meeting Booked,True,2026-03-01,salesloft,email
+CM-51379,CMP-115,L-5672,Attended,True,2026-05-28,webinar_platform,webinar
+CM-51378,CMP-131,L-5672,Downloaded,True,2026-07-13,linkedin,organic
+CM-51380,CMP-129,L-5672,Watched On-Demand,True,2026-09-24,webinar_platform,webinar
+CM-51381,CMP-115,L-5673,Attended,True,2026-05-22,webinar_platform,webinar
+CM-51382,CMP-135,L-5673,Replied,True,2026-07-26,salesloft,email
+CM-51384,CMP-130,L-5673,Downloaded,True,2026-08-05,LinkedIn,organic
+CM-51383,CMP-129,L-5673,Watched On-Demand,True,2026-08-06,webinar_platform,webinar
+CM-51385,CMP-130,L-5674,Downloaded,True,2026-07-05,linkedin,organic
+CM-51386,CMP-135,L-5674,Meeting Booked,True,2026-08-08,salesloft,email
+CM-51387,CMP-130,L-5675,Downloaded,True,2026-08-01,linkedin,organic
+CM-51388,CMP-137,L-5676,Demo Requested,True,2026-07-18,google,cpc
+CM-51389,CMP-127,L-5676,Met at Booth,True,2026-09-17,events,event
+CM-51390,CMP-121,L-5677,Meeting Booked,True,2026-04-01,salesloft,email
+CM-51391,CMP-126,L-5678,Attended,True,2026-07-23,events,event
+CM-51392,CMP-128,L-5678,No Show,False,2026-07-24,webinar_platform,webinar
+CM-51393,CMP-125,L-5679,Chat Engaged,True,2026-04-15,google,cpc
+CM-51396,CMP-115,L-5679,Registered,False,2026-04-16,webinar_platform,webinar
+CM-51395,CMP-122,L-5679,Sent,False,2026-04-28,salesloft,email
+CM-51394,CMP-121,L-5679,Meeting Booked,True,2026-05-03,salesloft,email
+CM-51397,CMP-102,L-5680,Attended,True,2026-01-31,webinar_platform,webinar
+CM-51399,CMP-120,L-5680,Converted,True,2026-05-14,linkedin,paid_social
+CM-51398,CMP-131,L-5680,Downloaded,True,2026-08-28,linkedin,organic
+CM-51400,CMP-115,L-5681,Watched On-Demand,True,2026-04-06,webinar_platform,webinar
+CM-51401,CMP-122,L-5681,Replied,True,2026-06-02,salesloft,email
+CM-51402,CMP-105,L-5682,Downloaded,True,2026-03-13,linkedin,organic
+CM-51403,CMP-134,L-5682,Replied,True,2026-08-19,salesloft,email
+CM-51404,CMP-135,L-5683,Meeting Booked,True,2026-09-30,salesloft,email
+CM-51405,CMP-134,L-5684,Replied,True,2026-07-19,salesloft,email
+CM-51406,CMP-126,L-5684,Attended,True,2026-08-27,events,event
+CM-51407,CMP-130,L-5685,Downloaded,True,2026-07-26,linkedin,organic
+CM-51409,CMP-135,L-5685,Sent,False,2026-09-03,salesloft,email
+CM-51408,CMP-128,L-5685,Watched On-Demand,True,2026-09-19,webinar_platform,webinar
+CM-51410,CMP-115,L-5686,Attended,True,2026-05-10,webinar_platform,webinar
+CM-51412,CMP-118,L-5686,Downloaded,True,2026-05-11,linkedin,organic
+CM-51411,CMP-122,L-5686,Replied,True,2026-05-12,salesloft,email
+CM-51413,CMP-120,L-5686,Converted,True,2026-05-17,linkedin,paid_social
+CM-51414,CMP-112,L-5687,Chat Engaged,True,2026-02-04,google,cpc
+CM-51415,CMP-103,L-5687,Watched On-Demand,True,2026-02-05,webinar_platform,webinar
+CM-51416,CMP-105,L-5687,Downloaded,True,2026-02-16,linkedin,organic
+CM-51417,CMP-109,L-5687,Meeting Booked,True,2026-02-20,salesloft,email
+CM-51418,CMP-110,L-5688,Referred,True,2026-01-23,partner,referral
+CM-51419,CMP-116,L-5688,Watched On-Demand,True,2026-06-03,webinar_platform,webinar
+CM-51420,CMP-122,L-5689,Meeting Booked,True,2026-04-14,salesloft,email
+CM-51422,CMP-118,L-5689,Downloaded,True,2026-04-25,linkedin,organic
+CM-51421,CMP-113,L-5689,Met at Booth,True,2026-06-01,events,event
+CM-51423,CMP-121,L-5690,Meeting Booked,True,2026-04-27,salesloft,email
+CM-51424,CMP-135,L-5691,Replied,True,2026-08-15,salesloft,email
+CM-51425,CMP-133,L-5691,Converted,True,2026-08-16,linkedin,paid_social
+CM-51426,CMP-122,L-5692,Meeting Booked,True,2026-05-12,salesloft,email
+CM-51428,CMP-115,L-5692,No Show,False,2026-06-30,webinar_platform,webinar
+CM-51427,CMP-131,L-5692,Downloaded,True,2026-07-18,linkedin,organic
+CM-51429,CMP-135,L-5692,Meeting Booked,True,2026-09-09,salesloft,email
+CM-51430,CMP-100,L-5693,Attended,True,2026-01-20,events,event
+CM-51431,CMP-122,L-5693,Meeting Booked,True,2026-04-04,salesloft,email
+CM-51432,CMP-137,L-5694,Demo Requested,True,2026-09-14,google,cpc
+CM-51433,CMP-134,L-5694,Meeting Booked,True,2026-09-18,salesloft,email
+CM-51434,CMP-111,L-5695,Chat Engaged,True,2026-01-25,google,cpc
+CM-51435,CMP-113,L-5695,Met at Booth,True,2026-04-05,events,event
+CM-51436,CMP-131,L-5696,Downloaded,True,2026-09-16,linkedin,organic
+CM-51437,CMP-135,L-5696,Meeting Booked,True,2026-09-26,salesloft,email
+CM-51438,CMP-121,L-5697,Replied,True,2026-05-08,salesloft,email
+CM-51440,CMP-121,L-5697,Replied,True,2026-05-11,salesloft,email
+CM-51439,CMP-115,L-5697,Watched On-Demand,True,2026-05-12,webinar_platform,webinar
+CM-51441,CMP-134,L-5698,Meeting Booked,True,2026-08-15,salesloft,email
+CM-51442,CMP-106,L-5699,Converted,True,2026-01-21,linkedin,paid_social
+CM-51444,CMP-114,L-5699,Registered,False,2026-06-20,events,event
+CM-51443,CMP-133,L-5699,Converted,True,2026-07-08,linkedin,paid_social
+CM-51445,CMP-133,L-5699,Converted,True,2026-07-21,linkedin,paid_social
+CM-51446,CMP-121,L-5700,Replied,True,2026-05-13,salesloft,email
+CM-51447,CMP-138,L-5701,Demo Requested,True,2026-08-06,google.com,cpc
+CM-51448,CMP-128,L-5701,Watched On-Demand,True,2026-09-23,webinar_platform,webinar
+CM-51449,CMP-108,L-5702,Replied,True,2026-01-25,salesloft,email
+CM-51452,CMP-116,L-5702,Watched On-Demand,True,2026-06-07,webinar_platform,webinar
+CM-51451,CMP-127,L-5702,No Show,False,2026-09-03,events,event
+CM-51450,CMP-128,L-5702,Attended,True,2026-09-10,webinar_platform,webinar
+CM-51453,CMP-104,L-5703,Downloaded,True,2026-01-24,linkedin,organic
+CM-51454,CMP-125,L-5704,Chat Engaged,True,2026-06-10,google,cpc
+CM-51455,CMP-137,L-5705,Chat Engaged,True,2026-08-12,google,cpc
+CM-51456,CMP-133,L-5705,Converted,True,2026-08-31,linkedin,paid_social
+CM-51457,CMP-130,L-5706,Downloaded,True,2026-08-11,linkedin,organic
+CM-51458,CMP-128,L-5706,No Show,False,2026-08-27,webinar_platform,webinar
+CM-51459,CMP-133,L-5706,Converted,True,2026-08-28,linkedin,paid_social
+CM-51460,CMP-125,L-5707,Demo Requested,True,2026-04-06,google,cpc
+CM-51463,CMP-115,L-5707,Watched On-Demand,True,2026-05-14,webinar_platform,webinar
+CM-51461,CMP-134,L-5707,Meeting Booked,True,2026-07-21,salesloft,email
+CM-51462,CMP-127,L-5707,Met at Booth,True,2026-08-09,events,event
+CM-51464,CMP-125,L-5708,Chat Engaged,True,2026-05-13,google,cpc
+CM-51465,CMP-118,L-5708,Downloaded,True,2026-06-25,linkedin,organic
+CM-51466,CMP-137,L-5709,Demo Requested,True,2026-09-09,google.com,cpc
+CM-51467,CMP-133,L-5709,Converted,True,2026-09-19,linkedin,paid_social
+CM-51468,CMP-136,L-5710,Referred,True,2026-09-28,partner,referral
+CM-51469,CMP-125,L-5711,Chat Engaged,True,2026-06-04,google,cpc
+CM-51470,CMP-113,L-5712,Met at Booth,True,2026-05-30,events,event
+CM-51471,CMP-124,L-5713,Demo Requested,True,2026-06-16,google,cpc
+CM-51472,CMP-133,L-5713,Converted,True,2026-07-24,linkedin,paid_social
+CM-51473,CMP-125,L-5714,Chat Engaged,True,2026-06-06,google,cpc
+CM-51474,CMP-131,L-5714,Downloaded,True,2026-07-15,LinkedIn,organic
+CM-51475,CMP-136,L-5715,Referred,True,2026-07-31,partners,referral
+CM-51477,CMP-129,L-5715,Registered,False,2026-08-12,webinar_platform,webinar
+CM-51476,CMP-135,L-5715,Sent,False,2026-09-09,salesloft,email
+CM-51478,CMP-130,L-5716,Downloaded,True,2026-09-22,linkedin,organic
+CM-51479,CMP-135,L-5716,Meeting Booked,True,2026-09-30,salesloft,email
+CM-51480,CMP-124,L-5717,Chat Engaged,True,2026-05-12,google,cpc
+CM-51481,CMP-119,L-5717,Clicked,False,2026-06-21,linkedin,paid_social
+CM-51482,CMP-105,L-5718,Downloaded,True,2026-01-25,linkedin,organic
+CM-51483,CMP-133,L-5719,Converted,True,2026-09-27,linkedin,paid_social
+CM-51484,CMP-108,L-5720,Meeting Booked,True,2026-01-06,salesloft,email
+CM-51486,CMP-115,L-5720,Attended,True,2026-05-18,webinar_platform,webinar
+CM-51485,CMP-132,L-5720,Converted,True,2026-09-25,linkedin,paid_social
+CM-51487,CMP-133,L-5721,Converted,True,2026-07-02,linkedin,paid_social
+CM-51488,CMP-129,L-5722,Watched On-Demand,True,2026-09-22,webinar_platform_,webinar
+CM-51489,CMP-132,L-5722,Converted,True,2026-09-24,linkedin,paid_social
+CM-51490,CMP-126,L-5722,Attended,True,2026-09-30,events,event
+CM-51491,CMP-135,L-5722,Replied,True,2026-09-30,salesloft,email
+CM-51492,CMP-120,L-5723,Converted,True,2026-05-29,linkedin,paid_social
+CM-51493,CMP-117,L-5723,Downloaded,True,2026-06-09,linkedin,organic
+CM-51494,CMP-125,L-5724,Chat Engaged,True,2026-04-10,google,cpc
+CM-51495,CMP-113,L-5725,Met at Booth,True,2026-05-10,events,event
+CM-51496,CMP-134,L-5725,Replied,True,2026-07-24,salesloft,email
+CM-51497,CMP-103,L-5726,Watched On-Demand,True,2026-02-26,webinar_platform,webinar
+CM-51498,CMP-121,L-5727,Replied,True,2026-05-28,salesloft,email
+CM-51499,CMP-133,L-5727,Converted,True,2026-07-10,linkedin,paid_social
+CM-51500,CMP-130,L-5728,Downloaded,True,2026-09-12,linkedin,organic
+CM-51501,CMP-134,L-5728,Replied,True,2026-09-20,salesloft,email
+CM-51502,CMP-129,L-5728,Attended,True,2026-09-25,webinar_platform,webinar
+CM-51503,CMP-106,L-5729,Converted,True,2026-01-15,linkedin,paid_social
+CM-51504,CMP-115,L-5730,Attended,True,2026-04-30,webinar_platform,webinar
+CM-51505,CMP-134,L-5731,Meeting Booked,True,2026-09-04,salesloft,email
+CM-51506,CMP-132,L-5731,Converted,True,2026-09-05,linkedin,paid_social
+CM-51508,CMP-130,L-5731,Downloaded,True,2026-09-08,linkedin,organic
+CM-51507,CMP-131,L-5731,Downloaded,True,2026-09-14,linkedin,organic
+CM-51509,CMP-129,L-5732,Watched On-Demand,True,2026-08-24,webinar_platform,webinar
+CM-51510,CMP-134,L-5732,Replied,True,2026-09-29,salesloft,email
+CM-51511,CMP-112,L-5733,Demo Requested,True,2026-03-10,google.com,cpc
+CM-51512,CMP-114,L-5733,No Show,False,2026-06-09,events,event
+CM-51514,CMP-126,L-5733,Met at Booth,True,2026-07-17,events,event
+CM-51513,CMP-135,L-5733,Meeting Booked,True,2026-09-22,salesloft,email
+CM-51515,CMP-104,L-5734,Downloaded,True,2026-03-10,linkedin,organic
+CM-51516,CMP-134,L-5734,Meeting Booked,True,2026-08-03,salesloft,email
+CM-51517,CMP-129,L-5735,Attended,True,2026-09-27,webinar_platform,webinar
+CM-51518,CMP-127,L-5735,Attended,True,2026-09-29,events,event
+CM-51519,CMP-111,L-5736,Demo Requested,True,2026-03-30,google,cpc
+CM-51520,CMP-126,L-5737,Met at Booth,True,2026-07-04,events,event
+CM-51521,CMP-128,L-5737,Registered,False,2026-09-17,webinar_platform,webinar
+CM-51522,CMP-102,L-5738,Watched On-Demand,True,2026-02-13,webinar_platform,webinar
+CM-51523,CMP-114,L-5738,Met at Booth,True,2026-05-10,events,event
+CM-51524,CMP-111,L-5739,Chat Engaged,True,2026-01-30,google,cpc
+CM-51525,CMP-106,L-5740,Converted,True,2026-03-22,linkedin,paid_social
+CM-51526,CMP-116,L-5740,Watched On-Demand,True,2026-06-23,webinar_platform,webinar
+CM-51527,CMP-117,L-5741,Downloaded,True,2026-04-21,linkedin,organic
+CM-51529,CMP-115,L-5741,Attended,True,2026-04-22,webinar_platform,webinar
+CM-51528,CMP-132,L-5741,Clicked,False,2026-08-29,linkedin,paid_social
+CM-51530,CMP-112,L-5742,Chat Engaged,True,2026-01-29,google,cpc
+CM-51531,CMP-108,L-5743,Meeting Booked,True,2026-02-06,salesloft,email
+CM-51532,CMP-103,L-5743,Watched On-Demand,True,2026-02-07,webinar_platform,webinar
+CM-51534,CMP-102,L-5743,Watched On-Demand,True,2026-02-12,webinar_platform,webinar
+CM-51533,CMP-100,L-5743,Met at Booth,True,2026-02-13,events,event
+CM-51535,CMP-125,L-5744,Chat Engaged,True,2026-04-24,google,cpc
+CM-51536,CMP-122,L-5744,Sent,False,2026-06-02,salesloft,email
+CM-51537,CMP-123,L-5745,Referred,True,2026-06-28,partner,referral
+CM-51538,CMP-101,L-5746,Attended,True,2026-03-01,events,event
+CM-51539,CMP-117,L-5746,Downloaded,True,2026-04-04,LinkedIn,organic
+CM-51540,CMP-119,L-5746,Converted,True,2026-06-08,linkedin,paid_social
+CM-51541,CMP-134,L-5746,Sent,False,2026-07-27,salesloft,email
+CM-51542,CMP-113,L-5747,Met at Booth,True,2026-04-21,events_,event
+CM-51544,CMP-132,L-5747,Clicked,False,2026-08-14,linkedin,paid_social
+CM-51543,CMP-130,L-5747,Downloaded,True,2026-08-24,LinkedIn,organic
+CM-51545,CMP-104,L-5748,Downloaded,True,2026-01-29,linkedin,organic
+CM-51546,CMP-104,L-5748,Downloaded,True,2026-03-15,linkedin,organic
+CM-51547,CMP-121,L-5749,Meeting Booked,True,2026-06-21,salesloft,email
+CM-51548,CMP-113,L-5749,Met at Booth,True,2026-06-29,events,event
+CM-51549,CMP-138,L-5750,Demo Requested,True,2026-09-30,google,cpc
+CM-51550,CMP-122,L-5751,Meeting Booked,True,2026-04-24,salesloft,email
+CM-51551,CMP-108,L-5752,Replied,True,2026-03-17,salesloft,email
+CM-51552,CMP-110,L-5753,Referred,True,2026-03-12,partner,referral
+CM-51553,CMP-127,L-5753,No Show,False,2026-08-27,events,event
+CM-51554,CMP-110,L-5754,Referred,True,2026-02-02,partners,referral
+CM-51555,CMP-121,L-5754,Replied,True,2026-05-23,salesloft,email
+CM-51556,CMP-136,L-5755,Referred,True,2026-09-22,partner,referral
+CM-51557,CMP-135,L-5755,Replied,True,2026-09-29,salesloft,email
+CM-51558,CMP-111,L-5756,Chat Engaged,True,2026-01-25,google,cpc
+CM-51559,CMP-108,L-5756,Replied,True,2026-02-04,salesloft,email
+CM-51560,CMP-120,L-5756,Converted,True,2026-06-14,linkedin,paid_social
+CM-51561,CMP-137,L-5757,Demo Requested,True,2026-08-24,google,cpc
+CM-51562,CMP-132,L-5757,Converted,True,2026-09-01,linkedin,paid_social
+CM-51563,CMP-134,L-5758,Meeting Booked,True,2026-07-30,salesloft,email
+CM-51564,CMP-134,L-5758,Replied,True,2026-09-28,salesloft,email
+CM-51565,CMP-134,L-5759,Replied,True,2026-07-11,salesloft,email
+CM-51566,CMP-126,L-5759,Attended,True,2026-08-17,events,event
+CM-51567,CMP-130,L-5759,Downloaded,True,2026-09-19,linkedin,organic
+CM-51568,CMP-119,L-5760,Converted,True,2026-04-29,linkedin,paid_social
+CM-51569,CMP-123,L-5761,Referred,True,2026-05-01,partner,referral
+CM-51570,CMP-118,L-5761,Downloaded,True,2026-06-10,linkedin,organic
+CM-51571,CMP-103,L-5762,Watched On-Demand,True,2026-03-06,webinar_platform,webinar
+CM-51572,CMP-137,L-5763,Chat Engaged,True,2026-08-01,google,cpc
+CM-51573,CMP-119,L-5764,Converted,True,2026-05-08,linkedin,paid_social
+CM-51574,CMP-127,L-5764,Met at Booth,True,2026-08-14,events,event
+CM-51575,CMP-130,L-5765,Downloaded,True,2026-09-19,linkedin,organic
+CM-51576,CMP-130,L-5765,Downloaded,True,2026-09-25,linkedin,organic
+CM-51577,CMP-107,L-5766,Converted,True,2026-02-02,LinkedIn,paid_social
+CM-51580,CMP-122,L-5766,Replied,True,2026-04-12,salesloft,email
+CM-51579,CMP-119,L-5766,Converted,True,2026-06-15,linkedin,paid_social
+CM-51578,CMP-134,L-5766,Sent,False,2026-07-05,salesloft,email
+CM-51581,CMP-135,L-5767,Meeting Booked,True,2026-08-19,salesloft,email
+CM-51582,CMP-102,L-5768,Attended,True,2026-03-12,webinar_platform,webinar
+CM-51583,CMP-119,L-5768,Clicked,False,2026-04-03,linkedin,paid_social
+CM-51584,CMP-109,L-5769,Replied,True,2026-01-16,salesloft,email
+CM-51585,CMP-102,L-5770,Attended,True,2026-02-14,webinar_platform,webinar
+CM-51586,CMP-122,L-5770,Replied,True,2026-05-18,salesloft,email
+CM-51587,CMP-119,L-5771,Converted,True,2026-06-05,linkedin,paid_social
+CM-51589,CMP-127,L-5771,Met at Booth,True,2026-08-16,events_,event
+CM-51588,CMP-127,L-5771,Met at Booth,True,2026-09-14,events,event
+CM-51590,CMP-131,L-5772,Downloaded,True,2026-08-24,linkedin,organic
+CM-51591,CMP-135,L-5772,Sent,False,2026-09-04,salesloft,email
+CM-51592,CMP-105,L-5773,Downloaded,True,2026-02-26,linkedin,organic
+CM-51593,CMP-121,L-5773,Replied,True,2026-05-10,salesloft,email
+CM-51594,CMP-137,L-5774,Demo Requested,True,2026-08-02,google,cpc
+CM-51595,CMP-122,L-5775,Replied,True,2026-05-05,salesloft,email
+CM-51596,CMP-117,L-5775,Downloaded,True,2026-06-15,linkedin,organic
+CM-51597,CMP-109,L-5776,Meeting Booked,True,2026-02-18,salesloft,email
+CM-51598,CMP-121,L-5777,Replied,True,2026-06-21,salesloft,email
+CM-51599,CMP-130,L-5777,Downloaded,True,2026-07-25,linkedin,organic
+CM-51600,CMP-131,L-5777,Downloaded,True,2026-09-15,linkedin,organic
+CM-51601,CMP-133,L-5778,Converted,True,2026-08-14,linkedin,paid_social
+CM-51602,CMP-134,L-5779,Meeting Booked,True,2026-07-01,salesloft,email
+CM-51603,CMP-127,L-5779,Attended,True,2026-07-23,events,event
+CM-51604,CMP-112,L-5780,Demo Requested,True,2026-02-13,google,cpc
+CM-51606,CMP-100,L-5780,Met at Booth,True,2026-02-15,events,event
+CM-51607,CMP-118,L-5780,Downloaded,True,2026-06-27,linkedin,organic
+CM-51605,CMP-126,L-5780,Met at Booth,True,2026-07-06,events,event
+CM-51608,CMP-123,L-5781,Referred,True,2026-06-17,partner,referral
+CM-51609,CMP-137,L-5782,Demo Requested,True,2026-08-26,google,cpc
+CM-51610,CMP-117,L-5783,Downloaded,True,2026-04-10,linkedin,organic
+CM-51611,CMP-121,L-5784,Meeting Booked,True,2026-06-29,salesloft,email
+CM-51612,CMP-138,L-5785,Chat Engaged,True,2026-09-20,google,cpc
+CM-51613,CMP-129,L-5785,Watched On-Demand,True,2026-09-22,webinar_platform,webinar
+CM-51614,CMP-124,L-5786,Demo Requested,True,2026-06-10,google,cpc
+CM-51615,CMP-126,L-5786,Met at Booth,True,2026-07-24,events,event
+CM-51616,CMP-132,L-5786,Converted,True,2026-09-05,linkedin,paid_social
+CM-51617,CMP-122,L-5787,Meeting Booked,True,2026-04-22,salesloft,email
+CM-51618,CMP-128,L-5787,Attended,True,2026-09-12,webinar_platform,webinar
+CM-51619,CMP-122,L-5788,Meeting Booked,True,2026-05-06,salesloft,email
+CM-51620,CMP-113,L-5788,Attended,True,2026-06-24,events,event
+CM-51621,CMP-134,L-5788,Sent,False,2026-08-22,salesloft,email
+CM-51622,CMP-122,L-5789,Meeting Booked,True,2026-04-05,salesloft,email
+CM-51623,CMP-128,L-5790,Attended,True,2026-07-29,webinar_platform,webinar
+CM-51624,CMP-126,L-5790,Attended,True,2026-08-11,events,event
+CM-51625,CMP-122,L-5791,Meeting Booked,True,2026-06-27,salesloft,email
+CM-51626,CMP-124,L-5792,Demo Requested,True,2026-05-03,google,cpc
+CM-51627,CMP-120,L-5793,Converted,True,2026-06-09,linkedin,paid_social
+CM-51628,CMP-129,L-5793,Watched On-Demand,True,2026-09-04,webinar_platform,webinar
+CM-51629,CMP-128,L-5794,Watched On-Demand,True,2026-09-25,webinar_platform,webinar
+CM-51630,CMP-110,L-5795,Referred,True,2026-02-20,partner,referral
+CM-51631,CMP-116,L-5795,No Show,False,2026-06-03,webinar_platform,webinar
+CM-51632,CMP-113,L-5796,Met at Booth,True,2026-04-07,events,event
+CM-51633,CMP-117,L-5796,Downloaded,True,2026-05-04,linkedin,organic
+CM-51635,CMP-129,L-5796,Attended,True,2026-08-21,webinar_platform,webinar
+CM-51634,CMP-133,L-5796,Converted,True,2026-08-26,linkedin,paid_social
+CM-51636,CMP-124,L-5797,Chat Engaged,True,2026-05-08,google,cpc
+CM-51637,CMP-127,L-5797,Attended,True,2026-09-02,events,event
+CM-51638,CMP-130,L-5797,Downloaded,True,2026-09-09,linkedin,organic
+CM-51639,CMP-124,L-5798,Chat Engaged,True,2026-04-10,google,cpc
+CM-51640,CMP-107,L-5799,Converted,True,2026-02-12,linkedin,paid_social
+CM-51641,CMP-137,L-5800,Demo Requested,True,2026-08-06,google,cpc
+CM-51642,CMP-132,L-5800,Clicked,False,2026-09-24,linkedin,paid_social
+CM-51643,CMP-103,L-5801,Watched On-Demand,True,2026-03-05,webinar_platform,webinar
+CM-51644,CMP-132,L-5801,Converted,True,2026-09-22,linkedin,paid_social
+CM-51645,CMP-110,L-5802,Referred,True,2026-03-16,partner,referral
+CM-51646,CMP-135,L-5803,Meeting Booked,True,2026-09-12,salesloft,email
+CM-51647,CMP-130,L-5803,Downloaded,True,2026-09-21,linkedin,organic
+CM-51648,CMP-112,L-5804,Demo Requested,True,2026-02-05,google,cpc
+CM-51650,CMP-121,L-5804,Replied,True,2026-04-18,salesloft,email
+CM-51649,CMP-119,L-5804,Clicked,False,2026-05-24,linkedin,paid_social
+CM-51651,CMP-102,L-5805,Attended,True,2026-01-16,webinar_platform,webinar
+CM-51653,CMP-128,L-5805,Attended,True,2026-07-31,webinar_platform,webinar
+CM-51652,CMP-135,L-5805,Replied,True,2026-09-10,salesloft,email
+CM-51654,CMP-137,L-5806,Chat Engaged,True,2026-09-02,google,cpc
+CM-51655,CMP-133,L-5806,Converted,True,2026-09-09,linkedin,paid_social
+CM-51656,CMP-131,L-5806,Downloaded,True,2026-09-16,linkedin,organic
+CM-51657,CMP-135,L-5807,Replied,True,2026-08-28,salesloft,email
+CM-51658,CMP-112,L-5808,Demo Requested,True,2026-03-07,google,cpc
+CM-51660,CMP-118,L-5808,Downloaded,True,2026-05-03,linkedin,organic
+CM-51659,CMP-133,L-5808,Clicked,False,2026-07-14,linkedin,paid_social
+CM-51661,CMP-137,L-5809,Chat Engaged,True,2026-09-28,google,cpc
+CM-51663,CMP-134,L-5809,Replied,True,2026-09-29,salesloft,email
+CM-51662,CMP-134,L-5809,Replied,True,2026-09-30,salesloft,email
+CM-51664,CMP-134,L-5809,Replied,True,2026-09-30,salesloft,email
+CM-51665,CMP-115,L-5810,Attended,True,2026-06-21,webinar_platform,webinar
+CM-51666,CMP-105,L-5811,Downloaded,True,2026-01-05,linkedin,organic
+CM-51667,CMP-133,L-5812,Converted,True,2026-07-22,linkedin,paid_social
+CM-51668,CMP-132,L-5813,Converted,True,2026-09-15,linkedin,paid_social
+CM-51669,CMP-127,L-5813,Attended,True,2026-09-21,events,event
+CM-51670,CMP-102,L-5814,Watched On-Demand,True,2026-03-12,webinar_platform,webinar
+CM-51671,CMP-121,L-5814,Sent,False,2026-05-20,salesloft,email
+CM-51672,CMP-119,L-5814,Converted,True,2026-06-17,linkedin,paid_social
+CM-51673,CMP-118,L-5814,Downloaded,True,2026-06-18,linkedin,organic
+CM-51674,CMP-127,L-5815,Met at Booth,True,2026-08-24,events,event
+CM-51675,CMP-131,L-5815,Downloaded,True,2026-09-09,linkedin,organic
+CM-51676,CMP-102,L-5816,Watched On-Demand,True,2026-02-28,webinar_platform,webinar
+CM-51677,CMP-125,L-5817,Chat Engaged,True,2026-05-26,google,cpc
+CM-51678,CMP-100,L-5818,Met at Booth,True,2026-03-01,events,event
+CM-51679,CMP-136,L-5819,Referred,True,2026-07-08,partner,referral
+CM-51681,CMP-130,L-5819,Downloaded,True,2026-07-18,linkedin,organic
+CM-51680,CMP-126,L-5819,Registered,False,2026-09-29,events,event
+CM-51682,CMP-135,L-5820,Meeting Booked,True,2026-08-21,salesloft,email
+CM-51683,CMP-132,L-5820,Clicked,False,2026-09-27,linkedin,paid_social
+CM-51684,CMP-101,L-5821,Attended,True,2026-02-14,events,event
+CM-51687,CMP-117,L-5821,Downloaded,True,2026-05-23,linkedin,organic
+CM-51686,CMP-120,L-5821,Converted,True,2026-06-07,linkedin,paid_social
+CM-51685,CMP-130,L-5821,Downloaded,True,2026-08-14,LinkedIn,organic
+CM-51688,CMP-135,L-5822,Meeting Booked,True,2026-09-10,salesloft,email
+CM-51689,CMP-101,L-5823,Met at Booth,True,2026-01-06,events,event
+CM-51691,CMP-106,L-5823,Converted,True,2026-02-11,linkedin,paid_social
+CM-51690,CMP-119,L-5823,Converted,True,2026-06-18,LinkedIn,paid_social
+CM-51692,CMP-128,L-5823,Watched On-Demand,True,2026-08-20,webinar_platform,webinar
+CM-51693,CMP-125,L-5824,Demo Requested,True,2026-04-29,google,cpc
+CM-51694,CMP-114,L-5824,Attended,True,2026-05-01,events,event
+CM-51695,CMP-114,L-5825,Attended,True,2026-04-04,events,event
+CM-51696,CMP-109,L-5826,Meeting Booked,True,2026-03-30,salesloft,email
+CM-51697,CMP-136,L-5827,Referred,True,2026-09-24,partner,referral
+CM-51698,CMP-135,L-5827,Sent,False,2026-09-30,salesloft,email
+CM-51699,CMP-120,L-5828,Converted,True,2026-05-18,linkedin,paid_social
+CM-51701,CMP-119,L-5828,Converted,True,2026-06-24,linkedin,paid_social
+CM-51700,CMP-131,L-5828,Downloaded,True,2026-09-23,linkedin,organic
+CM-51702,CMP-108,L-5829,Replied,True,2026-01-28,salesloft,email
+CM-51703,CMP-105,L-5829,Downloaded,True,2026-02-26,linkedin,organic
+CM-51704,CMP-105,L-5829,Downloaded,True,2026-03-29,linkedin,organic
+CM-51705,CMP-128,L-5829,Attended,True,2026-07-19,webinar_platform,webinar
+CM-51706,CMP-128,L-5830,Watched On-Demand,True,2026-09-20,webinar_platform,webinar
+CM-51707,CMP-126,L-5830,No Show,False,2026-09-25,events,event
+CM-51708,CMP-137,L-5831,Demo Requested,True,2026-08-11,google,cpc
+CM-51709,CMP-132,L-5832,Converted,True,2026-08-08,linkedin,paid_social
+CM-51710,CMP-133,L-5832,Converted,True,2026-08-09,linkedin,paid_social
+CM-51711,CMP-134,L-5832,Meeting Booked,True,2026-09-23,salesloft,email
+CM-51712,CMP-132,L-5833,Converted,True,2026-08-01,linkedin,paid_social
+CM-51713,CMP-135,L-5833,Meeting Booked,True,2026-09-10,salesloft,email
+CM-51714,CMP-129,L-5834,Watched On-Demand,True,2026-09-07,webinar_platform,webinar
+CM-51715,CMP-130,L-5834,Downloaded,True,2026-09-26,linkedin,organic
+CM-51716,CMP-101,L-5835,Met at Booth,True,2026-01-05,events,event
+CM-51717,CMP-133,L-5836,Converted,True,2026-07-08,linkedin,paid_social
+CM-51718,CMP-134,L-5837,Replied,True,2026-09-02,salesloft,email
+CM-51719,CMP-127,L-5837,Attended,True,2026-09-15,events,event
+CM-51720,CMP-128,L-5837,Attended,True,2026-09-28,webinar_platform,webinar
+CM-51721,CMP-136,L-5838,Referred,True,2026-08-04,partner,referral
+CM-51723,CMP-135,L-5838,Replied,True,2026-08-09,salesloft,email
+CM-51722,CMP-128,L-5838,Registered,False,2026-09-06,webinar_platform,webinar
+CM-51724,CMP-134,L-5839,Meeting Booked,True,2026-09-21,salesloft,email
+CM-51725,CMP-126,L-5840,Met at Booth,True,2026-09-06,events,event
+CM-51726,CMP-129,L-5840,Registered,False,2026-09-11,webinar_platform,webinar
+CM-51728,CMP-130,L-5840,Downloaded,True,2026-09-25,linkedin,organic
+CM-51727,CMP-132,L-5840,Converted,True,2026-09-30,linkedin,paid_social
+CM-51729,CMP-133,L-5841,Converted,True,2026-09-25,linkedin,paid_social
+CM-51730,CMP-130,L-5841,Downloaded,True,2026-09-27,linkedin,organic
+CM-51731,CMP-124,L-5842,Chat Engaged,True,2026-04-06,google,cpc
+CM-51732,CMP-123,L-5843,Referred,True,2026-06-28,partner,referral
+CM-51734,CMP-130,L-5843,Downloaded,True,2026-08-15,linkedin,organic
+CM-51733,CMP-132,L-5843,Converted,True,2026-08-17,linkedin,paid_social
+CM-51735,CMP-121,L-5844,Replied,True,2026-04-09,salesloft,email
+CM-51736,CMP-135,L-5844,Replied,True,2026-08-26,salesloft,email
+CM-51737,CMP-121,L-5845,Meeting Booked,True,2026-04-07,salesloft,email
+CM-51738,CMP-127,L-5845,No Show,False,2026-09-05,events,event
+CM-51739,CMP-135,L-5846,Meeting Booked,True,2026-09-26,salesloft,email
+CM-51740,CMP-121,L-5847,Replied,True,2026-05-24,salesloft,email
+CM-51742,CMP-117,L-5847,Downloaded,True,2026-05-26,LinkedIn,organic
+CM-51741,CMP-114,L-5847,Attended,True,2026-05-28,events,event
+CM-51743,CMP-134,L-5848,Meeting Booked,True,2026-07-01,salesloft,email
+CM-51744,CMP-111,L-5849,Chat Engaged,True,2026-01-29,google,cpc
+CM-51745,CMP-108,L-5849,Meeting Booked,True,2026-01-30,salesloft,email
+CM-51746,CMP-108,L-5850,Replied,True,2026-02-17,salesloft,email
+CM-51749,CMP-118,L-5850,Downloaded,True,2026-04-20,linkedin,organic
+CM-51747,CMP-118,L-5850,Downloaded,True,2026-05-13,linkedin,organic
+CM-51748,CMP-133,L-5850,Converted,True,2026-09-24,linkedin,paid_social
+CM-51750,CMP-110,L-5851,Referred,True,2026-01-11,partner,referral
+CM-51751,CMP-117,L-5852,Downloaded,True,2026-05-21,linkedin,organic
+CM-51752,CMP-127,L-5853,Met at Booth,True,2026-08-10,events,event
+CM-51753,CMP-124,L-5854,Demo Requested,True,2026-05-08,google,cpc
+CM-51754,CMP-128,L-5854,Watched On-Demand,True,2026-09-25,webinar_platform,webinar
+CM-51755,CMP-111,L-5855,Chat Engaged,True,2026-03-25,google,cpc
+CM-51756,CMP-133,L-5856,Converted,True,2026-07-19,linkedin,paid_social
+CM-51758,CMP-132,L-5856,Converted,True,2026-07-26,linkedin,paid_social
+CM-51759,CMP-134,L-5856,Sent,False,2026-08-01,salesloft,email
+CM-51757,CMP-127,L-5856,Attended,True,2026-09-15,events,event
+CM-51760,CMP-137,L-5857,Demo Requested,True,2026-09-17,google,cpc
+CM-51761,CMP-126,L-5857,Attended,True,2026-09-21,events,event
+CM-51762,CMP-132,L-5857,Converted,True,2026-09-28,LinkedIn,paid_social
+CM-51763,CMP-111,L-5858,Chat Engaged,True,2026-03-08,google,cpc
+CM-51765,CMP-101,L-5858,Attended,True,2026-03-19,events,event
+CM-51764,CMP-113,L-5858,Attended,True,2026-04-23,events,event
+CM-51766,CMP-115,L-5858,Watched On-Demand,True,2026-05-03,webinar_platform,webinar
+CM-51767,CMP-113,L-5859,Met at Booth,True,2026-04-11,events,event
+CM-51769,CMP-127,L-5859,Registered,False,2026-07-07,events,event
+CM-51768,CMP-133,L-5859,Converted,True,2026-09-04,linkedin,paid_social
+CM-51770,CMP-108,L-5860,Replied,True,2026-01-29,salesloft,email
+CM-51773,CMP-116,L-5860,Attended,True,2026-04-12,webinar_platform,webinar
+CM-51772,CMP-127,L-5860,Met at Booth,True,2026-07-22,events,event
+CM-51771,CMP-133,L-5860,Converted,True,2026-08-30,linkedin,paid_social
+CM-51774,CMP-125,L-5861,Chat Engaged,True,2026-04-16,google,cpc
+CM-51775,CMP-121,L-5861,Sent,False,2026-05-13,salesloft,email
+CM-51776,CMP-132,L-5861,Converted,True,2026-08-10,linkedin,paid_social
+CM-51777,CMP-108,L-5862,Replied,True,2026-01-28,salesloft,email
+CM-51778,CMP-125,L-5863,Demo Requested,True,2026-06-19,google,cpc
+CM-51779,CMP-126,L-5863,Met at Booth,True,2026-07-01,events,event
+CM-51780,CMP-135,L-5863,Replied,True,2026-07-10,salesloft,email
+CM-51781,CMP-109,L-5864,Meeting Booked,True,2026-03-18,salesloft,email
+CM-51782,CMP-101,L-5864,Attended,True,2026-03-20,events,event
+CM-51783,CMP-122,L-5864,Sent,False,2026-05-18,salesloft,email
+CM-51784,CMP-108,L-5865,Meeting Booked,True,2026-03-06,salesloft,email
+CM-51787,CMP-131,L-5865,Downloaded,True,2026-07-02,linkedin,organic
+CM-51785,CMP-131,L-5865,Downloaded,True,2026-09-05,linkedin,organic
+CM-51786,CMP-127,L-5865,Met at Booth,True,2026-09-08,events_,event
+CM-51788,CMP-109,L-5866,Replied,True,2026-03-13,salesloft,email
+CM-51791,CMP-134,L-5866,Replied,True,2026-08-31,salesloft,email
+CM-51790,CMP-132,L-5866,Clicked,False,2026-09-13,linkedin,paid_social
+CM-51789,CMP-128,L-5866,Attended,True,2026-09-14,webinar_platform,webinar
+CM-51792,CMP-126,L-5867,Met at Booth,True,2026-07-08,events,event
+CM-51793,CMP-132,L-5867,Converted,True,2026-09-05,linkedin,paid_social
+CM-51794,CMP-110,L-5868,Referred,True,2026-02-23,partner,referral
+CM-51795,CMP-113,L-5869,Met at Booth,True,2026-05-20,events,event
+CM-51796,CMP-116,L-5869,Watched On-Demand,True,2026-06-03,webinar_platform,webinar
+CM-51797,CMP-102,L-5870,Watched On-Demand,True,2026-03-18,webinar_platform,webinar
+CM-51798,CMP-117,L-5870,Downloaded,True,2026-06-25,linkedin,organic
+CM-51799,CMP-120,L-5871,Converted,True,2026-06-21,linkedin,paid_social
+CM-51800,CMP-111,L-5872,Demo Requested,True,2026-02-07,google,cpc
+CM-51801,CMP-109,L-5872,Meeting Booked,True,2026-02-15,salesloft,email
+CM-51802,CMP-131,L-5873,Downloaded,True,2026-07-09,linkedin,organic
+CM-51803,CMP-123,L-5874,Referred,True,2026-06-13,partner,referral
+CM-51804,CMP-108,L-5875,Meeting Booked,True,2026-03-05,salesloft,email
+CM-51805,CMP-132,L-5876,Converted,True,2026-09-01,linkedin,paid_social
+CM-51806,CMP-132,L-5876,Converted,True,2026-09-26,linkedin,paid_social
+CM-51807,CMP-134,L-5877,Meeting Booked,True,2026-08-12,salesloft,email
+CM-51808,CMP-121,L-5878,Replied,True,2026-05-01,salesloft,email
+CM-51809,CMP-132,L-5878,Converted,True,2026-09-02,linkedin,paid_social
+CM-51810,CMP-135,L-5879,Meeting Booked,True,2026-07-10,salesloft,email
+CM-51811,CMP-126,L-5879,Attended,True,2026-07-13,events,event
+CM-51812,CMP-135,L-5879,Meeting Booked,True,2026-08-11,salesloft,email
+CM-51813,CMP-124,L-5880,Chat Engaged,True,2026-06-12,google,cpc
+CM-51816,CMP-115,L-5880,Watched On-Demand,True,2026-06-18,webinar_platform,webinar
+CM-51815,CMP-114,L-5880,Attended,True,2026-06-22,events,event
+CM-51814,CMP-126,L-5880,Registered,False,2026-08-22,events,event
+CM-51817,CMP-137,L-5881,Demo Requested,True,2026-07-23,google,cpc
+CM-51818,CMP-133,L-5881,Converted,True,2026-07-27,linkedin,paid_social
+CM-51819,CMP-132,L-5881,Converted,True,2026-08-12,linkedin,paid_social
+CM-51820,CMP-102,L-5882,Attended,True,2026-03-15,webinar_platform,webinar
+CM-51821,CMP-122,L-5882,Replied,True,2026-05-19,salesloft,email
+CM-51822,CMP-114,L-5883,Attended,True,2026-04-08,events,event
+CM-51823,CMP-131,L-5883,Downloaded,True,2026-07-15,linkedin,organic
+CM-51824,CMP-138,L-5884,Chat Engaged,True,2026-07-11,google.com,cpc
+CM-51825,CMP-134,L-5884,Meeting Booked,True,2026-08-08,salesloft,email
+CM-51826,CMP-104,L-5885,Downloaded,True,2026-01-21,linkedin,organic
+CM-51827,CMP-127,L-5886,Met at Booth,True,2026-07-07,events,event
+CM-51828,CMP-134,L-5887,Replied,True,2026-07-27,salesloft,email
+CM-51829,CMP-126,L-5887,Met at Booth,True,2026-08-23,events,event
+CM-51830,CMP-130,L-5888,Downloaded,True,2026-07-15,linkedin,organic
+CM-51831,CMP-126,L-5888,Met at Booth,True,2026-09-01,events,event
+CM-51832,CMP-128,L-5888,No Show,False,2026-09-14,webinar_platform,webinar
+CM-51833,CMP-112,L-5889,Demo Requested,True,2026-01-10,google,cpc
+CM-51834,CMP-104,L-5889,Downloaded,True,2026-02-17,linkedin,organic
+CM-51835,CMP-118,L-5890,Downloaded,True,2026-04-27,LinkedIn,organic
+CM-51837,CMP-132,L-5890,Converted,True,2026-08-22,linkedin,paid_social
+CM-51836,CMP-129,L-5890,Attended,True,2026-09-15,webinar_platform,webinar
+CM-51838,CMP-133,L-5891,Converted,True,2026-09-23,linkedin,paid_social
+CM-51839,CMP-135,L-5891,Replied,True,2026-09-28,salesloft,email
+CM-51840,CMP-127,L-5891,Met at Booth,True,2026-09-29,events,event
+CM-51841,CMP-123,L-5892,Referred,True,2026-06-25,partner,referral
+CM-51842,CMP-127,L-5893,Met at Booth,True,2026-08-27,events,event
+CM-51843,CMP-105,L-5894,Downloaded,True,2026-03-28,linkedin,organic
+CM-51844,CMP-135,L-5894,Replied,True,2026-08-02,salesloft,email
+CM-51845,CMP-135,L-5895,Replied,True,2026-09-29,salesloft,email
+CM-51846,CMP-121,L-5896,Replied,True,2026-06-14,salesloft,email
+CM-51847,CMP-110,L-5897,Referred,True,2026-02-08,partner,referral
+CM-51848,CMP-100,L-5897,Attended,True,2026-02-11,events,event
+CM-51849,CMP-102,L-5898,Watched On-Demand,True,2026-02-01,webinar_platform,webinar
+CM-51850,CMP-108,L-5899,Replied,True,2026-02-07,salesloft,email
+CM-51851,CMP-122,L-9900,Replied,True,2026-06-14,SalesLoft,email
+CM-51852,CMP-132,L-9900,Converted,True,2026-08-05,linkedin,paid_social
+CM-51853,CMP-126,L-9900,Met at Booth,True,2026-08-14,events,event
+CM-51854,CMP-119,L-9901,Converted,True,2026-05-24,linkedin,paid_social
+CM-51855,CMP-133,L-9901,Converted,True,2026-09-26,linkedin,paid_social
+CM-51856,CMP-111,L-9902,Demo Requested,True,2026-02-13,google,cpc
+CM-51857,CMP-132,L-9902,Converted,True,2026-08-16,linkedin,paid_social
+CM-51858,CMP-110,L-9903,Referred,True,2026-03-19,partner,referral
+CM-51859,CMP-129,L-9904,Watched On-Demand,True,2026-09-27,webinar_platform,webinar
+CM-51860,CMP-126,L-9904,Attended,True,2026-09-28,events,event
+CM-51861,CMP-135,L-9904,Replied,True,2026-09-30,salesloft,email
+CM-51862,CMP-128,L-9904,Attended,True,2026-09-30,webinar_platform,webinar
+CM-51863,CMP-119,L-9905,Converted,True,2026-06-23,linkedin,paid_social
+CM-51865,CMP-126,L-9905,Attended,True,2026-07-22,events,event
+CM-51864,CMP-133,L-9905,Converted,True,2026-08-22,linkedin,paid_social

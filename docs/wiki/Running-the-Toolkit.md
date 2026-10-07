@@ -26,6 +26,16 @@ No API keys needed. The AI workflows use a deterministic mock model by default. 
 | `python -m gtm_engineer.ai_research.account_research` | 🟦 | AI briefs → review queue + audit log |
 | `python -m gtm_engineer.funnel_analytics.funnel_report` | 🟦 | Cohort funnel, velocity, penetration, outlook, narrative |
 | `python -m gtm_engineer.sdr_capacity.capacity_model` | 🟦 | Headcount math with sensitivity |
+| `python -m gtm_engineer.marketing_ops.campaign_report` | 🟦 | Channel ROI, attribution, campaign and consent hygiene |
+| `python -m gtm_engineer.marketing_ops.demand_plan` | 🟦 | Leads and MQLs needed by channel |
+| `python -m gtm_strategy_ops.sales_leadership.vp_brief [--mode full]` | 🟩 | VP of Sales snapshot or full brief → `outputs/vp_brief_*.md` |
+| `python -m gtm_strategy_ops.sales_leadership.all_hands [--days 1]` | 🟩 | All-hands inputs for last quarter, or "what happened today" |
+| `python -m gtm_strategy_ops.sales_leadership.stage_velocity` | 🟩 | Stage bottlenecks, drivers, deals stuck now |
+| `python -m gtm_strategy_ops.sales_planning.capacity_plan` | 🟩 | Capacity vs plan, hiring plan |
+| `python -m gtm_strategy_ops.sales_planning.quota_plan` | 🟩 | Quota vs capacity, next year's proposal |
+| `python -m gtm_strategy_ops.sales_planning.territory_plan` | 🟩 | Account tiers, named books, balance |
+| `python -m gtm_strategy_ops.sales_planning.pipeline_distribution` | 🟩 | Per-rep load, coverage, concentration; routing priority |
+| `python -m gtm_strategy_ops.sales_planning.request_triage` | 🟩 | CRM request SLA, queue order, duplicates |
 | `python -m gtm_strategy_ops.pipeline_analytics.pipeline_report` | 🟩 | Coverage, segmentation, win rates, aging, narrative |
 | `python -m gtm_strategy_ops.forecasting.forecast_accuracy` | 🟩 | Accuracy and bias by region |
 | `python -m gtm_strategy_ops.ai_deal_risk.deal_risk` | 🟩 | Risk queue + AI region commentary |

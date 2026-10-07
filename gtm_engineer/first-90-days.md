@@ -20,11 +20,12 @@ Principle: **measure before building.** Every change in days 31–90 has a basel
 - Ship **routing v2** (rules R1–R7, with reasons stamped on the record), replay-tested in a sandbox against the last 200 MQLs.
 - Re-weight scoring from the back-test. Turn on the two-axis grade (fit × intent).
 - Tune the Clay waterfall so Lusha only runs on B+ fit economic-buyer personas. Report credit spend per pipeline $.
-
+- Agree the line with Marketing Ops: [who owns what](marketing_ops/README.md#who-owns-what), campaign naming and UTM standards ([spec](marketing_ops/campaign-operations-spec.md)), and one [request queue](../gtm_strategy_ops/sales_planning/crm-request-intake.md) for Salesforce and Salesloft changes.
 ## Days 61–90: First AI workflow in production
 
 - **Account research brief** for SDRs: shadow mode for 2 weeks, then assisted. Eval set in CI, with the HITL acceptance rate tracked.
 - Baselines already captured: SDR research minutes per account, MQL→SQL conversion, speed-to-lead.
+- **Demand plan** with Marketing: source mix and leads-by-channel targets for next quarter ([demand plan](marketing_ops/demand_plan.py)).
 - Day 90 readout: realized gains against those baselines, and the next two workflows prioritized (qualification assist, routing exceptions).
 
 ## What I'd ask in week one

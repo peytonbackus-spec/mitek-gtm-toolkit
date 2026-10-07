@@ -18,3 +18,6 @@ Design choices, and the reasoning behind each, so they can be defended or change
 | 12 | **Mock LLM by default, live mode opt-in** | Runs and tests anywhere with no key and no data leaving the machine | Live-only |
 | 13 | **Synthetic, seeded data with planted patterns** | Reproducible demos with real findings (mis-weighted segment, regional forecast bias) | Random data with no signal |
 | 14 | **Python + SQL return identical numbers (tested)** | One definition per metric across both roles | Separate reporting stacks |
+| 15 | **Leadership reporting has two depths from one set of numbers (snapshot, full)** | Leaders differ on how much they want; a snapshot that can be expanded keeps one definition and ends "whose number is right" | Separate dashboards per audience |
+| 16 | **Capacity from ramped rep equivalents × steady-state productivity, then quota above it by a stated over-assignment** | Quota is a target, productivity is what reps sell; planning on quota hides under-capacity | Headcount × quota |
+| 17 | **One request queue for Salesforce, Clari and Salesloft changes, with change classes and SLAs** | A field change can break a sync nobody told Marketing Ops about; one door shows the collision before release | Separate queues per team |

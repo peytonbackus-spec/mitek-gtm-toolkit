@@ -72,3 +72,15 @@ The two Mitek postings share a template. Both have Analytics, AI & Automation, a
 | *Pref:* SQL, BI, warehouse | *Pref:* SQL, BI, warehouse | ▶️ SQL in both tracks |
 | *Pref:* GTM app / agent development | *Pref:* GTM app / internal tool development | This repo |
 | *Pref:* enterprise ABM in fintech or cybersecurity | *Pref:* Salesloft, Lusha, Sales Nav familiarity | Certa.ai (third-party risk management) |
+
+## Beyond the postings: leadership reporting, planning and Marketing Ops
+
+Added after the first version, because the day-to-day work around these roles includes them. Not tied to a posting line.
+
+| Area | Answered by |
+|---|---|
+| 🟩 What the VP of Sales needs: the number, reps, industries, bottlenecks, hot and at-risk deals | [`sales_leadership/`](gtm_strategy_ops/sales_leadership/README.md) ▶️ · [intake questions](gtm_strategy_ops/sales_leadership/vp-intake.md) 📐 |
+| 🟩 Sales all-hands inputs | [`all_hands.py`](gtm_strategy_ops/sales_leadership/all_hands.py) ▶️ |
+| 🟩 Capacity, quota, territory, pipeline distribution | [`sales_planning/`](gtm_strategy_ops/sales_planning/README.md) ▶️ |
+| 🟩🟦 Request intake for Salesforce, Clari and Salesloft changes | [process](gtm_strategy_ops/sales_planning/crm-request-intake.md) 📐 · [`request_triage.py`](gtm_strategy_ops/sales_planning/request_triage.py) ▶️ |
+| 🟦 Partnering with Marketing Ops: naming, UTMs, consent, attribution, demand plan | [`marketing_ops/`](gtm_engineer/marketing_ops/README.md) ▶️ + 📐 |

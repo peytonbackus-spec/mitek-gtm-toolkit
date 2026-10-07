@@ -12,6 +12,7 @@ Principle: **the forecast is the product.** Every change in days 31–90 has to 
 | 1–2 | Run the [DQ monitor](../shared_core/data_quality/dq_monitor.py) opportunity rules against live Salesforce. Reconcile Clari ↔ Salesforce totals by category. | Opportunity DQ baseline; sync gaps |
 | 2–3 | Pull the last 4 quarters of Clari snapshots. Compute week-4, 8 and 12 accuracy and bias by region ([method](forecasting/forecast_accuracy.py)). | Accuracy baseline; bias pattern by region |
 | 3 | Review stage definitions against how deals actually move: time in stage, skipped stages, Commit in early stages. | Gap list against the [target stage design](opportunity_lifecycle/stage-definitions.md) |
+| 1 | Hold the [VP of Sales intake](sales_leadership/vp-intake.md) 1:1: snapshot or full, cadence, definitions. | Agreed brief format; first weekly [brief](sales_leadership/vp_brief.py) by week 3 |
 | 4 | Renewal book review with CS: next 180 days of renewals, health inputs available, churn reasons from the last 4 quarters. | First renewal-risk list; data available for the health model |
 
 ## Days 31–60: Fix the foundation
@@ -20,11 +21,13 @@ Principle: **the forecast is the product.** Every change in days 31–90 has to 
 - Split forecasts in Clari: new business / renewals / product line / partner.
 - Make closed-lost and churn reasons required, with the [taxonomy](renewals/closed-lost-and-churn-taxonomy.md). Run the first monthly loss review.
 - Formalize the partner-sourced workflow (deal registration, conflict rule, attribution) with the channel lead.
+- Turn on field history for StageName and CloseDate. Run [stage velocity](sales_leadership/stage_velocity.py) and the [deal board](sales_leadership/deal_board.py) before every forecast call.
 
 ## Days 61–90: First AI workflow in the forecast
 
 - **Deal-risk flags + forecast commentary:** shadow mode for 2 forecast cycles, then shown to managers before Tuesday calls. Every flag goes through HITL. Track the % of flags managers agree with.
 - **Renewal health v1** live for the T-180 window, with AI briefs for At Risk accounts routed to CS and AE.
+- **Planning for next year:** [capacity and hiring plan, quota vs capacity, territory balance](sales_planning/README.md) on real productivity and ramp history, before the planning cycle starts.
 - Day 90 readout: the accuracy baseline vs current; flag precision; manager prep time; renewal risk caught early.
 
 ## What I'd ask in week one

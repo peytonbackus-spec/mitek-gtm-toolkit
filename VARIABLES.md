@@ -32,3 +32,7 @@ My base toolkit is company-agnostic and uses bracketed variables like `[COMPANY_
 ## Changing a variable
 
 Edit `config/mitek.yaml` and re-run `make demo`. Segment weights, persona points, stage limits, SLAs, health weights and quota all flow through. Nothing is hardcoded in the scripts.
+
+## Added with the leadership, planning and Marketing Ops modules
+
+New config blocks in [`config/mitek.yaml`](config/mitek.yaml): `sales_team` (AE roster and ramp), `sales_planning` (bookings plan, territory, request SLAs), `sales_leadership` (win-rate sample size, hot and slipping deal rules) and `marketing_ops` (naming, UTMs, attribution, consent, demand-plan mix). All are `[ASSUME]` and sized to the synthetic data; replace with the real roster, plan and Marketing Ops conventions in the first 30 days. The generic toolkit's `[MARKETING_AUTOMATION]` variable is left generic here because Mitek's platform is not named in the postings.

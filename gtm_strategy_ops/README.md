@@ -38,6 +38,10 @@ flowchart LR
 | Partner with sales leadership on execution discipline | [Stage aging + hygiene by owner](pipeline_analytics/pipeline_report.py), [deal-risk queue](ai_deal_risk/deal_risk.py) | ▶️ runnable |
 | Renewal processes and partner-sourced opportunity workflows | [Renewal process](renewals/renewal-process.md), [partner workflow](partner_ops/partner-sourced-opportunity-workflow.md) | 📐 spec |
 | Closed-lost and churn insights | [`closed_lost_analysis.py`](renewals/closed_lost_analysis.py), [taxonomy](renewals/closed-lost-and-churn-taxonomy.md) | ▶️ + 📐 |
+| VP of Sales reporting: snapshot or full brief, rep scorecard, industries, stage bottlenecks, deal board | [`sales_leadership/`](sales_leadership/README.md) | ▶️ tested |
+| Sales all-hands inputs (wins, recognition, good and bad, focus) | [`all_hands.py`](sales_leadership/all_hands.py) | ▶️ tested |
+| Capacity, quota, territory and pipeline distribution | [`sales_planning/`](sales_planning/README.md) | ▶️ tested |
+| Salesforce / Clari / Salesloft request intake, SLAs and release path | [process](sales_planning/crm-request-intake.md), [`request_triage.py`](sales_planning/request_triage.py) | ▶️ + 📐 |
 | Operational partner to sales, finance, CS | [Forecast cadence (finance sync)](forecasting/forecast-cadence.md), [first 90 days](first-90-days.md) | 📐 plan |
 | *Preferred:* Clari Copilot / conversation intelligence | [Copilot trackers + EB detection](clari_admin/clari-configuration-spec.md#clari-copilot-conversation-intelligence) | 📐 spec |
 | *Preferred:* SQL, BI, warehouse reporting | [`pipeline_coverage.sql`](pipeline_analytics/sql/pipeline_coverage.sql) | ▶️ runnable |

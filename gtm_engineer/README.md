@@ -39,6 +39,8 @@ flowchart LR
 | Continuously improve scoring using conversion outcomes and fit signals | [`calibrate_scoring.py`](lead_scoring/calibrate_scoring.py) | ▶️ runnable |
 | Qualification standards across Marketing, SDRs, AEs | [SQL qualification standard](lead_lifecycle/lead-lifecycle-spec.md#qualification-standard-for-sql-shared-by-marketing-sdr-and-ae) | 📐 spec |
 | Administer Salesforce, Salesloft, Lusha, Clay, Nooks, Qualified, Sales Nav | [Clay + Lusha](platform_admin/clay-enrichment-waterfall.md), [Salesloft · Nooks · Qualified · Sales Nav](platform_admin/salesloft-nooks-qualified-salesnav.md) | 📐 spec |
+| Marketing Ops partnership: campaign taxonomy, UTMs, consent, attribution, channel ROI, RACI | [`marketing_ops/`](marketing_ops/README.md), [campaign ops spec](marketing_ops/campaign-operations-spec.md) | ▶️ + 📐 |
+| Demand plan: leads and MQLs needed by channel to hit the bookings plan | [`demand_plan.py`](marketing_ops/demand_plan.py) | ▶️ tested |
 | Operationalize ICP segmentation and target-account strategies | [🟪 ICP & personas](../shared_core/context/icp-and-personas.md), [`config/mitek.yaml`](../config/mitek.yaml) | 📐 + config |
 | Partner with SDR leadership on capacity and performance | [`sdr_capacity/capacity_model.py`](sdr_capacity/capacity_model.py), [SLA monitor](lead_lifecycle/lifecycle_sla.py) | ▶️ runnable |
 | Operational partner to Marketing, Sales, GTM Systems | [First 90 days](first-90-days.md) | 📐 plan |

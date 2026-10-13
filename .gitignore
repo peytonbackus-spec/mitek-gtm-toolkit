@@ -4,3 +4,9 @@ __pycache__/
 .env
 outputs/
 .DS_Store
+
+# Mitek panel brief: candidate brief + data pack are never committed
+gtm_strategy_ops/panel_brief/_private/
+node_modules/
+.venv/
+.next/
